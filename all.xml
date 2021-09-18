@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Sep 2021 19:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 19:38:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -838,6 +838,102 @@
             <pubDate>Sat, 18 Sep 2021 19:35:57 GMT</pubDate>
             <content:encoded><![CDATA[21.09.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffd61d8b4968c4f458716264e943f808e1541748457281" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[범죄의 여왕 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=95503</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=95503</guid>
+            <pubDate>Sat, 18 Sep 2021 19:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F25b423f8a759858ef7002a489f06af9937f6f8f5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[팅커 테일러 솔저 스파이 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=53608</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=53608</guid>
+            <pubDate>Sat, 18 Sep 2021 18:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02c233ed03893e702214de4692d6f1cc0906663d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 시크릿 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=98769</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=98769</guid>
+            <pubDate>Sat, 18 Sep 2021 19:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8ffaee0f5369a7734c428bc59173a6d2cf52d92d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[트랜짓 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=69618</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=69618</guid>
+            <pubDate>Sat, 18 Sep 2021 19:35:57 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F12242A475087AA1709" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[히트맨 : 앱솔루션 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=106097</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=106097</guid>
+            <pubDate>Sat, 18 Sep 2021 19:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F48d82689df97e9c812923ae9821876b8b17e2ab8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[노예 12년 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=70053</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=70053</guid>
+            <pubDate>Sat, 18 Sep 2021 19:35:57 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F84ddf91bcde66c54bc7c10e9f5ef74e6ee762ad8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴 스텝업: 어반댄스 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=97001</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=97001</guid>
+            <pubDate>Sat, 18 Sep 2021 19:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F75741b94c1bdcfe4545006d9f3ec4f342f8f8dd9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[결혼하지 않아도 괜찮을까 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=75280</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=75280</guid>
+            <pubDate>Sat, 18 Sep 2021 19:35:57 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F575fe29c0ff082938b972cec039160ce6281efe5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[낯선 가족 : 인 이어두 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135100</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135100</guid>
+            <pubDate>Sat, 18 Sep 2021 19:38:07 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9200246ed491da8e2bcbf2b3de2b89d95c2b10c9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[널 데리고 갈게 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138008</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138008</guid>
+            <pubDate>Sat, 18 Sep 2021 19:38:07 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd3a8c7b2145c4aa2bd736e6777a1b91e1577889337485" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[맨 인 더 다크 2 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150063</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150063</guid>
+            <pubDate>Sat, 18 Sep 2021 19:38:07 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdcfa862a88736442d006e5d198dfc161d997b0d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[레미니센스 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151315</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151315</guid>
+            <pubDate>Sat, 18 Sep 2021 19:38:07 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3b72c91d5a32de281ff8224830482a733df9cd68" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
