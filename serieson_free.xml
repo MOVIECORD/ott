@@ -4,7 +4,7 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Sep 2021 14:40:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 15:02:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -140,12 +140,12 @@
             <enclosure url="https://movie-phinf.pstatic.net/20111222_59/1324562268230SdD5s_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[당신, 거기 있어줄래요]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=369110</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=369110</guid>
-            <pubDate>Sun, 19 Sep 2021 14:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[9월 19일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20161124_88/1479951959050RqcvW_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[삼진그룹 영어토익반]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=409098</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=409098</guid>
+            <pubDate>Sun, 19 Sep 2021 15:01:12 GMT</pubDate>
+            <content:encoded><![CDATA[9월 22일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201021_273/16032618054109Yvje_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
