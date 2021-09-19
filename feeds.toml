@@ -15,6 +15,7 @@ titleSelector = "a strong"
 linkSelector = "a"
 imageSelector = "a img"
 contentSelector = "strong.payment"
+waitUntil = "networkidle"
 
 [daummovie_netflix_c]
 title = "[다음영화] 넷플릭스 ─ 종료예정"
