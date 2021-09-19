@@ -1,3 +1,12 @@
+[serieson_free]
+title = "[시리즈온] 이주의 무료영화"
+url = "https://serieson.naver.com/movie/freeMovieList.nhn"
+entrySelector = "ul.lst_freemovie li"
+titleSelector = "strong.freemovie_title"
+linkSelector = "a"
+imageSelector = "a img"
+contentSelector = "span.freemovie_deadline"
+
 [daummovie_netflix_c]
 title = "[다음영화] 넷플릭스 ─ 종료예정"
 url = "https://movie.daum.net/premovie/netflix?flag=C"
