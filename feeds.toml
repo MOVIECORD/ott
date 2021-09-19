@@ -7,6 +7,15 @@ linkSelector = "a"
 imageSelector = "a img"
 contentSelector = "span.freemovie_deadline"
 
+[serieson_sale]
+title = "[시리즈온] 할인 영화관"
+url = "https://serieson.naver.com/movie/categoryList.nhn?categoryCode=300003"
+entrySelector = "ul.lst_thum.v1 li"
+titleSelector = "strong"
+linkSelector = "a"
+imageSelector = "a img"
+contentSelector = "strong.payment"
+
 [daummovie_netflix_c]
 title = "[다음영화] 넷플릭스 ─ 종료예정"
 url = "https://movie.daum.net/premovie/netflix?flag=C"
