@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/watcha?flag=Y</id>
-    <title>[다음영화] 왓챠 ─ 공개예정</title>
-    <updated>2021-09-21T23:14:13.065Z</updated>
+    <id>https://movie.daum.net/premovie/theater?flag=Y</id>
+    <title>[다음영화] 영화관 ─ 현재예정</title>
+    <updated>2021-09-21T23:14:12.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://movie.daum.net/premovie/favicon.ico</icon>
 </feed>
