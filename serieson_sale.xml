@@ -4,7 +4,7 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Sep 2021 14:09:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Sep 2021 15:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -100,7 +100,7 @@
             <link>https://serieson.naver.com/movie/detail.nhn?productNo=6558319</link>
             <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6558319</guid>
             <pubDate>Sun, 19 Sep 2021 15:01:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span>4,450</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <content:encoded><![CDATA[<span>3,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210730_278/1627616296169skn2n_JPEG/DP_6132119_TC_1400x2100_DP_6132118_DreamHorse_2021_2000x3000_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -148,7 +148,7 @@
             <link>https://serieson.naver.com/movie/detail.nhn?productNo=6464497</link>
             <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6464497</guid>
             <pubDate>Sun, 19 Sep 2021 15:01:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <content:encoded><![CDATA[<span>1,400</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210730_278/1627616296169skn2n_JPEG/DP_6132119_TC_1400x2100_DP_6132118_DreamHorse_2021_2000x3000_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
