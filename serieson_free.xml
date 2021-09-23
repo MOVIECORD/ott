@@ -4,9 +4,45 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 14:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 15:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[톰하디의 도망자]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=339791</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=339791</guid>
+            <pubDate>Thu, 23 Sep 2021 15:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[10월 7일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20130122_247/1358838343543VXk06_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+												
+											
+										
+										
+										
+											나폴리: 위험한 유혹]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=261583</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=261583</guid>
+            <pubDate>Thu, 23 Sep 2021 15:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[10월 7일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20181207_199/1544163686758ROjTI_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+												
+											
+										
+										
+										
+											크리미널 게임: 보석 사기단]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=267595</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=267595</guid>
+            <pubDate>Thu, 23 Sep 2021 15:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[10월 7일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20181221_107/154537436479664zkb_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#살아있다]]></title>
             <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=388893</link>
@@ -62,14 +98,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20191024_215/1571900079078PNazL_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[워 위드 그랜파]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=442727</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=442727</guid>
-            <pubDate>Sun, 19 Sep 2021 14:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[9월 23일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210208_44/1612761710293xNNIG_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[19
 												
 											
@@ -116,22 +144,6 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210202_209/1612232726564r1sKY_JPEG/RomanHoliday_KR_800x1200.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우리가족]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=264119</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=264119</guid>
-            <pubDate>Sun, 19 Sep 2021 14:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[9월 23일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20140702_176/1404271329538jQefS_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑과 영혼]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=88000</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=88000</guid>
-            <pubDate>Sun, 19 Sep 2021 14:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[9월 23일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20171206_274/1512521901491RlovP_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[딥 임팩트]]></title>
             <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=86346</link>
             <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=86346</guid>
@@ -140,10 +152,10 @@
             <enclosure url="https://movie-phinf.pstatic.net/20111222_59/1324562268230SdD5s_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[톰하디의 도망자]]></title>
+            <title><![CDATA[팔로우 미]]></title>
             <link>https://serieson.naver.com/movie/freeMovieList.nhn</link>
             <guid>https://serieson.naver.com/movie/freeMovieList.nhn</guid>
-            <pubDate>Thu, 23 Sep 2021 14:08:43 GMT</pubDate>
+            <pubDate>Thu, 23 Sep 2021 15:09:16 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
     </channel>
