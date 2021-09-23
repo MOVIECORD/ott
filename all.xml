@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 08:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 09:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -143,7 +143,7 @@
             <title><![CDATA[톰하디의 도망자 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/ott/all.xml</link>
             <guid>https://MOVIECORD.github.io/ott/all.xml</guid>
-            <pubDate>Thu, 23 Sep 2021 08:10:42 GMT</pubDate>
+            <pubDate>Thu, 23 Sep 2021 09:11:00 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -1136,20 +1136,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab42f8d99b9b6a6bceb169917a3a0c2c222e942" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[종착역 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145343</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145343</guid>
-            <pubDate>Tue, 21 Sep 2021 23:29:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe30e0fe01a3353ed9a68f896c073101cbc1ff634" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[최선의 삶 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=136365</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=136365</guid>
             <pubDate>Thu, 23 Sep 2021 02:29:19 GMT</pubDate>
             <content:encoded><![CDATA[21.09.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58e6b59e744961d1e5cfcb4aedc92bc9ce35bda0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[종착역 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145343</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145343</guid>
+            <pubDate>Tue, 21 Sep 2021 23:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe30e0fe01a3353ed9a68f896c073101cbc1ff634" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아-하: 테이크 온 미 (다음영화 영화관 ─ 현재상영)]]></title>
