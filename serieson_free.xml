@@ -4,7 +4,7 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 10:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 11:09:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -87,7 +87,7 @@
             <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=428766</guid>
             <pubDate>Sun, 19 Sep 2021 14:39:37 GMT</pubDate>
             <content:encoded><![CDATA[9월 24일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210210_291/1612940296044U0PKH_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_31/1632481266455FBBUT_PNG/ONPOSTER_3..png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[82년생 김지영]]></title>
@@ -95,7 +95,7 @@
             <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=332790</guid>
             <pubDate>Sun, 19 Sep 2021 14:39:37 GMT</pubDate>
             <content:encoded><![CDATA[9월 24일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20191024_215/1571900079078PNazL_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_253/16324813950018PNWL_PNG/ONPOSTER_17.82_.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[19
@@ -155,7 +155,7 @@
             <title><![CDATA[팔로우 미]]></title>
             <link>https://serieson.naver.com/movie/freeMovieList.nhn</link>
             <guid>https://serieson.naver.com/movie/freeMovieList.nhn</guid>
-            <pubDate>Fri, 24 Sep 2021 10:14:21 GMT</pubDate>
+            <pubDate>Fri, 24 Sep 2021 11:08:08 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
     </channel>
