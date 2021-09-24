@@ -4,7 +4,7 @@
         <title>[시리즈온] 가치봄 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 15:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 16:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,7 +226,7 @@
             <pubDate>Sun, 19 Sep 2021 18:34:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="">구매</em>
                     <strong class="payment"><span>6,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201021_273/16032618054109Yvje_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_209/1632481454658Rw4YU_PNG/ONPOSTER_1._.png?type=f102_138" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[HD(1080)
@@ -291,7 +291,7 @@
             <pubDate>Sun, 19 Sep 2021 18:34:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="">대여</em>
 					<strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201021_273/16032618054109Yvje_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_209/1632481454658Rw4YU_PNG/ONPOSTER_1._.png?type=f102_138" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[HD(1080)

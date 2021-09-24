@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 15:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 16:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -996,7 +996,7 @@
             <pubDate>Sun, 19 Sep 2021 18:34:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="">구매</em>
                     <strong class="payment"><span>6,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201021_273/16032618054109Yvje_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_209/1632481454658Rw4YU_PNG/ONPOSTER_1._.png?type=f102_138" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[HD(1080)
@@ -1061,7 +1061,7 @@
             <pubDate>Sun, 19 Sep 2021 18:34:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="">대여</em>
 					<strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201021_273/16032618054109Yvje_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_209/1632481454658Rw4YU_PNG/ONPOSTER_1._.png?type=f102_138" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[HD(1080)
@@ -1183,14 +1183,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e7a23dae3aae4c22602237bd81dbe95d85eb855" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[죽을 때까지 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151682</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151682</guid>
-            <pubDate>Tue, 21 Sep 2021 23:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6742e6f97365b3f781d3dd59e6ac02384d153da3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[종착역 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145343</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145343</guid>
@@ -1199,12 +1191,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe30e0fe01a3353ed9a68f896c073101cbc1ff634" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[좋은 사람 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145344</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145344</guid>
-            <pubDate>Fri, 24 Sep 2021 09:10:12 GMT</pubDate>
+            <title><![CDATA[죽을 때까지 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151682</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151682</guid>
+            <pubDate>Tue, 21 Sep 2021 23:29:02 GMT</pubDate>
             <content:encoded><![CDATA[21.09.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd153672db1d019a70655713d337ca4ffb9f641b5" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6742e6f97365b3f781d3dd59e6ac02384d153da3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[말리그넌트 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1213,6 +1205,14 @@
             <pubDate>Tue, 21 Sep 2021 23:29:02 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F91f95c53e40938959224392447a8870b8cb7eb30" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[좋은 사람 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145344</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145344</guid>
+            <pubDate>Fri, 24 Sep 2021 09:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd153672db1d019a70655713d337ca4ffb9f641b5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[뱅드림! 로젤리아 에피소드Ⅱ: 송 아이 엠 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1421,14 +1421,6 @@
             <pubDate>Fri, 24 Sep 2021 01:54:44 GMT</pubDate>
             <content:encoded><![CDATA[21.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd5b2eb81d5d8609211a3b923f80757bade7a4d64" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[바디 캠 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141824</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141824</guid>
-            <pubDate>Sat, 18 Sep 2021 18:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8d3f95f1f9f330a35a81be650b2baab09e7eda9b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[블랙 크리스마스 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1813,14 +1805,6 @@
             <pubDate>Sat, 18 Sep 2021 18:10:44 GMT</pubDate>
             <content:encoded><![CDATA[21.10.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2103E85050DC714F28" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[릴리와 찌르레기 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153570</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153570</guid>
-            <pubDate>Sat, 18 Sep 2021 18:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffe79d672620f276ac836eb452a26eb7182c0a9c5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아무도 살아서 나갈 수 없다 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
