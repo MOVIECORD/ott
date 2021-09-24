@@ -4,9 +4,59 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 14:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 15:11:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팔로우 미 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=406313</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=406313</guid>
+            <pubDate>Fri, 24 Sep 2021 15:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[10월 8일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201012_100/1602487239058GEb86_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+												
+											
+										
+										
+										
+											악플러 죽이기 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=394030</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=394030</guid>
+            <pubDate>Fri, 24 Sep 2021 15:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[10월 8일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200715_67/1594775565557YwQ9I_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+												
+											
+										
+										
+										
+											나에게 오라 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=401654</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=401654</guid>
+            <pubDate>Fri, 24 Sep 2021 15:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[10월 8일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111222_39/13245280962677EkO8_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+												
+											
+										
+										
+										
+											뉴니스 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=212063</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=212063</guid>
+            <pubDate>Fri, 24 Sep 2021 15:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[10월 8일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20171018_102/1508294574859VDc5w_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[톰하디의 도망자 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=339791</link>
@@ -82,22 +132,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20160825_249/1472101047700ksnwC_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아이 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=428766</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=428766</guid>
-            <pubDate>Sun, 19 Sep 2021 14:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[9월 24일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_31/1632481266455FBBUT_PNG/ONPOSTER_3..png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[82년생 김지영 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=332790</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=332790</guid>
-            <pubDate>Sun, 19 Sep 2021 14:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[9월 24일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_253/16324813950018PNWL_PNG/ONPOSTER_17.82_.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[19
 												
 											
@@ -142,21 +176,6 @@
             <pubDate>Sun, 19 Sep 2021 14:39:37 GMT</pubDate>
             <content:encoded><![CDATA[9월 30일까지]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210202_209/1612232726564r1sKY_JPEG/RomanHoliday_KR_800x1200.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딥 임팩트 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=86346</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=86346</guid>
-            <pubDate>Sun, 19 Sep 2021 14:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[9월 24일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_59/1324562268230SdD5s_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팔로우 미 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://MOVIECORD.github.io/ott/all.xml</link>
-            <guid>https://MOVIECORD.github.io/ott/all.xml</guid>
-            <pubDate>Fri, 24 Sep 2021 14:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[HD(1080)
@@ -463,18 +482,6 @@
 			
 			
 			
-			아이 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6011896</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6011896</guid>
-            <pubDate>Sun, 19 Sep 2021 15:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210210_291/1612940296044U0PKH_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
 			종이꽃 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/movie/detail.nhn?productNo=5655076</link>
             <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5655076</guid>
@@ -757,6 +764,18 @@
             <pubDate>Wed, 22 Sep 2021 16:13:16 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190805_121/1564969695835Iq9Qc_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HD(1080)
+			
+			자막
+			
+			원더랜드 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?productNo=4459832</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=4459832</guid>
+            <pubDate>Fri, 24 Sep 2021 15:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190712_173/1562896376665H2uxI_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HD(1080)
