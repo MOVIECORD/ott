@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Sep 2021 02:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Sep 2021 03:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,20 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9db1b2ab48843490fa9705cbae8389e6c3bd9876" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[바쿠라우]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=131393</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=131393</guid>
-            <pubDate>Sat, 25 Sep 2021 01:52:59 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F76636cce1ab626cb5fb7509ac80b64598a69f4d3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[좋은 사람]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145344</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145344</guid>
             <pubDate>Sat, 25 Sep 2021 02:24:59 GMT</pubDate>
             <content:encoded><![CDATA[21.09.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd153672db1d019a70655713d337ca4ffb9f641b5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[바쿠라우]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=131393</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=131393</guid>
+            <pubDate>Sat, 25 Sep 2021 01:52:59 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F76636cce1ab626cb5fb7509ac80b64598a69f4d3" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
