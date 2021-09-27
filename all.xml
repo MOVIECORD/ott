@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Sep 2021 15:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Sep 2021 16:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1448,14 +1448,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[죽을 때까지 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151682</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151682</guid>
-            <pubDate>Tue, 21 Sep 2021 23:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6742e6f97365b3f781d3dd59e6ac02384d153da3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=144508</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144508</guid>
@@ -1470,6 +1462,14 @@
             <pubDate>Thu, 23 Sep 2021 02:29:19 GMT</pubDate>
             <content:encoded><![CDATA[21.09.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58e6b59e744961d1e5cfcb4aedc92bc9ce35bda0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[죽을 때까지 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151682</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151682</guid>
+            <pubDate>Tue, 21 Sep 2021 23:29:02 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6742e6f97365b3f781d3dd59e6ac02384d153da3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 포켓몬스터: 정글의 아이, 코코 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1504,6 +1504,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe30e0fe01a3353ed9a68f896c073101cbc1ff634" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[아임 유어 맨 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148298</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148298</guid>
+            <pubDate>Tue, 21 Sep 2021 23:29:02 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc78e33cf82eba3d7c203cc7cd2540c6bab00a488" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[말리그넌트 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152308</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152308</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Tue, 21 Sep 2021 23:29:02 GMT</pubDate>
             <content:encoded><![CDATA[21.08.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9db1b2ab48843490fa9705cbae8389e6c3bd9876" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아임 유어 맨 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148298</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148298</guid>
-            <pubDate>Tue, 21 Sep 2021 23:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc78e33cf82eba3d7c203cc7cd2540c6bab00a488" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[나의 흑역사 로맨티카 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -2104,14 +2104,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2103E85050DC714F28" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[노예 12년 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=70053</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=70053</guid>
-            <pubDate>Mon, 27 Sep 2021 05:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F84ddf91bcde66c54bc7c10e9f5ef74e6ee762ad8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[아무도 살아서 나갈 수 없다 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153581</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153581</guid>
@@ -2638,6 +2630,30 @@
             <pubDate>Sun, 19 Sep 2021 16:12:52 GMT</pubDate>
             <content:encoded><![CDATA[21.10.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa014f76319dd695914d7db99cca006c7cdbe13f4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[글래디에이터 - 템플 기사단 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=47785</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=47785</guid>
+            <pubDate>Mon, 27 Sep 2021 16:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa2d51a9edc99b4798b1cc0c880dc6b42da27cbff" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[립반윙클의 신부 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=101558</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=101558</guid>
+            <pubDate>Mon, 27 Sep 2021 16:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9e09d0beebc240a275192f9e9ec18c21b307a2ac" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[메리 미 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=106698</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=106698</guid>
+            <pubDate>Mon, 27 Sep 2021 16:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F499d3fc5a28d125a250d8a0476e517024a0e9200" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[우리가 죽기를 바라는 사람들 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
