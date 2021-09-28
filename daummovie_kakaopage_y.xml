@@ -4,17 +4,9 @@
         <title>[다음영화] 카카오페이지 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 15:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 16:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[우리가 죽기를 바라는 사람들]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153422</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153422</guid>
-            <pubDate>Fri, 24 Sep 2021 01:55:27 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff280a2fd0b5483d63b4160f190c52189e6cf2a1b" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[인질]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=127738</link>
