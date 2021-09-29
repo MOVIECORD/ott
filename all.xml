@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 23:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 00:31:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1568,46 +1568,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F91f95c53e40938959224392447a8870b8cb7eb30" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[007 노 타임 투 다이 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=119916</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=119916</guid>
-            <pubDate>Tue, 21 Sep 2021 23:29:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F186f314bb64a29ba726621a6e08207bcb49fb3ad" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[수색자 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152491</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152491</guid>
-            <pubDate>Tue, 21 Sep 2021 23:29:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8a367e79ab3c00e8f68c705fac9c5bd6bf81a873" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[용과 주근깨 공주 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152198</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152198</guid>
-            <pubDate>Tue, 21 Sep 2021 23:29:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ad31d50eedd1586704f0af288025b3f85917fdb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[스쿨 아웃 포에버 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152788</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152788</guid>
-            <pubDate>Tue, 21 Sep 2021 23:29:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F89017140c3aeb4423afc39cf869f7b4166442b9b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[금의위-명조자객 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152561</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152561</guid>
-            <pubDate>Tue, 21 Sep 2021 23:29:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd9fb73125225a3bd3e37ad110575450036371926" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[서유기: 재세요왕 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149884</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149884</guid>
@@ -1726,6 +1686,46 @@
             <pubDate>Tue, 28 Sep 2021 23:09:47 GMT</pubDate>
             <content:encoded><![CDATA[21.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2fefe482b7d6ad1f58606240abf7cc8e59cbb8f1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[여대괴담 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=129997</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=129997</guid>
+            <pubDate>Wed, 29 Sep 2021 00:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[21.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F180d2675a6f24039867e73b277f08ab51553155954947" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[범죄현장 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=136063</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=136063</guid>
+            <pubDate>Wed, 29 Sep 2021 00:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[21.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4515342a227df917d0c15e59fca04f6202c8b380" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[유물의 저주 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138097</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138097</guid>
+            <pubDate>Wed, 29 Sep 2021 00:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[21.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4b20d452a40332c6366c0b0cfc2d39c1a4b3993d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[위기의 주부 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153312</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153312</guid>
+            <pubDate>Wed, 29 Sep 2021 00:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[21.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd51c46ec7e23b45dca2c0f82a55eb5e1b8a9c67a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[우리가 죽기를 바라는 사람들 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153422</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153422</guid>
+            <pubDate>Wed, 29 Sep 2021 00:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[21.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff280a2fd0b5483d63b4160f190c52189e6cf2a1b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아나스타시야 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
