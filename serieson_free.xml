@@ -4,7 +4,7 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 04:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 05:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,12 +54,34 @@
             <enclosure url="https://movie-phinf.pstatic.net/20131105_185/1383644515842maJk5_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[19
+												
+											
+										
+										
+										
+											뉴니스]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=212063</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=212063</guid>
+            <pubDate>Fri, 24 Sep 2021 15:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[10월 8일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20171018_102/1508294574859VDc5w_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[팔로우 미]]></title>
             <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=406313</link>
             <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=406313</guid>
             <pubDate>Fri, 24 Sep 2021 15:09:39 GMT</pubDate>
             <content:encoded><![CDATA[10월 8일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20201012_100/1602487239058GEb86_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[톰하디의 도망자]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=339791</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=339791</guid>
+            <pubDate>Thu, 23 Sep 2021 15:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[10월 7일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20130122_247/1358838343543VXk06_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
@@ -88,28 +110,6 @@
             <pubDate>Fri, 24 Sep 2021 15:09:39 GMT</pubDate>
             <content:encoded><![CDATA[10월 8일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111222_39/13245280962677EkO8_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-												
-											
-										
-										
-										
-											뉴니스]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=212063</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=212063</guid>
-            <pubDate>Fri, 24 Sep 2021 15:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[10월 8일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20171018_102/1508294574859VDc5w_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[톰하디의 도망자]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=339791</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=339791</guid>
-            <pubDate>Thu, 23 Sep 2021 15:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[10월 7일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20130122_247/1358838343543VXk06_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
