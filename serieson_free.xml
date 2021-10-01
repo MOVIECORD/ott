@@ -4,9 +4,47 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 14:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 15:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[19
+												
+											
+										
+										
+										
+											비스티 보이즈]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=27726</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=27726</guid>
+            <pubDate>Fri, 01 Oct 2021 15:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[10월 15일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_189/1324574112430kwngz_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잡스]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=46115</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=46115</guid>
+            <pubDate>Fri, 01 Oct 2021 15:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[10월 15일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20130717_198/1374039657078wbGFI_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여중생A]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=237290</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=237290</guid>
+            <pubDate>Fri, 01 Oct 2021 15:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[10월 15일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180524_39/1527137544241WO6aW_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 생애 최고의 순간]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=20103</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=20103</guid>
+            <pubDate>Fri, 01 Oct 2021 15:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[10월 15일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_44/1324567143749EUxfp_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청년경찰]]></title>
             <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=369000</link>
@@ -138,44 +176,6 @@
             <pubDate>Thu, 23 Sep 2021 15:09:16 GMT</pubDate>
             <content:encoded><![CDATA[10월 7일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20181221_107/154537436479664zkb_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#살아있다]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=388893</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=388893</guid>
-            <pubDate>Sun, 19 Sep 2021 14:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[10월 1일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200624_189/1592965781317Puv47_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나, 다니엘 블레이크]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=167795</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=167795</guid>
-            <pubDate>Sun, 19 Sep 2021 14:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[10월 1일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20161117_246/1479344102925C9Ens_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너의 결혼식]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=248701</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=248701</guid>
-            <pubDate>Sun, 19 Sep 2021 14:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[10월 1일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180730_82/15329286640280Wu1t_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-												
-											
-										
-										
-										
-											죽여주는 여자]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=163167</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=163167</guid>
-            <pubDate>Sun, 19 Sep 2021 14:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[10월 1일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20160825_249/1472101047700ksnwC_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

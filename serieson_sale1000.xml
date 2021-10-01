@@ -4,7 +4,7 @@
         <title>[시리즈온] 천원관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 14:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 15:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -298,14 +298,14 @@
         <item>
             <title><![CDATA[HD(1080)
 			
-			자막
 			
-			원더랜드]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=4459832</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=4459832</guid>
-            <pubDate>Fri, 24 Sep 2021 15:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190712_173/1562896376665H2uxI_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+			
+			이타미 준의 바다]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?productNo=4456265</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=4456265</guid>
+            <pubDate>Fri, 01 Oct 2021 15:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190726_54/1564121933282oJsRJ_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
