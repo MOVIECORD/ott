@@ -4,7 +4,7 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 06:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 08:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,25 +76,26 @@
             <enclosure url="https://movie-phinf.pstatic.net/20201012_100/1602487239058GEb86_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[19
-												
-											
-										
-										
-										
-											비스티 보이즈]]></title>
-            <link>https://serieson.naver.com/movie/freeMovieList.nhn</link>
-            <guid>https://serieson.naver.com/movie/freeMovieList.nhn</guid>
-            <pubDate>Fri, 01 Oct 2021 06:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[오픈예정]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[톰하디의 도망자]]></title>
             <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=339791</link>
             <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=339791</guid>
             <pubDate>Thu, 23 Sep 2021 15:09:16 GMT</pubDate>
             <content:encoded><![CDATA[10월 7일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20130122_247/1358838343543VXk06_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+												
+											
+										
+										
+										
+											나폴리: 위험한 유혹]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=261583</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=261583</guid>
+            <pubDate>Fri, 01 Oct 2021 08:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[10월 7일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20181207_199/1544163686758ROjTI_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
