@@ -4,9 +4,22 @@
         <title>[시리즈온] 가치봄 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 08:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 09:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HD(1080)
+			
+			
+			
+			죽지않는 인간들의 밤 (가..]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6652944</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6652944</guid>
+            <pubDate>Fri, 01 Oct 2021 09:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201015_119/1602736778585gExQ2_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HD(1080)
 			
@@ -318,19 +331,6 @@
             <content:encoded><![CDATA[<em class="">구매</em>
                     <strong class="payment"><span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20151021_172/14453964781624mCqX_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			내가 죽던 날 (가치봄영화..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5826288</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5826288</guid>
-            <pubDate>Sun, 19 Sep 2021 18:34:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>7,150</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201020_93/1603162641893I0QVO_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
