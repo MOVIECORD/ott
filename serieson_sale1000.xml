@@ -4,7 +4,7 @@
         <title>[시리즈온] 천원관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Oct 2021 14:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 15:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,18 @@
             <pubDate>Sun, 19 Sep 2021 15:12:16 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20200825_91/1598342584173UBqqV_JPEG/BD_MNPO_.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HD(1080)
+			
+			
+			
+			소리꾼]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5315196</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5315196</guid>
+            <pubDate>Sat, 02 Oct 2021 15:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200609_147/15916872757408g73s_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HD(1080)
@@ -294,18 +306,6 @@
             <pubDate>Wed, 22 Sep 2021 16:13:16 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190805_121/1564969695835Iq9Qc_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			이타미 준의 바다]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=4456265</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=4456265</guid>
-            <pubDate>Fri, 01 Oct 2021 15:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[구매]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190726_54/1564121933282oJsRJ_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
