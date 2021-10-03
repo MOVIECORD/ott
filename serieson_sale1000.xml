@@ -4,7 +4,7 @@
         <title>[시리즈온] 천원관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Oct 2021 14:09:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Oct 2021 15:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,18 @@
             <pubDate>Sun, 19 Sep 2021 15:12:16 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200325_124/1585104977889IXrqR_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HD(1080)
+			
+			
+			
+			라라걸]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5097575</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5097575</guid>
+            <pubDate>Sun, 03 Oct 2021 15:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200325_18/1585107103550sVyVU_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HD(1080)
@@ -288,24 +300,12 @@
 			
 			
 			
-			메기]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=4581365</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=4581365</guid>
-            <pubDate>Sun, 19 Sep 2021 15:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[구매]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190903_89/1567472276429VUl4Y_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			벌새]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=4619774</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=4619774</guid>
-            <pubDate>Wed, 22 Sep 2021 16:13:16 GMT</pubDate>
+			와일드 로즈]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5865481</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5865481</guid>
+            <pubDate>Sun, 03 Oct 2021 15:09:41 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190805_121/1564969695835Iq9Qc_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20190923_94/1569206662506HNCPf_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
