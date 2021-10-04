@@ -6,6 +6,7 @@ titleSelector = "strong.freemovie_title"
 linkSelector = "a"
 imageSelector = "a img"
 contentSelector = "span.freemovie_deadline"
+onFail = "stale"
 
 [serieson_sale]
 title = "[시리즈온] 할인 영화관"
