@@ -4,7 +4,7 @@
         <title>[시리즈온] 천원관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 14:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 15:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -18,6 +18,18 @@
             <pubDate>Sun, 19 Sep 2021 15:12:16 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200922_187/1600766020751jJdur_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HD(1080)
+			
+			
+			
+			교실 안의 야크]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5715622</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5715622</guid>
+            <pubDate>Mon, 04 Oct 2021 15:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200910_92/1599711981305fdQMq_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HD(1080)
@@ -294,18 +306,6 @@
             <pubDate>Sun, 19 Sep 2021 15:12:16 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190927_8/1569550909963dbsdI_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			와일드 로즈]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5865481</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5865481</guid>
-            <pubDate>Sun, 03 Oct 2021 15:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190923_94/1569206662506HNCPf_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
