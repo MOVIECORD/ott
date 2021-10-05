@@ -4,7 +4,7 @@
         <title>[시리즈온] 천원관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 14:59:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 15:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,30 +203,6 @@
             <title><![CDATA[HD(1080)
 			
 			
-			더빙
-			수퍼 소닉]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=4930104</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=4930104</guid>
-            <pubDate>Sun, 19 Sep 2021 15:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200212_230/1581484545428fich8_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			자막
-			
-			수퍼 소닉]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=4930103</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=4930103</guid>
-            <pubDate>Sun, 19 Sep 2021 15:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200212_230/1581484545428fich8_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
 			
 			파비안느에 관한 진실]]></title>
             <link>https://serieson.naver.com/movie/detail.nhn?productNo=5062472</link>
@@ -306,6 +282,30 @@
             <pubDate>Sun, 19 Sep 2021 15:12:16 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190927_8/1569550909963dbsdI_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HD(1080)
+			
+			
+			
+			와일드 로즈]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5865481</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5865481</guid>
+            <pubDate>Tue, 05 Oct 2021 15:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190923_94/1569206662506HNCPf_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HD(1080)
+			
+			
+			
+			메기]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?productNo=4581365</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=4581365</guid>
+            <pubDate>Tue, 05 Oct 2021 15:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190903_89/1567472276429VUl4Y_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
