@@ -4,9 +4,41 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 00:32:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 01:54:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잡스]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=46115</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=46115</guid>
+            <pubDate>Fri, 01 Oct 2021 15:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[10월 15일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20130717_198/1374039657078wbGFI_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청년경찰]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=369000</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=369000</guid>
+            <pubDate>Thu, 30 Sep 2021 15:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[10월 7일까지]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_89/1632481714312nMxsI_PNG/ONPOSTER_22..png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 생애 최고의 순간]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=20103</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=20103</guid>
+            <pubDate>Fri, 01 Oct 2021 15:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[10월 15일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_44/1324567143749EUxfp_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[협녀, 칼의 기억]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=369150</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=369150</guid>
+            <pubDate>Thu, 30 Sep 2021 15:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[10월 14일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20150714_187/143683555351504YpN_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[19
 												
@@ -20,46 +52,6 @@
             <pubDate>Fri, 01 Oct 2021 15:10:03 GMT</pubDate>
             <content:encoded><![CDATA[10월 15일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_189/1324574112430kwngz_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잡스]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=46115</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=46115</guid>
-            <pubDate>Fri, 01 Oct 2021 15:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[10월 15일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20130717_198/1374039657078wbGFI_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여중생A]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=237290</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=237290</guid>
-            <pubDate>Fri, 01 Oct 2021 15:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[10월 15일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180524_39/1527137544241WO6aW_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 생애 최고의 순간]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=20103</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=20103</guid>
-            <pubDate>Fri, 01 Oct 2021 15:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[10월 15일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_44/1324567143749EUxfp_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청년경찰]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=369000</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=369000</guid>
-            <pubDate>Thu, 30 Sep 2021 15:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[10월 7일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_89/1632481714312nMxsI_PNG/ONPOSTER_22..png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[협녀, 칼의 기억]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=369150</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=369150</guid>
-            <pubDate>Thu, 30 Sep 2021 15:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[10월 14일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20150714_187/143683555351504YpN_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
@@ -90,6 +82,14 @@
             <pubDate>Thu, 30 Sep 2021 15:09:46 GMT</pubDate>
             <content:encoded><![CDATA[10월 14일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20131105_185/1383644515842maJk5_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여중생A]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=237290</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=237290</guid>
+            <pubDate>Fri, 01 Oct 2021 15:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[10월 15일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180524_39/1527137544241WO6aW_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
