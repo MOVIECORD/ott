@@ -1,336 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>[시리즈온] 가치봄 영화관</title>
+        <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 15:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 16:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			죽지않는 인간들의 밤 (가..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6652944</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6652944</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201015_119/1602736778585gExQ2_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[007 노 타임 투 다이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=119916</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=119916</guid>
+            <pubDate>Thu, 07 Oct 2021 16:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F316e880b27c97eddd0b6f0a42aff0cf1fecd960a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			미나리 (가치봄영화:시청..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6136305</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6136305</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>7,150</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210322_142/1616399817643EJ85O_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[보이스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137628</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137628</guid>
+            <pubDate>Thu, 07 Oct 2021 16:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			미나리 (가치봄영화:시청..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6136306</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6136306</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210322_142/1616399817643EJ85O_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[F20]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153408</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153408</guid>
+            <pubDate>Thu, 07 Oct 2021 16:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8e13d8b219069a201605eb28f7a204583f0c64b4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			저 산 너머 (가치봄영화:..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6118085</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6118085</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>1,400</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200508_282/1588913467024QCCAe_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[기적]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143697</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143697</guid>
+            <pubDate>Thu, 07 Oct 2021 16:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			이 안에 외계인이 있다 (..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6029150</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6029150</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210120_178/1611108833957tp0l2_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[쁘띠 마망]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148314</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148314</guid>
+            <pubDate>Thu, 07 Oct 2021 16:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F594684f7726d7e5d8ac0af59fbdb1c4ce32833fc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			이 안에 외계인이 있다 (..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6029151</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6029151</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>7,150</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210120_178/1611108833957tp0l2_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[그래비티]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=59546</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=59546</guid>
+            <pubDate>Thu, 07 Oct 2021 16:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc53f25fab367858eafb3fe1b319229f7ec019654" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			애비규환 (가치봄영화:시..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6029157</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6029157</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201026_228/1603688295184ISYNW_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[용과 주근깨 공주]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152198</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152198</guid>
+            <pubDate>Thu, 07 Oct 2021 16:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ad31d50eedd1586704f0af288025b3f85917fdb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			애비규환 (가치봄영화:시..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6029158</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6029158</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>6,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201026_228/1603688295184ISYNW_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[스틸워터]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150471</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150471</guid>
+            <pubDate>Thu, 07 Oct 2021 16:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e72bad76d59c13934515e5bc1a51e7f843183d1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			검사외전 (가치봄영화:시..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6011917</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6011917</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>1,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20160112_146/1452573577623EyUOh_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[샹치와 텐 링즈의 전설]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=129706</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=129706</guid>
+            <pubDate>Thu, 07 Oct 2021 16:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a64941e61f5a3fbcad8ef6bbf7edb073b35c01a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			검사외전 (가치봄영화:시..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6011918</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6011918</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20160112_146/1452573577623EyUOh_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144508</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144508</guid>
+            <pubDate>Thu, 07 Oct 2021 16:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab42f8d99b9b6a6bceb169917a3a0c2c222e942" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			더빙
-			필로미나의 기적 (가..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6008419</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6008419</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20140305_233/1393983494616B1I2E_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[극장판 포켓몬스터: 정글의 아이, 코코]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147088</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147088</guid>
+            <pubDate>Thu, 07 Oct 2021 16:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			오케이 마담 (가치봄영화..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5998444</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5998444</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200812_245/159719521887011fjF_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[서유기: 재세요왕]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149884</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149884</guid>
+            <pubDate>Thu, 07 Oct 2021 16:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F70fb410e74f30d1019ae5a798a800b77fd1df73d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			시간을 달리는 소녀 (가치..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5975986</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5975986</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>1,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20181109_63/1541748837768AtSVU_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[모가디슈]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132564</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132564</guid>
+            <pubDate>Thu, 07 Oct 2021 16:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.07.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			사라진 시간 (가치봄영화..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5967183</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5967183</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>1,540</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200623_227/1592879195885hUQFd_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[수색자]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152491</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152491</guid>
+            <pubDate>Thu, 07 Oct 2021 16:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F99aa02686ae2d4412a264a7aa7b2b174ac548ef0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			사라진 시간 (가치봄영화..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5967184</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5967184</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>6,050</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200623_227/1592879195885hUQFd_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[화이트데이: 부서진 결계]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152123</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152123</guid>
+            <pubDate>Thu, 07 Oct 2021 16:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e23e4bb9f868268f9d7b24b1dcdf1eccb506b12" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			도굴 (가치봄영화:시청각..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5928098</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5928098</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201104_45/160445535053439akc_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[매직 스쿨: 초보마법사 아우라의 대모험]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144063</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144063</guid>
+            <pubDate>Thu, 07 Oct 2021 16:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2efd739e26421f26af03a3662f6526c1e6186551" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			도굴 (가치봄영화:시청각..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5928099</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5928099</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>7,150</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201104_45/160445535053439akc_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[다함께 여름!]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139180</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139180</guid>
+            <pubDate>Thu, 07 Oct 2021 16:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa07d60e16d9aa461545160c18c1b1f986ae241bb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			삼진그룹 영어토익반 (가..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5869833</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5869833</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>6,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_209/1632481454658Rw4YU_PNG/ONPOSTER_1._.png?type=f102_138" length="0" type="image/png"/>
+            <title><![CDATA[코다]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147452</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147452</guid>
+            <pubDate>Thu, 07 Oct 2021 16:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.08.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9db1b2ab48843490fa9705cbae8389e6c3bd9876" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			조제 (가치봄영화:시청각..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5869827</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5869827</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201116_276/1605491658399poUOC_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[아버지의 길]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139238</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139238</guid>
+            <pubDate>Thu, 07 Oct 2021 16:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feba7d4189d131ef30eb219975990938a34d54d54" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			조제 (가치봄영화:시청각..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5869828</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5869828</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>7,150</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201116_276/1605491658399poUOC_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			이웃사촌 (가치봄영화:시..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5869829</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5869829</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201111_193/1605056611896fc6Ef_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			이웃사촌 (가치봄영화:시..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5869831</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5869831</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>7,150</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201111_193/1605056611896fc6Ef_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			삼진그룹 영어토익반 (가..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5869832</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5869832</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_209/1632481454658Rw4YU_PNG/ONPOSTER_1._.png?type=f102_138" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			19
-			
-			
-			내부자들 (가치봄영화:시..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5830644</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5830644</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>1,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20151021_172/14453964781624mCqX_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			19
-			
-			
-			내부자들 (가치봄영화:시..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5830645</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5830645</guid>
-            <pubDate>Thu, 07 Oct 2021 06:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20151021_172/14453964781624mCqX_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[아임 유어 맨]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148298</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148298</guid>
+            <pubDate>Thu, 07 Oct 2021 16:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc78e33cf82eba3d7c203cc7cd2540c6bab00a488" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
