@@ -10,6 +10,8 @@
 
 ## [웨이브](https://github.com/MOVIECORD/wavve)
 
+## [티빙](https://github.com/MOVIECORD/tving)
+
 ## [왓챠](https://github.com/MOVIECORD/watcha)
 
 ## [넷플릭스](https://github.com/MOVIECORD/netflix)
