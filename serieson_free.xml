@@ -1,311 +1,187 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>[시리즈온] 할인 영화관</title>
+        <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 16:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 17:10:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[HD(1080)
-			19
-			
-			
-			신 야쿠자의 아내들 (세트..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6599870</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6599870</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>16,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210909_112/1631172508197Hsqzw_JPEG/POSTER_--5.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[19
+												
+											
+										
+										
+										
+											실버라이닝 플레이북]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=33753</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=33753</guid>
+            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[10월 21일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20130128_108/1359342443811Xwp9n_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			해피니스]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6595089</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6595089</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210908_243/1631087702376M2bGA_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[만추]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=14538</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=14538</guid>
+            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[10월 21일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_180/1324632250520usGo1_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			이스케이프 룸 2: 노 웨이..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6585738</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6585738</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>11,120</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210826_36/1629943964659nTdae_JPEG/2__0714.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[19
+												
+											
+										
+										
+										
+											7인의 새벽]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=424416</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=424416</guid>
+            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[10월 21일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111221_57/1324473699088PHi3p_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			19
-			
-			
-			더 수어사이드 스쿼드 (부..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6543645</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6543645</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210820_71/1629422353958lRDF0_JPEG/The_Suicide_Squad_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[19
+												
+											
+										
+										
+										
+											마리아와 여인숙]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=409714</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=409714</guid>
+            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[11월 4일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111222_242/1324560646798A8lKy_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			19
-			
-			
-			트리거: 데스 배틀]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6516166</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6516166</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210811_12/16286730756505veFJ_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[잡스]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=46115</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=46115</guid>
+            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[10월 15일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20130717_198/1374039657078wbGFI_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			해리 포터와 마법사의 돌..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6506930</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6506930</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>14,190</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210809_272/1628474909708DpiDH_JPEG/HarryPotter1_SS_MagicalMovieMode_V_DD_KA_TT_2000x2841_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[우리 생애 최고의 순간]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=20103</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=20103</guid>
+            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[10월 15일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_44/1324567143749EUxfp_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			스페이스 잼: 새로운 시대..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6493744</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6493744</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>14,190</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210730_113/1627610452046VuQOy_JPEG/SpaceJam_NewLegacy_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[협녀, 칼의 기억]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=369150</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=369150</guid>
+            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[10월 14일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20150714_187/143683555351504YpN_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			자막
-			
-			스페이스 잼: 새로운..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6493701</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6493701</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210730_113/1627610452046VuQOy_JPEG/SpaceJam_NewLegacy_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[19
+												
+											
+										
+										
+										
+											비스티 보이즈]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=27726</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=27726</guid>
+            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[10월 15일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_189/1324574112430kwngz_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			더빙
-			스페이스 잼: 새로운..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6493702</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6493702</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210730_113/1627610452046VuQOy_JPEG/SpaceJam_NewLegacy_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[19
+												
+											
+										
+										
+										
+											무뢰한]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=97761</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=97761</guid>
+            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[10월 14일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20150508_242/1431069888008i7klX_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			자막
-			
-			어웨이]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6492579</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6492579</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210721_25/1626834545261PP7u8_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[헝거게임 : 판엠의 불꽃]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=18337</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=18337</guid>
+            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[10월 14일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20120402_160/13333531264854NQHB_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			데빌스 나잇]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6469853</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6469853</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210727_259/16273502080747uURQ_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[헝거게임: 캣칭 파이어]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=58506</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=58506</guid>
+            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[10월 14일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20131105_185/1383644515842maJk5_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			인피델]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6451586</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6451586</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210720_175/1626756408676gipHQ_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[여중생A]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=237290</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=237290</guid>
+            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[10월 15일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180524_39/1527137544241WO6aW_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			인 더 하이츠]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6443212</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6443212</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210601_180/1622529931896LLAeY_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[19
+												
+											
+										
+										
+										
+											뉴니스]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=212063</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=212063</guid>
+            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[10월 8일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20171018_102/1508294574859VDc5w_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			콰이어트 플레이스 2 (세..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6380701</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6380701</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>13,112</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210709_294/1625758650024rIxsz_JPEG/AQuietPlacePart2_2021_Sellthru_KR_800x1200.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[팔로우 미]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=406313</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=406313</guid>
+            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[10월 8일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201012_100/1602487239058GEb86_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			19
-			
-			
-			라스트 히어로즈]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6365136</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6365136</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210611_76/1623391808579pwIFv_PNG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[19
+												
+											
+										
+										
+										
+											악플러 죽이기]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=394030</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=394030</guid>
+            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[10월 8일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200715_67/1594775565557YwQ9I_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[HD(1080)
-			
-			자막
-			
-			너는 저편에]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6350249</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6350249</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210616_234/1623821597304W66uC_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			컨저링 3: 악마가 시켰다..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6350256</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6350256</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>17,490</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210623_261/1624425567386pgigc_JPEG/CONJURING_TDMMDI_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			컨저링 3: 악마가 시켰다..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6350255</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6350255</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210623_261/1624425567386pgigc_JPEG/CONJURING_TDMMDI_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			플래시백]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6304670</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6304670</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210520_172/1621488726058avlYH_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			고질라 VS. 콩]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6261830</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6261830</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,100</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210310_199/1615367075185E9pMt_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			내가 죽기를 바라는 자들..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6257258</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6257258</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210521_142/162157911125470BiF_JPEG/Those_Who_Wish_Me_Dead_STD_V_DD_KA_TT_2000x3000_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			쇼크 웨이브 2]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6239179</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6239179</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210407_56/1617772671538SdMca_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			파리의 별빛 아래]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6230258</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6230258</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>4,550</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210412_144/1618203769055qkK5M_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			파리의 별빛 아래]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6230259</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6230259</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210412_144/1618203769055qkK5M_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			미스]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6230263</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6230263</guid>
-            <pubDate>Thu, 07 Oct 2021 16:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210427_144/1619487062509UBYeW_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+            <title><![CDATA[19
+												
+											
+										
+										
+										
+											나에게 오라]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=401654</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=401654</guid>
+            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[10월 8일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111222_39/13245280962677EkO8_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
