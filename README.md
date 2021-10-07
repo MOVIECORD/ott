@@ -5,6 +5,13 @@
 ## [네이버](https://github.com/MOVIECORD/naver) 
 ### [네이버 TV](https://github.com/MOVIECORD/navertv)  
 ### [네이버 V LIVE](https://github.com/MOVIECORD/vlive)
+#### [V SCREEN](https://vlive.tv/channel/C956BB)
+- https://moviecord.github.io/vlive/vscreen.xml
+- https://moviecord.github.io/vlive/vscreen_notice.xml
+
+#### [V MOVIE](https://vlive.tv/channel/FA1A3)
+- https://moviecord.github.io/vlive/vmovie.xml
+- https://moviecord.github.io/vlive/vmovie_notice.xml
 
 ## [웨이브](https://github.com/MOVIECORD/wavve)
 - NAVER TV: https://moviecord.github.io/wavve/navertv.xml
