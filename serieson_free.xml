@@ -4,9 +4,53 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 14:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 15:10:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[19
+												
+											
+										
+										
+										
+											킬 유어 달링]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=366782</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=366782</guid>
+            <pubDate>Fri, 08 Oct 2021 15:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[10월 22일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20140917_32/1410917307156vXnYF_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내 어깨 위 고양이, 밥]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=169674</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=169674</guid>
+            <pubDate>Fri, 08 Oct 2021 15:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[10월 22일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20161221_130/1482309164295fbt3H_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+												
+											
+										
+										
+										
+											차이나타운]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=94623</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=94623</guid>
+            <pubDate>Fri, 08 Oct 2021 15:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[10월 22일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20150421_177/1429594492778jo5JN_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최악의 하루]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=154944</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=154944</guid>
+            <pubDate>Fri, 08 Oct 2021 15:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[10월 22일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20160712_61/1468283187882s0unW_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[19
 												
@@ -132,56 +176,6 @@
             <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
             <content:encoded><![CDATA[10월 15일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20180524_39/1527137544241WO6aW_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-												
-											
-										
-										
-										
-											뉴니스]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=212063</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=212063</guid>
-            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[10월 8일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20171018_102/1508294574859VDc5w_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팔로우 미]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=406313</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=406313</guid>
-            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[10월 8일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201012_100/1602487239058GEb86_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-												
-											
-										
-										
-										
-											악플러 죽이기]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=394030</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=394030</guid>
-            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[10월 8일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200715_67/1594775565557YwQ9I_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-												
-											
-										
-										
-										
-											나에게 오라]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=401654</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=401654</guid>
-            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[10월 8일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_39/13245280962677EkO8_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
