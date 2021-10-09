@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 15:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 16:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1143,14 +1143,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ad31d50eedd1586704f0af288025b3f85917fdb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[쁘띠 마망 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148314</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148314</guid>
-            <pubDate>Thu, 30 Sep 2021 06:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F594684f7726d7e5d8ac0af59fbdb1c4ce32833fc" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=144508</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144508</guid>
@@ -1167,6 +1159,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[쁘띠 마망 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148314</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148314</guid>
+            <pubDate>Thu, 30 Sep 2021 06:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F594684f7726d7e5d8ac0af59fbdb1c4ce32833fc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[피어썸 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149724</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149724</guid>
@@ -1175,20 +1175,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02058907a37318ebe48b6bf7c7c3f9e750741576" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[그래비티 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=59546</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=59546</guid>
-            <pubDate>Wed, 29 Sep 2021 23:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc53f25fab367858eafb3fe1b319229f7ec019654" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[샹치와 텐 링즈의 전설 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129706</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129706</guid>
             <pubDate>Tue, 21 Sep 2021 23:29:02 GMT</pubDate>
             <content:encoded><![CDATA[21.09.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a64941e61f5a3fbcad8ef6bbf7edb073b35c01a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그래비티 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=59546</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=59546</guid>
+            <pubDate>Wed, 29 Sep 2021 23:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc53f25fab367858eafb3fe1b319229f7ec019654" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스틸워터 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1423,22 +1423,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd993b2c25b465aa3f880872ef9493b7785a084fe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[둠 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=41361</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=41361</guid>
-            <pubDate>Thu, 23 Sep 2021 08:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F11110210A8FDFB6A8C" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[위자 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=87567</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=87567</guid>
-            <pubDate>Tue, 05 Oct 2021 05:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4654cb74fe498ca96b4fcd12e8e38e3cfc4d4770" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[더 리치 라고시안 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=136449</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=136449</guid>
@@ -1509,14 +1493,6 @@
             <pubDate>Thu, 30 Sep 2021 03:11:00 GMT</pubDate>
             <content:encoded><![CDATA[21.10.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8ed24b92bc0b4d5996bd94038034918c1577332236872" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[라이크 어 보스 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=131055</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=131055</guid>
-            <pubDate>Mon, 27 Sep 2021 05:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff73e471d85ff402a8e9c43ca614831061576240478658" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[브라이트: 무사의 혼 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
@@ -1756,6 +1732,14 @@
             <pubDate>Sun, 03 Oct 2021 16:13:09 GMT</pubDate>
             <content:encoded><![CDATA[21.10.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0aa50471c0dfb01636a88aba1bdc6384081a9ff3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[춘몽 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=101879</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=101879</guid>
+            <pubDate>Sat, 09 Oct 2021 16:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6c67b70b3fe6894be6789b0534e0650e805a4775" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[말리그넌트 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
