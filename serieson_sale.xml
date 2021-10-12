@@ -4,7 +4,7 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 14:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 15:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -363,6 +363,18 @@
 			
 			
 			컨저링 3: 악마가 시켰다..]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6350254</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6350254</guid>
+            <pubDate>Tue, 12 Oct 2021 15:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210623_261/1624425567386pgigc_JPEG/CONJURING_TDMMDI_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HD(1080)
+			
+			
+			
+			컨저링 3: 악마가 시켰다..]]></title>
             <link>https://serieson.naver.com/movie/detail.nhn?productNo=6350256</link>
             <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6350256</guid>
             <pubDate>Thu, 07 Oct 2021 16:24:16 GMT</pubDate>
@@ -416,18 +428,6 @@
             <pubDate>Thu, 07 Oct 2021 16:24:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210521_142/162157911125470BiF_JPEG/Those_Who_Wish_Me_Dead_STD_V_DD_KA_TT_2000x3000_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			쇼크 웨이브 2]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6239179</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6239179</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210407_56/1617772671538SdMca_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
