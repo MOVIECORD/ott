@@ -4,9 +4,35 @@
         <title>[시리즈온] 가치봄 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 06:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 07:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HD(1080)
+			
+			
+			
+			새해전야 (가치봄영화:시..]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6691965</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6691965</guid>
+            <pubDate>Fri, 15 Oct 2021 07:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>7,150</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210309_252/1615273096940WnlAs_JPEG/_.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HD(1080)
+			
+			
+			
+			새해전야 (가치봄영화:시..]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6691966</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6691966</guid>
+            <pubDate>Fri, 15 Oct 2021 07:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>2,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20210309_252/1615273096940WnlAs_JPEG/_.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HD(1080)
 			
@@ -305,32 +331,6 @@
             <content:encoded><![CDATA[<em class="">대여</em>
 					<strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210924_209/1632481454658Rw4YU_PNG/ONPOSTER_1._.png?type=f102_138" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			19
-			
-			
-			내부자들 (가치봄영화:시..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5830644</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5830644</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>1,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20151021_172/14453964781624mCqX_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			19
-			
-			
-			내부자들 (가치봄영화:시..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5830645</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5830645</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20151021_172/14453964781624mCqX_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
