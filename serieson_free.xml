@@ -4,9 +4,47 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 15:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 16:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파울라]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=211700</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=211700</guid>
+            <pubDate>Fri, 15 Oct 2021 16:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[10월 29일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20171018_22/1508291873014z46Em_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밤은 짧아 걸어 아가씨야]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=229211</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=229211</guid>
+            <pubDate>Fri, 15 Oct 2021 16:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[10월 29일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180305_204/1520235483216rS5JR_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내 아내의 모든 것]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=194789</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=194789</guid>
+            <pubDate>Fri, 15 Oct 2021 16:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[10월 29일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20120410_260/1334042315984vD8vj_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+												
+											
+										
+										
+										
+											퍼셉션 오브 블러드]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=341756</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=341756</guid>
+            <pubDate>Fri, 15 Oct 2021 16:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[10월 29일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200131_8/1580454275078FccWr_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더빙
 											강철의 연금술사 - 샴발라를 정복한 자]]></title>
@@ -140,44 +178,6 @@
             <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
             <content:encoded><![CDATA[11월 4일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111222_242/1324560646798A8lKy_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잡스]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=46115</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=46115</guid>
-            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[10월 15일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20130717_198/1374039657078wbGFI_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 생애 최고의 순간]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=20103</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=20103</guid>
-            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[10월 15일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_44/1324567143749EUxfp_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-												
-											
-										
-										
-										
-											비스티 보이즈]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=27726</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=27726</guid>
-            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[10월 15일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_189/1324574112430kwngz_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여중생A]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?viewSeq=237290</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?viewSeq=237290</guid>
-            <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[10월 15일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180524_39/1527137544241WO6aW_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
