@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 14:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 15:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -739,18 +739,6 @@
 			
 			
 			
-			소리꾼 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5315196</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5315196</guid>
-            <pubDate>Sat, 02 Oct 2021 15:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[구매]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200609_147/15916872757408g73s_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
 			너는 달밤에 빛나고 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/movie/detail.nhn?productNo=5242475</link>
             <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5242475</guid>
@@ -961,6 +949,18 @@
             <pubDate>Tue, 05 Oct 2021 15:25:51 GMT</pubDate>
             <content:encoded><![CDATA[구매]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190903_89/1567472276429VUl4Y_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HD(1080)
+			
+			
+			
+			벌새 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?productNo=4619774</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=4619774</guid>
+            <pubDate>Sat, 16 Oct 2021 15:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190805_121/1564969695835Iq9Qc_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HD(1080)
@@ -1312,20 +1312,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8e13d8b219069a201605eb28f7a204583f0c64b4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[노회찬6411 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143260</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143260</guid>
-            <pubDate>Thu, 14 Oct 2021 00:29:38 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e48f5b593dc63aac8b452dba416570c21a7a3a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[보이스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137628</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137628</guid>
             <pubDate>Tue, 21 Sep 2021 23:29:02 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[노회찬6411 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143260</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143260</guid>
+            <pubDate>Thu, 14 Oct 2021 00:29:38 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e48f5b593dc63aac8b452dba416570c21a7a3a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[십개월의 미래 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1352,6 +1352,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144508</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144508</guid>
+            <pubDate>Tue, 21 Sep 2021 23:29:02 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab42f8d99b9b6a6bceb169917a3a0c2c222e942" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[수색자 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152491</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152491</guid>
@@ -1366,14 +1374,6 @@
             <pubDate>Thu, 14 Oct 2021 00:29:38 GMT</pubDate>
             <content:encoded><![CDATA[21.10.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd407519e6675a2685a478585b2ad75625f9105b1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144508</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144508</guid>
-            <pubDate>Tue, 21 Sep 2021 23:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ab42f8d99b9b6a6bceb169917a3a0c2c222e942" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 포켓몬스터: 정글의 아이, 코코 (다음영화 영화관 ─ 현재상영)]]></title>
