@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 02:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 03:11:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F316e880b27c97eddd0b6f0a42aff0cf1fecd960a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[십개월의 미래]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141859</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141859</guid>
-            <pubDate>Thu, 14 Oct 2021 00:29:38 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F181a5fcef97d3f3084c4a69edb05cbd464af3b4f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[타다: 대한민국 스타트업의 초상]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152961</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152961</guid>
             <pubDate>Thu, 14 Oct 2021 00:29:38 GMT</pubDate>
             <content:encoded><![CDATA[21.10.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffe9901b9a404a434b265c1e4c6fcfb23a2b855c5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[십개월의 미래]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141859</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141859</guid>
+            <pubDate>Thu, 14 Oct 2021 00:29:38 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F181a5fcef97d3f3084c4a69edb05cbd464af3b4f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[수색자]]></title>
@@ -72,20 +72,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[기적]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143697</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143697</guid>
-            <pubDate>Wed, 13 Oct 2021 08:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[F20]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153408</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153408</guid>
             <pubDate>Wed, 13 Oct 2021 08:11:22 GMT</pubDate>
             <content:encoded><![CDATA[21.10.06]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8e13d8b219069a201605eb28f7a204583f0c64b4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[기적]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143697</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143697</guid>
+            <pubDate>Wed, 13 Oct 2021 08:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아버지의 길]]></title>
@@ -110,14 +110,6 @@
             <pubDate>Wed, 13 Oct 2021 08:11:22 GMT</pubDate>
             <content:encoded><![CDATA[21.10.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcaf0e113a9fccc8d6120a124d1c22d1e08c38434" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[쁘띠 마망]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148314</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148314</guid>
-            <pubDate>Sun, 17 Oct 2021 00:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F594684f7726d7e5d8ac0af59fbdb1c4ce32833fc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[그래비티]]></title>
@@ -150,6 +142,14 @@
             <pubDate>Wed, 13 Oct 2021 08:11:22 GMT</pubDate>
             <content:encoded><![CDATA[21.09.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ad31d50eedd1586704f0af288025b3f85917fdb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[쁘띠 마망]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148314</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148314</guid>
+            <pubDate>Sun, 17 Oct 2021 00:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F594684f7726d7e5d8ac0af59fbdb1c4ce32833fc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들]]></title>
