@@ -4,7 +4,7 @@
         <title>[시리즈온] 할인 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 14:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 15:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -395,79 +395,6 @@
         </item>
         <item>
             <title><![CDATA[HD(1080)
-			19
-			
-			
-			7인의 새벽]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5924202</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5924202</guid>
-            <pubDate>Fri, 15 Oct 2021 15:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/movie/detail.nhn?productNo=5924202" class="NPI=a:content" title="7인의 새벽">
-		<span class="mask"></span>
-		
-			
-				
-				<em class="ico ico_free1">Free</em>
-				
-				
-				
-				
-				
-				
-			
-		
-		
-			
-			
-				
-				
-				<img src="https://movie-phinf.pstatic.net/20111221_57/1324473699088PHi3p_JPEG/movie_image.jpg?type=f102_138" alt="" onerror="this.src='https://ssl.pstatic.net/static/nstore/series_on/img_mask_list_series_on.png'" width="102" height="138">
-			
-		
-		<strong>
-			
-			
-			<em class="mv_tv_ico lst_hdh">HD(1080)</em>
-			<em class="ad_ico_19">19</em>
-			
-			
-			7인의 새벽
-		</strong>
-	</a>
-	
-		
-		
-	
-	
-	
-		
-			<span class="score">
-				<span style="width:47%">평점</span>
-				
-			</span>
-			<em class="score_num">4.7</em>
-		
-		
-	
-	
-		
-		
-			<p class="price2 v2">
-				
-				
-                    <em class="">구매</em>
-                    
-                    <strong><span>무료</span></strong>
-					
-						
-						
-					
-				
-			</p>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111221_57/1324473699088PHi3p_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
 			
 			
 			
@@ -489,6 +416,18 @@
             <pubDate>Fri, 15 Oct 2021 15:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<span>3,850</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190923_94/1569206662506HNCPf_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HD(1080)
+			
+			
+			
+			원더 우먼 1984 (부가영상..]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5861836</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5861836</guid>
+            <pubDate>Thu, 21 Oct 2021 15:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3,300</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201208_238/1607407325164lOuOQ_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

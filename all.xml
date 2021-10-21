@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 14:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 15:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -567,79 +567,6 @@
         </item>
         <item>
             <title><![CDATA[HD(1080)
-			19
-			
-			
-			7인의 새벽 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5924202</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5924202</guid>
-            <pubDate>Fri, 15 Oct 2021 15:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/movie/detail.nhn?productNo=5924202" class="NPI=a:content" title="7인의 새벽">
-		<span class="mask"></span>
-		
-			
-				
-				<em class="ico ico_free1">Free</em>
-				
-				
-				
-				
-				
-				
-			
-		
-		
-			
-			
-				
-				
-				<img src="https://movie-phinf.pstatic.net/20111221_57/1324473699088PHi3p_JPEG/movie_image.jpg?type=f102_138" alt="" onerror="this.src='https://ssl.pstatic.net/static/nstore/series_on/img_mask_list_series_on.png'" width="102" height="138">
-			
-		
-		<strong>
-			
-			
-			<em class="mv_tv_ico lst_hdh">HD(1080)</em>
-			<em class="ad_ico_19">19</em>
-			
-			
-			7인의 새벽
-		</strong>
-	</a>
-	
-		
-		
-	
-	
-	
-		
-			<span class="score">
-				<span style="width:47%">평점</span>
-				
-			</span>
-			<em class="score_num">4.7</em>
-		
-		
-	
-	
-		
-		
-			<p class="price2 v2">
-				
-				
-                    <em class="">구매</em>
-                    
-                    <strong><span>무료</span></strong>
-					
-						
-						
-					
-				
-			</p>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111221_57/1324473699088PHi3p_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
 			
 			
 			
@@ -661,6 +588,18 @@
             <pubDate>Fri, 15 Oct 2021 15:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<span>3,850</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190923_94/1569206662506HNCPf_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HD(1080)
+			
+			
+			
+			원더 우먼 1984 (부가영상.. ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5861836</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5861836</guid>
+            <pubDate>Thu, 21 Oct 2021 15:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3,300</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201208_238/1607407325164lOuOQ_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HD(1080)
@@ -721,6 +660,18 @@
             <pubDate>Sun, 19 Sep 2021 15:12:16 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200804_267/1596505576712zw2dt_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HD(1080)
+			
+			
+			
+			콜리니 케이스 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5355962</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5355962</guid>
+            <pubDate>Thu, 21 Oct 2021 15:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200716_227/1594861049948i6y2x_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HD(1080)
@@ -949,18 +900,6 @@
             <pubDate>Tue, 05 Oct 2021 15:25:51 GMT</pubDate>
             <content:encoded><![CDATA[구매]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190903_89/1567472276429VUl4Y_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			벌새 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=4619774</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=4619774</guid>
-            <pubDate>Sat, 16 Oct 2021 15:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190805_121/1564969695835Iq9Qc_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HD(1080)
@@ -1360,6 +1299,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cc2a0a4e74c2ec417170fe936d9b6bdf2292438" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[타다: 대한민국 스타트업의 초상 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152961</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152961</guid>
+            <pubDate>Thu, 14 Oct 2021 00:29:38 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffe9901b9a404a434b265c1e4c6fcfb23a2b855c5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[수색자 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152491</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152491</guid>
@@ -1374,14 +1321,6 @@
             <pubDate>Tue, 21 Sep 2021 23:29:02 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0643e2cd42252fb6d9018173e867fcd9612c115" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[타다: 대한민국 스타트업의 초상 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152961</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152961</guid>
-            <pubDate>Thu, 14 Oct 2021 00:29:38 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffe9901b9a404a434b265c1e4c6fcfb23a2b855c5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[기적 (다음영화 영화관 ─ 현재상영)]]></title>

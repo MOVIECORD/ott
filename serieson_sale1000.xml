@@ -4,7 +4,7 @@
         <title>[시리즈온] 천원관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 14:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 15:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,18 @@
             <pubDate>Thu, 07 Oct 2021 16:24:23 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200804_267/1596505576712zw2dt_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HD(1080)
+			
+			
+			
+			콜리니 케이스]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5355962</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5355962</guid>
+            <pubDate>Thu, 21 Oct 2021 15:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200716_227/1594861049948i6y2x_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HD(1080)
@@ -294,18 +306,6 @@
             <pubDate>Thu, 07 Oct 2021 16:24:23 GMT</pubDate>
             <content:encoded><![CDATA[구매]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190903_89/1567472276429VUl4Y_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			벌새]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=4619774</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=4619774</guid>
-            <pubDate>Sat, 16 Oct 2021 15:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190805_121/1564969695835Iq9Qc_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
