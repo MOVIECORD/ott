@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 00:35:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 02:04:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -178,6 +178,18 @@
             <pubDate>Thu, 07 Oct 2021 17:08:51 GMT</pubDate>
             <content:encoded><![CDATA[11월 4일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111222_242/1324560646798A8lKy_JPEG/movie_image.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HD(1080)
+			
+			
+			
+			맨 오브 스틸 (2.35:1 극.. ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6707820</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6707820</guid>
+            <pubDate>Thu, 21 Oct 2021 02:03:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3,300</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20130522_254/1369216857325A4vgn_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HD(1080)
@@ -649,18 +661,6 @@
             <pubDate>Fri, 15 Oct 2021 15:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<span>3,850</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190923_94/1569206662506HNCPf_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			원더 우먼 1984 (부가영상.. ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5861836</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5861836</guid>
-            <pubDate>Wed, 20 Oct 2021 15:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3,300</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20201208_238/1607407325164lOuOQ_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HD(1080)
@@ -1581,7 +1581,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=153853</guid>
             <pubDate>Thu, 21 Oct 2021 00:34:25 GMT</pubDate>
             <content:encoded><![CDATA[21.10.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F09723b8e9af7d535dbcb383989b994c92e2207d0" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0cf306fef2e6df0575aa407e06387ebcff6498b8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[퍼펙트 스틸 (다음영화 영화관 ─ 개봉예정)]]></title>
