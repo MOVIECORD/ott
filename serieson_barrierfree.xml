@@ -4,9 +4,22 @@
         <title>[시리즈온] 가치봄 영화관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 09:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 10:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HD(1080)
+			
+			
+			더빙
+			날씨의 아이 (가치봄..]]></title>
+            <link>https://serieson.naver.com/movie/detail.nhn?productNo=6716028</link>
+            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=6716028</guid>
+            <pubDate>Fri, 22 Oct 2021 10:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>1,400</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200515_153/1589521029136pyDNk_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HD(1080)
 			19
@@ -318,19 +331,6 @@
             <content:encoded><![CDATA[<em class="">구매</em>
                     <strong class="payment"><span>7,150</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20201104_45/160445535053439akc_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD(1080)
-			
-			
-			
-			삼진그룹 영어토익반 (가..]]></title>
-            <link>https://serieson.naver.com/movie/detail.nhn?productNo=5869833</link>
-            <guid>https://serieson.naver.com/movie/detail.nhn?productNo=5869833</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>6,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_209/1632481454658Rw4YU_PNG/ONPOSTER_1._.png?type=f102_138" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
