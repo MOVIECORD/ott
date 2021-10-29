@@ -4,9 +4,47 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 16:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 17:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											헛소동 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/167884</link>
+            <guid>https://serieson.naver.com/v2/movie/167884</guid>
+            <pubDate>Fri, 29 Oct 2021 17:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[11월 12일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20161228_252/14829029568367pgQS_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경심파 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/200962</link>
+            <guid>https://serieson.naver.com/v2/movie/200962</guid>
+            <pubDate>Fri, 29 Oct 2021 17:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[11월 12일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20170831_115/15041456577393MHsw_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[600 마일 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/165512</link>
+            <guid>https://serieson.naver.com/v2/movie/165512</guid>
+            <pubDate>Fri, 29 Oct 2021 17:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[11월 12일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20151203_296/1449129718891zFA9Y_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[풍운대전 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/212098</link>
+            <guid>https://serieson.naver.com/v2/movie/212098</guid>
+            <pubDate>Fri, 29 Oct 2021 17:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[11월 12일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20171107_233/151002021202009rtP_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[택시 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://serieson.naver.com/v2/movie/389620</link>
@@ -122,44 +160,6 @@
             <pubDate>Tue, 26 Oct 2021 10:10:20 GMT</pubDate>
             <content:encoded><![CDATA[11월 4일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111222_242/1324560646798A8lKy_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파울라 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/211700</link>
-            <guid>https://serieson.naver.com/v2/movie/211700</guid>
-            <pubDate>Tue, 26 Oct 2021 10:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[10월 29일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20171018_22/1508291873014z46Em_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밤은 짧아 걸어 아가씨야 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/229211</link>
-            <guid>https://serieson.naver.com/v2/movie/229211</guid>
-            <pubDate>Tue, 26 Oct 2021 10:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[10월 29일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180305_204/1520235483216rS5JR_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 아내의 모든 것 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/194789</link>
-            <guid>https://serieson.naver.com/v2/movie/194789</guid>
-            <pubDate>Tue, 26 Oct 2021 10:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[10월 29일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20120410_260/1334042315984vD8vj_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											퍼셉션 오브 블러드 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/341756</link>
-            <guid>https://serieson.naver.com/v2/movie/341756</guid>
-            <pubDate>Tue, 26 Oct 2021 10:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[10월 29일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200131_8/1580454275078FccWr_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자막
@@ -994,14 +994,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38a6487130cf568de4792deb79073a94b70723be" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[할로윈 킬즈 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138629</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138629</guid>
-            <pubDate>Wed, 27 Oct 2021 10:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F97c167b78606b8f5044b59d39f8b815523cb71e3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[보이스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137628</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137628</guid>
@@ -1016,6 +1008,14 @@
             <pubDate>Tue, 21 Sep 2021 23:29:02 GMT</pubDate>
             <content:encoded><![CDATA[21.09.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff09b6fed698932a9258208f8cc4d041ac95efbbd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[할로윈 킬즈 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138629</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138629</guid>
+            <pubDate>Wed, 27 Oct 2021 10:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F97c167b78606b8f5044b59d39f8b815523cb71e3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[그림자꽃 (다음영화 영화관 ─ 현재상영)]]></title>
