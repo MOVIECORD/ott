@@ -4,22 +4,16 @@
         <title>[시리즈온] 이주의 무료영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 02:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 03:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											마법의 성]]></title>
-            <link>https://serieson.naver.com/v2/movie/341471</link>
-            <guid>https://serieson.naver.com/v2/movie/341471</guid>
+            <title><![CDATA[택시]]></title>
+            <link>https://serieson.naver.com/v2/movie/389620</link>
+            <guid>https://serieson.naver.com/v2/movie/389620</guid>
             <pubDate>Thu, 28 Oct 2021 15:09:39 GMT</pubDate>
             <content:encoded><![CDATA[11월 11일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_46/1324554683596XsTGj_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20200713_293/1594615603293IWsf9_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남자사용설명서]]></title>
@@ -40,12 +34,12 @@
             <enclosure url="https://movie-phinf.pstatic.net/20190123_250/1548209985442yC6DG_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[택시]]></title>
-            <link>https://serieson.naver.com/v2/movie/389620</link>
-            <guid>https://serieson.naver.com/v2/movie/389620</guid>
-            <pubDate>Thu, 28 Oct 2021 15:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[11월 11일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200713_293/1594615603293IWsf9_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+            <title><![CDATA[보르도 우정여행]]></title>
+            <link>https://serieson.naver.com/v2/movie/381308</link>
+            <guid>https://serieson.naver.com/v2/movie/381308</guid>
+            <pubDate>Tue, 26 Oct 2021 10:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[11월 5일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200609_56/1591678445936D1sPk_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러브, 로지]]></title>
@@ -56,20 +50,26 @@
             <enclosure url="https://movie-phinf.pstatic.net/20141111_237/14156857944313VYKS_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											마법의 성]]></title>
+            <link>https://serieson.naver.com/v2/movie/341471</link>
+            <guid>https://serieson.naver.com/v2/movie/341471</guid>
+            <pubDate>Thu, 28 Oct 2021 15:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[11월 11일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111222_46/1324554683596XsTGj_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[싸커 퀸즈]]></title>
             <link>https://serieson.naver.com/v2/movie/375275</link>
             <guid>https://serieson.naver.com/v2/movie/375275</guid>
             <pubDate>Tue, 26 Oct 2021 10:10:20 GMT</pubDate>
             <content:encoded><![CDATA[11월 5일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200511_107/15891731183916iCmB_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보르도 우정여행]]></title>
-            <link>https://serieson.naver.com/v2/movie/381308</link>
-            <guid>https://serieson.naver.com/v2/movie/381308</guid>
-            <pubDate>Tue, 26 Oct 2021 10:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[11월 5일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200609_56/1591678445936D1sPk_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딜리셔스]]></title>
@@ -110,6 +110,20 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200713_61/15946157160045eY5o_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											마리아와 여인숙]]></title>
+            <link>https://serieson.naver.com/v2/movie/409714</link>
+            <guid>https://serieson.naver.com/v2/movie/409714</guid>
+            <pubDate>Tue, 26 Oct 2021 10:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[11월 4일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111222_242/1324560646798A8lKy_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[파울라]]></title>
             <link>https://serieson.naver.com/v2/movie/211700</link>
             <guid>https://serieson.naver.com/v2/movie/211700</guid>
@@ -146,20 +160,6 @@
             <pubDate>Tue, 26 Oct 2021 10:10:20 GMT</pubDate>
             <content:encoded><![CDATA[10월 29일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200131_8/1580454275078FccWr_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											마리아와 여인숙]]></title>
-            <link>https://serieson.naver.com/v2/movie/409714</link>
-            <guid>https://serieson.naver.com/v2/movie/409714</guid>
-            <pubDate>Tue, 26 Oct 2021 10:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[11월 4일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_242/1324560646798A8lKy_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,22 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 02:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 03:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											마법의 성 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/341471</link>
-            <guid>https://serieson.naver.com/v2/movie/341471</guid>
+            <title><![CDATA[택시 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/389620</link>
+            <guid>https://serieson.naver.com/v2/movie/389620</guid>
             <pubDate>Thu, 28 Oct 2021 15:09:39 GMT</pubDate>
             <content:encoded><![CDATA[11월 11일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_46/1324554683596XsTGj_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+            <enclosure url="https://movie-phinf.pstatic.net/20200713_293/1594615603293IWsf9_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남자사용설명서 ([시리즈온] 이주의 무료영화)]]></title>
@@ -40,12 +34,12 @@
             <enclosure url="https://movie-phinf.pstatic.net/20190123_250/1548209985442yC6DG_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[택시 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/389620</link>
-            <guid>https://serieson.naver.com/v2/movie/389620</guid>
-            <pubDate>Thu, 28 Oct 2021 15:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[11월 11일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200713_293/1594615603293IWsf9_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+            <title><![CDATA[보르도 우정여행 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/381308</link>
+            <guid>https://serieson.naver.com/v2/movie/381308</guid>
+            <pubDate>Tue, 26 Oct 2021 10:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[11월 5일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200609_56/1591678445936D1sPk_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러브, 로지 ([시리즈온] 이주의 무료영화)]]></title>
@@ -56,20 +50,26 @@
             <enclosure url="https://movie-phinf.pstatic.net/20141111_237/14156857944313VYKS_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											마법의 성 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/341471</link>
+            <guid>https://serieson.naver.com/v2/movie/341471</guid>
+            <pubDate>Thu, 28 Oct 2021 15:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[11월 11일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111222_46/1324554683596XsTGj_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[싸커 퀸즈 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://serieson.naver.com/v2/movie/375275</link>
             <guid>https://serieson.naver.com/v2/movie/375275</guid>
             <pubDate>Tue, 26 Oct 2021 10:10:20 GMT</pubDate>
             <content:encoded><![CDATA[11월 5일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200511_107/15891731183916iCmB_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보르도 우정여행 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/381308</link>
-            <guid>https://serieson.naver.com/v2/movie/381308</guid>
-            <pubDate>Tue, 26 Oct 2021 10:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[11월 5일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200609_56/1591678445936D1sPk_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딜리셔스 ([시리즈온] 이주의 무료영화)]]></title>
@@ -110,6 +110,20 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200713_61/15946157160045eY5o_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											마리아와 여인숙 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/409714</link>
+            <guid>https://serieson.naver.com/v2/movie/409714</guid>
+            <pubDate>Tue, 26 Oct 2021 10:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[11월 4일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111222_242/1324560646798A8lKy_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[파울라 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://serieson.naver.com/v2/movie/211700</link>
             <guid>https://serieson.naver.com/v2/movie/211700</guid>
@@ -146,20 +160,6 @@
             <pubDate>Tue, 26 Oct 2021 10:10:20 GMT</pubDate>
             <content:encoded><![CDATA[10월 29일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200131_8/1580454275078FccWr_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-										
-											
-										
-										
-										
-											마리아와 여인숙 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/409714</link>
-            <guid>https://serieson.naver.com/v2/movie/409714</guid>
-            <pubDate>Tue, 26 Oct 2021 10:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[11월 4일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_242/1324560646798A8lKy_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자막
@@ -954,20 +954,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5548145a15a57370681229ae9060ab6ee88302b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[애프터: 관계의 함정 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150296</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150296</guid>
-            <pubDate>Wed, 20 Oct 2021 05:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff409d664f0d12fe4c025a0bb7558e105543178bb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[바다 탐험대 옥토넛 : 육지수호 대작전 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154025</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154025</guid>
             <pubDate>Thu, 21 Oct 2021 00:34:25 GMT</pubDate>
             <content:encoded><![CDATA[21.10.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3a440345ea826d42d6873975e8b3b8cdb8da66c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[애프터: 관계의 함정 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150296</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150296</guid>
+            <pubDate>Wed, 20 Oct 2021 05:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff409d664f0d12fe4c025a0bb7558e105543178bb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[라스트 듀얼: 최후의 결투 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -978,20 +978,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F776bc3e9a0b9ab8bb821f26fe3fc9e14b39e95bf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[할로윈 킬즈 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138629</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138629</guid>
-            <pubDate>Wed, 27 Oct 2021 10:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F97c167b78606b8f5044b59d39f8b815523cb71e3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[당신은 믿지 않겠지만 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=142880</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=142880</guid>
             <pubDate>Thu, 21 Oct 2021 00:34:25 GMT</pubDate>
             <content:encoded><![CDATA[21.10.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38a6487130cf568de4792deb79073a94b70723be" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[할로윈 킬즈 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138629</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138629</guid>
+            <pubDate>Wed, 27 Oct 2021 10:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F97c167b78606b8f5044b59d39f8b815523cb71e3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[007 노 타임 투 다이 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1050,22 +1050,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F446090579974d44551356ce961743e57eaa41bd6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[가을의 전설 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=1683</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=1683</guid>
-            <pubDate>Thu, 28 Oct 2021 03:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F468918ac6a625b748c2c14be159519533fd5beb3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[가족의 색깔 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=124572</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=124572</guid>
-            <pubDate>Thu, 28 Oct 2021 03:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbf91222e220046d38c772d421c8a8f215a949eda" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[노회찬6411 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143260</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143260</guid>
@@ -1074,12 +1058,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e48f5b593dc63aac8b452dba416570c21a7a3a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[가을의 전설 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=1683</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=1683</guid>
+            <pubDate>Thu, 28 Oct 2021 03:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F468918ac6a625b748c2c14be159519533fd5beb3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[당신얼굴 앞에서 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150931</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150931</guid>
             <pubDate>Thu, 28 Oct 2021 16:14:16 GMT</pubDate>
             <content:encoded><![CDATA[21.10.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F46428acd35c209d0e006b8dd227b3787a48ebae4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[가족의 색깔 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=124572</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=124572</guid>
+            <pubDate>Thu, 28 Oct 2021 03:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbf91222e220046d38c772d421c8a8f215a949eda" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[천녀유혼: 귀애도 (다음영화 영화관 ─ 개봉예정)]]></title>
