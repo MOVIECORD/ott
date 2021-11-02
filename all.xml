@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 14:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 15:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -372,7 +372,7 @@
             <link>https://serieson.naver.com/v2/movie/454307</link>
             <guid>https://serieson.naver.com/v2/movie/454307</guid>
             <pubDate>Tue, 26 Oct 2021 09:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210727_259/16273502080747uURQ_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -425,22 +425,6 @@
             <pubDate>Sun, 31 Oct 2021 15:10:19 GMT</pubDate>
             <content:encoded><![CDATA[<span>1,925</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210513_172/1620886395509WfUlw_JPEG/__.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카오스 워킹 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/433437</link>
-            <guid>https://serieson.naver.com/v2/movie/433437</guid>
-            <pubDate>Tue, 26 Oct 2021 15:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span>4,550</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_96/1632481279182qcDm6_PNG/ONPOSTER_4..png?type=f102_138" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카오스 워킹 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/433438</link>
-            <guid>https://serieson.naver.com/v2/movie/433438</guid>
-            <pubDate>Tue, 26 Oct 2021 15:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span>1,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20210924_96/1632481279182qcDm6_PNG/ONPOSTER_4..png?type=f102_138" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[고백 ([시리즈온] 할인 영화관)]]></title>
@@ -553,6 +537,25 @@
             <pubDate>Sun, 31 Oct 2021 15:10:19 GMT</pubDate>
             <content:encoded><![CDATA[<span>960</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20201105_64/1604563236779zb4rn_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+			
+			
+			프리키 데스데이 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/413436</link>
+            <guid>https://serieson.naver.com/v2/movie/413436</guid>
+            <pubDate>Tue, 02 Nov 2021 15:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span>3,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201105_64/1604563236779zb4rn_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하우스 오브 데몬 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/414476</link>
+            <guid>https://serieson.naver.com/v2/movie/414476</guid>
+            <pubDate>Tue, 02 Nov 2021 15:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20201218_196/1608273286696wFzgy_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[종이꽃 ([시리즈온] 천원관)]]></title>
@@ -1010,20 +1013,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5548145a15a57370681229ae9060ab6ee88302b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[동백 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143264</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143264</guid>
-            <pubDate>Mon, 01 Nov 2021 08:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F09942553dd9ceff78131298425e36b9a5f23df8e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[고장난 론 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151322</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151322</guid>
             <pubDate>Thu, 21 Oct 2021 00:34:25 GMT</pubDate>
             <content:encoded><![CDATA[21.10.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fafd003ec7a90902c90275affff2457c727871aa7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[동백 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143264</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143264</guid>
+            <pubDate>Mon, 01 Nov 2021 08:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F09942553dd9ceff78131298425e36b9a5f23df8e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[첫눈이 사라졌다 (다음영화 영화관 ─ 현재상영)]]></title>
