@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 15:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 16:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1005,20 +1005,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4abb16fd8b2e51e518b7e0165633d4b9602f2495" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아네트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149842</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149842</guid>
-            <pubDate>Tue, 19 Oct 2021 23:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5548145a15a57370681229ae9060ab6ee88302b2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[고장난 론 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151322</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151322</guid>
             <pubDate>Thu, 21 Oct 2021 00:34:25 GMT</pubDate>
             <content:encoded><![CDATA[21.10.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fafd003ec7a90902c90275affff2457c727871aa7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아네트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149842</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149842</guid>
+            <pubDate>Tue, 19 Oct 2021 23:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5548145a15a57370681229ae9060ab6ee88302b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[동백 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1820,14 +1820,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Facf3d9ed2a294a4fc6359ffc76ca6bcf1485caaf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아이 엠 히어 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=92012</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=92012</guid>
-            <pubDate>Sun, 17 Oct 2021 16:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F358ee156c9efa5095c3e97d723b9031a39887cb0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[좋은 놈, 나쁜 놈, 죽은 놈 ([다음영화] 왓챠 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=98733</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=98733</guid>
@@ -2299,14 +2291,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2b44f8bc037b746fdc8579e655b5556a2dfa4364" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[디시에르토 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=96940</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=96940</guid>
-            <pubDate>Mon, 18 Oct 2021 16:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc57b2390a91b2d419c306f798878c77fe95e6918" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[마인드스케이프 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=81175</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=81175</guid>
@@ -2401,14 +2385,6 @@
             <pubDate>Mon, 01 Nov 2021 16:15:02 GMT</pubDate>
             <content:encoded><![CDATA[21.11.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe52a24974f94c54cc34b052532e993c493150a66" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[00K9: 노 타임 투 다이 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154613</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154613</guid>
-            <pubDate>Mon, 01 Nov 2021 01:56:46 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ceb54443b2acbbd9732d9a22610d9a388ba0ff6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스티브 맥퀸: 더 맨 앤 르망 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
