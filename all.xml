@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 14:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 15:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -942,22 +942,6 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210323_74/1616479973961hpih8_JPEG/___2_24_%28x%29.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[와일드 로즈 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/420510</link>
-            <guid>https://serieson.naver.com/v2/movie/420510</guid>
-            <pubDate>Tue, 26 Oct 2021 09:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span>980</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190923_94/1569206662506HNCPf_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[와일드 로즈 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/420511</link>
-            <guid>https://serieson.naver.com/v2/movie/420511</guid>
-            <pubDate>Thu, 28 Oct 2021 15:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3,850</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20190923_94/1569206662506HNCPf_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[삼진그룹 영어토익반 (가치봄영.. ([시리즈온] 할인 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/421083</link>
             <guid>https://serieson.naver.com/v2/movie/421083</guid>
@@ -1023,6 +1007,142 @@
 				
 			</p>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210924_209/1632481454658Rw4YU_PNG/ONPOSTER_1._.png?type=f102_138" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[자막
+			
+			프릿지 이야기 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/414845</link>
+            <guid>https://serieson.naver.com/v2/movie/414845</guid>
+            <pubDate>Mon, 08 Nov 2021 15:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/v2/movie/414845" class="NPI=a:content" title="프릿지 이야기 ">
+		<span class="mask"></span>
+		
+			
+				
+				<em class="ico ico_free1">Free</em>
+				
+				
+				
+				
+				
+				
+			
+		
+		
+			
+			
+				
+				
+				<img src="https://tvstore-phinf.pstatic.net/20201222_137/1608579835055dJgj5_JPEG/_%28%29.jpg?type=f102_138" alt="" onerror="this.src='https://ssl.pstatic.net/static/nstore/series_on/img_mask_list_series_on.png'" width="102" height="138">
+			
+		
+		<strong>
+			
+			
+			<em class="mv_tv_ico lst_sbt">자막</em>
+			
+			프릿지 이야기 
+		</strong>
+	</a>
+	
+		
+		
+	
+	
+	
+		
+			<span class="score">
+				<span style="width:0%">평점</span>
+				
+			</span>
+			<em class="score_num">0.0</em>
+		
+		
+	
+	
+		
+		
+			<p class="price2 v2">
+				
+					<em class="">대여</em>
+					
+					<strong><span>무료</span></strong><br>
+					
+						
+						
+					
+				
+				
+			</p>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20201222_137/1608579835055dJgj5_JPEG/_%28%29.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수네 vs 수네 ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/412186</link>
+            <guid>https://serieson.naver.com/v2/movie/412186</guid>
+            <pubDate>Mon, 08 Nov 2021 15:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/v2/movie/412186" class="NPI=a:content" title="수네 vs 수네 ">
+		<span class="mask"></span>
+		
+			
+				
+				<em class="ico ico_free1">Free</em>
+				
+				
+				
+				
+				
+				
+			
+		
+		
+			
+			
+				
+				
+				<img src="https://tvstore-phinf.pstatic.net/20201209_232/1607492440135YCzlv_PNG/__Final.png?type=f102_138" alt="" onerror="this.src='https://ssl.pstatic.net/static/nstore/series_on/img_mask_list_series_on.png'" width="102" height="138">
+			
+		
+		<strong>
+			
+			
+			
+			
+			수네 vs 수네 
+		</strong>
+	</a>
+	
+		
+		
+	
+	
+	
+		
+			<span class="score">
+				<span style="width:0%">평점</span>
+				
+			</span>
+			<em class="score_num">0.0</em>
+		
+		
+	
+	
+		
+		
+			<p class="price2 v2">
+				
+					<em class="">대여</em>
+					
+					<strong><span>무료</span></strong><br>
+					
+						
+						
+					
+				
+				
+			</p>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20201209_232/1607492440135YCzlv_PNG/__Final.png?type=f102_138" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[빛나는 순간 (가치봄영화:시청.. ([시리즈온] 천원관)]]></title>
@@ -1224,6 +1344,24 @@
             <pubDate>Tue, 26 Oct 2021 09:10:50 GMT</pubDate>
             <content:encoded><![CDATA[구매]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200515_153/1589521029136pyDNk_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모가디슈 (가치봄영화:시청각장.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/471601</link>
+            <guid>https://serieson.naver.com/v2/movie/471601</guid>
+            <pubDate>Mon, 08 Nov 2021 15:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>9,900</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211007_104/1633602962450ffpiv_JPEG/_mogadishu_pos_main_final.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모가디슈 (가치봄영화:시청각장.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/471602</link>
+            <guid>https://serieson.naver.com/v2/movie/471602</guid>
+            <pubDate>Mon, 08 Nov 2021 15:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>7,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211007_104/1633602962450ffpiv_JPEG/_mogadishu_pos_main_final.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강철비2: 정상회담 (가치봄영화.. ([시리즈온] 가치봄 영화관)]]></title>
@@ -1471,24 +1609,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200812_245/159719521887011fjF_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시간을 달리는 소녀 (가치봄영.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/427384</link>
-            <guid>https://serieson.naver.com/v2/movie/427384</guid>
-            <pubDate>Tue, 26 Oct 2021 09:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>1,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20181109_63/1541748837768AtSVU_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사라진 시간 (가치봄영화:시청.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/426819</link>
-            <guid>https://serieson.naver.com/v2/movie/426819</guid>
-            <pubDate>Tue, 26 Oct 2021 09:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>1,540</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200623_227/1592879195885hUQFd_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이터널스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130908</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130908</guid>
@@ -1689,20 +1809,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F332def1c301dfb2a0f3ad4a2c38ae21879d8fd31" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[싸반 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=116081</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=116081</guid>
-            <pubDate>Thu, 04 Nov 2021 00:31:05 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87cabc3e4ccb6a546e8d353f380a34a227c18fe7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[1984 최동원 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146030</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146030</guid>
             <pubDate>Mon, 01 Nov 2021 00:32:21 GMT</pubDate>
             <content:encoded><![CDATA[21.11.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F96366491fe7274e7fdbd9e1c44e2a733e4c9ef4d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[싸반 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=116081</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=116081</guid>
+            <pubDate>Thu, 04 Nov 2021 00:31:05 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87cabc3e4ccb6a546e8d353f380a34a227c18fe7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[악인은 너무 많다 2: 제주 실종사건의 전말 (다음영화 영화관 ─ 개봉예정)]]></title>
