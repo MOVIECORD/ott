@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 06:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 07:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1074,20 +1074,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc618dc4b100188ce3d33b2b170f567d44aa4d477" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[악인은 너무 많다 2: 제주 실종사건의 전말 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152715</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152715</guid>
-            <pubDate>Mon, 01 Nov 2021 00:32:21 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0fab7509e19a83a340dc8069854a76778c5c7faf" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[베놈 2: 렛 데어 비 카니지 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129680</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129680</guid>
             <pubDate>Thu, 30 Sep 2021 17:14:49 GMT</pubDate>
             <content:encoded><![CDATA[21.10.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4abb16fd8b2e51e518b7e0165633d4b9602f2495" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그림자꽃 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135414</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135414</guid>
+            <pubDate>Tue, 19 Oct 2021 23:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e84396a753c036b2fe00cc2544a02b55f3ec57b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[악인은 너무 많다 2: 제주 실종사건의 전말 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152715</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152715</guid>
+            <pubDate>Mon, 01 Nov 2021 00:32:21 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0fab7509e19a83a340dc8069854a76778c5c7faf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[동백 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1104,14 +1112,6 @@
             <pubDate>Thu, 04 Nov 2021 00:31:05 GMT</pubDate>
             <content:encoded><![CDATA[21.11.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87cabc3e4ccb6a546e8d353f380a34a227c18fe7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[그림자꽃 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135414</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135414</guid>
-            <pubDate>Tue, 19 Oct 2021 23:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e84396a753c036b2fe00cc2544a02b55f3ec57b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아네트 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1186,12 +1186,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F30f1122eadc03b80771fbc73ac97ff66238f952c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나를 잡아줘 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145939</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145939</guid>
-            <pubDate>Tue, 16 Nov 2021 05:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9fd2689f80e308d6156b363d4ce640cb852eb654" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[첫눈이 사라졌다 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143824</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143824</guid>
+            <pubDate>Tue, 16 Nov 2021 07:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F742009ef2b6df1e793ab096883b7f14321881faf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[장르만 로맨스 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -2039,6 +2039,162 @@
             <pubDate>Tue, 16 Nov 2021 06:12:46 GMT</pubDate>
             <content:encoded><![CDATA[21.11.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F67382cde75ec18df152b26a8a3904659d084f671" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[귀신 잡는 주고력 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=14095</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=14095</guid>
+            <pubDate>Tue, 16 Nov 2021 07:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e2e43249a2f4a5b8e525f47f71f48c01541865932828" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[타공황제 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=29770</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=29770</guid>
+            <pubDate>Tue, 16 Nov 2021 07:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4d3155b72d6ed183069e3954ec0a4f80c972d139" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[음양착 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=12377</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=12377</guid>
+            <pubDate>Tue, 16 Nov 2021 07:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[예스 일족 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=27924</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=27924</guid>
+            <pubDate>Tue, 16 Nov 2021 07:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1358CE10AE3EE667C4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[단신귀족 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=38176</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=38176</guid>
+            <pubDate>Tue, 16 Nov 2021 07:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fea83ff4765e718ef64a5426b348c709f3b967524" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[부귀길상 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=34248</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=34248</guid>
+            <pubDate>Tue, 16 Nov 2021 07:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F12182E10AE418CC0BB" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[합초대장부 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=38300</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=38300</guid>
+            <pubDate>Tue, 16 Nov 2021 07:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F175A2A0C4B481B0104" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[몬스터 헌트 - 요괴대전 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145485</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145485</guid>
+            <pubDate>Tue, 16 Nov 2021 07:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fce847361a0d26d007a17ec075175b5f19ddf3d6d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[몽키킹 : 투신의 부활 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153337</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153337</guid>
+            <pubDate>Tue, 16 Nov 2021 07:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb25577cf89487435ac2008d92c2ddc0656044000" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[저주받은 자들 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150066</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150066</guid>
+            <pubDate>Tue, 16 Nov 2021 07:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F703871153a77094e37aee1593478c364903819e1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아이윌 송 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145329</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145329</guid>
+            <pubDate>Tue, 16 Nov 2021 07:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F018a03bdbbd384a4db00f98c46e4873c67539e2d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아적정적여서 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=118778</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=118778</guid>
+            <pubDate>Tue, 16 Nov 2021 07:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec3f39831b1a930d754fd2bc7f133bc329776bbc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[난도영웅 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=34254</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=34254</guid>
+            <pubDate>Tue, 16 Nov 2021 07:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[폐시동맹 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=35026</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=35026</guid>
+            <pubDate>Tue, 16 Nov 2021 07:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마등아문 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=37965</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=37965</guid>
+            <pubDate>Tue, 16 Nov 2021 07:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마르세유의 비밀 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154237</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154237</guid>
+            <pubDate>Tue, 16 Nov 2021 07:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F55f74480052e8d1434752abc9a7ff6a560f83d0b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[두 낫 리플라이 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150881</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150881</guid>
+            <pubDate>Tue, 16 Nov 2021 07:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F213b574d5e1fb5211de8b654c6436a35757557f9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[생존: 두 개의 세계 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=136330</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=136330</guid>
+            <pubDate>Tue, 16 Nov 2021 07:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd3f5c2e1273f530d9e0f2ec2ff00f2a4514f50f1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[세이빙 조이 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132269</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132269</guid>
+            <pubDate>Tue, 16 Nov 2021 07:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F66aa3654cd4ac2139da24a71803cb48a1358a064" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[언프레임드 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154096</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154096</guid>
+            <pubDate>Tue, 16 Nov 2021 07:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F67622689d9972250b1ea329cc5039bd1b9f44a72" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[사랑은 없다 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
