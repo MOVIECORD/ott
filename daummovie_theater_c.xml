@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 08:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 09:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -93,7 +93,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=149571</guid>
             <pubDate>Thu, 18 Nov 2021 16:13:58 GMT</pubDate>
             <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbd7664593547699d7687d9c2734f3eee19317c1b" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59508e5cf63446263aee22bd6daecb0d7919d92e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[호빗 : 스마우그의 폐허]]></title>
@@ -109,7 +109,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=132337</guid>
             <pubDate>Thu, 18 Nov 2021 16:13:58 GMT</pubDate>
             <content:encoded><![CDATA[21.11.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fadf7f6ebca5341d1875555681d56c40f1559694740317" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fee89242d0ca2ed45d809084137d9acebacace33d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[간호중]]></title>
