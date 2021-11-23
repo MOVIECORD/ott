@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 09:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 10:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -159,11 +159,11 @@
             <title><![CDATA[19
 			
 			더빙
-			지옥 - 두개의 삶 ([시리즈온] 할인 영화관)]]></title>
+			지옥(두개의 삶) ([시리즈온] 할인 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/473391</link>
             <guid>https://serieson.naver.com/v2/movie/473391</guid>
             <pubDate>Thu, 18 Nov 2021 15:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/v2/movie/473391" class="NPI=a:content" title="지옥 - 두개의 삶 ">
+            <content:encoded><![CDATA[<a href="/v2/movie/473391" class="NPI=a:content" title="지옥(두개의 삶)">
 		<span class="mask"></span>
 		
 			
@@ -182,7 +182,7 @@
 			
 				
 				
-				<img src="https://tvstore-phinf.pstatic.net/20211119_184/1637311278927HU1vK_PNG/____test02_%281%29.png?type=f102_138" alt="" onerror="this.src='https://ssl.pstatic.net/static/nstore/series_on/img_mask_list_series_on.png'" width="102" height="138">
+				<img src="https://tvstore-phinf.pstatic.net/20211123_219/1637651807378BNbqq_PNG/____.png?type=f102_138" alt="" onerror="this.src='https://ssl.pstatic.net/static/nstore/series_on/img_mask_list_series_on.png'" width="102" height="138">
 			
 		
 		<strong>
@@ -190,7 +190,7 @@
 			<em class="ad_ico_s">19</em>
 			
 			<em class="mv_tv_ico lst_dub">더빙</em>
-			지옥 - 두개의 삶 
+			지옥(두개의 삶)
 		</strong>
 	</a>
 	
@@ -223,7 +223,7 @@
 				
 				
 			</p>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211119_184/1637311278927HU1vK_PNG/____test02_%281%29.png?type=f102_138" length="0" type="image/png"/>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211123_219/1637651807378BNbqq_PNG/____.png?type=f102_138" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[19
@@ -1069,14 +1069,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F450d4500236583f15be6daf7618df18c426e75fd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[후겟츠 웨슬리 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154796</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154796</guid>
-            <pubDate>Thu, 18 Nov 2021 00:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F47b05867715e070d99d0c1dcb1c549006ed36d02" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[너에게 가는 길 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149618</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149618</guid>
@@ -1093,6 +1085,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff8d9bbaa79562d6f47e7890b5c7db740cc7e8d23" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[후겟츠 웨슬리 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154796</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154796</guid>
+            <pubDate>Thu, 18 Nov 2021 00:31:57 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F47b05867715e070d99d0c1dcb1c549006ed36d02" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[퍼스트 카우 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=135694</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=135694</guid>
@@ -1101,28 +1101,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc618dc4b100188ce3d33b2b170f567d44aa4d477" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아네트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149842</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149842</guid>
-            <pubDate>Thu, 18 Nov 2021 16:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5548145a15a57370681229ae9060ab6ee88302b2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[악인은 너무 많다 2: 제주 실종사건의 전말 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152715</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152715</guid>
             <pubDate>Sat, 20 Nov 2021 17:16:53 GMT</pubDate>
             <content:encoded><![CDATA[21.11.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa716f8d9423b8c395bca4b3a47f59b031c959ca4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[베놈 2: 렛 데어 비 카니지 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=129680</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=129680</guid>
-            <pubDate>Fri, 19 Nov 2021 16:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4abb16fd8b2e51e518b7e0165633d4b9602f2495" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[호빗 : 뜻밖의 여정 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1147,6 +1131,22 @@
             <pubDate>Tue, 23 Nov 2021 04:14:11 GMT</pubDate>
             <content:encoded><![CDATA[21.11.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fab11bc61008f428da97b1286bd335fd6a68c39a2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그림자꽃 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135414</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135414</guid>
+            <pubDate>Tue, 23 Nov 2021 10:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e84396a753c036b2fe00cc2544a02b55f3ec57b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아네트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149842</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149842</guid>
+            <pubDate>Thu, 18 Nov 2021 16:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5548145a15a57370681229ae9060ab6ee88302b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[유체이탈자 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1253,20 +1253,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3c2df58c95bd5284bd7dc467beb4a1cd6813e7c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[라임크라임 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145311</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145311</guid>
-            <pubDate>Thu, 18 Nov 2021 16:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F498213e6c861c0f1e83304458c3f5d65b70ea3c1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[핫 블러드 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154181</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154181</guid>
             <pubDate>Thu, 18 Nov 2021 16:13:58 GMT</pubDate>
             <content:encoded><![CDATA[21.11.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F53b8683f909852c0a8e3d304fbb11fbdca4c20d4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[라임크라임 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145311</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145311</guid>
+            <pubDate>Thu, 18 Nov 2021 16:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F498213e6c861c0f1e83304458c3f5d65b70ea3c1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[사비나: 그리스도를 위한 고난, 나치 시대 (다음영화 영화관 ─ 개봉예정)]]></title>
