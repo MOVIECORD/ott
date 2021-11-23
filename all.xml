@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 21:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 22:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1089,6 +1089,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F47b05867715e070d99d0c1dcb1c549006ed36d02" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[퍼스트 카우 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135694</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135694</guid>
+            <pubDate>Mon, 22 Nov 2021 12:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc618dc4b100188ce3d33b2b170f567d44aa4d477" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[동백 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143264</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143264</guid>
@@ -1103,14 +1111,6 @@
             <pubDate>Tue, 23 Nov 2021 04:14:11 GMT</pubDate>
             <content:encoded><![CDATA[21.11.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fab11bc61008f428da97b1286bd335fd6a68c39a2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼스트 카우 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135694</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135694</guid>
-            <pubDate>Mon, 22 Nov 2021 12:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc618dc4b100188ce3d33b2b170f567d44aa4d477" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아네트 (다음영화 영화관 ─ 현재상영)]]></title>
