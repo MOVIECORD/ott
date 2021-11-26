@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 14:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 15:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,44 @@
             <pubDate>Thu, 18 Nov 2021 15:09:56 GMT</pubDate>
             <content:encoded><![CDATA[12월 18일까지]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211123_219/1637651807378BNbqq_PNG/____.png?type=w320" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[두 번째 겨울 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/265804</link>
+            <guid>https://serieson.naver.com/v2/movie/265804</guid>
+            <pubDate>Fri, 26 Nov 2021 15:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[12월 10일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20181214_191/1544767095151zsv20_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엘리스 헤지나 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/215765</link>
+            <guid>https://serieson.naver.com/v2/movie/215765</guid>
+            <pubDate>Fri, 26 Nov 2021 15:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[12월 10일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20171117_110/1510908704210s6ew1_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브레인 온 파이어 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/215458</link>
+            <guid>https://serieson.naver.com/v2/movie/215458</guid>
+            <pubDate>Fri, 26 Nov 2021 15:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[12월 10일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20171117_255/15108810505362fF9m_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											줄리아의 눈 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/403112</link>
+            <guid>https://serieson.naver.com/v2/movie/403112</guid>
+            <pubDate>Fri, 26 Nov 2021 15:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[12월 10일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_127/1324633122000XXNwl_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내 심장을 쏴라 ([시리즈온] 이주의 무료영화)]]></title>
@@ -92,14 +130,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20181120_226/1542703066246bx52K_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국도극장 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/419599</link>
-            <guid>https://serieson.naver.com/v2/movie/419599</guid>
-            <pubDate>Fri, 12 Nov 2021 15:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[11월 26일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200526_172/1590480126993aPfB9_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[자막
 										
 											패딩턴 ([시리즈온] 이주의 무료영화)]]></title>
@@ -126,30 +156,6 @@
             <pubDate>Thu, 18 Nov 2021 15:09:56 GMT</pubDate>
             <content:encoded><![CDATA[12월 2일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111223_179/1324626012857BRHBe_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[킹스 스피치 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/374457</link>
-            <guid>https://serieson.naver.com/v2/movie/374457</guid>
-            <pubDate>Fri, 12 Nov 2021 15:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[11월 26일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111223_101/1324632551480Ysz2q_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파파로티 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/36990</link>
-            <guid>https://serieson.naver.com/v2/movie/36990</guid>
-            <pubDate>Fri, 12 Nov 2021 15:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[11월 26일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20130228_105/1362026575599uE2wA_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국가대표(완결판) ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/390737</link>
-            <guid>https://serieson.naver.com/v2/movie/390737</guid>
-            <pubDate>Fri, 12 Nov 2021 15:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[11월 26일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20120103_32/1325584763019wyepw_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[19
@@ -615,14 +621,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20200522_230/1590125376715JeW0r_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국도극장 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/419599</link>
-            <guid>https://serieson.naver.com/v2/movie/419599</guid>
-            <pubDate>Fri, 12 Nov 2021 15:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[구매]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200526_172/1590480126993aPfB9_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[카페 벨에포크 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/374978</link>
             <guid>https://serieson.naver.com/v2/movie/374978</guid>
@@ -749,6 +747,14 @@
             <pubDate>Sun, 14 Nov 2021 15:09:38 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190927_8/1569550909963dbsdI_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메기 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/327831</link>
+            <guid>https://serieson.naver.com/v2/movie/327831</guid>
+            <pubDate>Fri, 26 Nov 2021 15:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[구매]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190903_89/1567472276429VUl4Y_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보이스 (가치봄영화:시청각장애.. ([시리즈온] 가치봄 영화관)]]></title>
@@ -1101,20 +1107,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdfd99b73ac1fcdfd335572d65b76a27e95c108da" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[노회찬6411 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143260</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143260</guid>
-            <pubDate>Fri, 19 Nov 2021 23:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e48f5b593dc63aac8b452dba416570c21a7a3a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[싸나희 순정 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=141904</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=141904</guid>
             <pubDate>Thu, 25 Nov 2021 00:32:13 GMT</pubDate>
             <content:encoded><![CDATA[21.11.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe3c2df58c95bd5284bd7dc467beb4a1cd6813e7c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[노회찬6411 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143260</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143260</guid>
+            <pubDate>Fri, 19 Nov 2021 23:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc6e48f5b593dc63aac8b452dba416570c21a7a3a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[라임크라임 (다음영화 영화관 ─ 현재상영)]]></title>
