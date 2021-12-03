@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 00:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 01:54:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1061,20 +1061,20 @@
         </item>
         <item>
             <title><![CDATA[기적 (가치봄영화:시청각장애인.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/475871</link>
-            <guid>https://serieson.naver.com/v2/movie/475871</guid>
-            <pubDate>Thu, 02 Dec 2021 13:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>9,900</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211020_202/16347229829782UJSe_JPEG/miracle_MP.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기적 (가치봄영화:시청각장애인.. ([시리즈온] 가치봄 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/475872</link>
             <guid>https://serieson.naver.com/v2/movie/475872</guid>
             <pubDate>Thu, 02 Dec 2021 13:18:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="">대여</em>
 					<strong class="payment"><span>5,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211020_202/16347229829782UJSe_JPEG/miracle_MP.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기적 (가치봄영화:시청각장애인.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/475871</link>
+            <guid>https://serieson.naver.com/v2/movie/475871</guid>
+            <pubDate>Thu, 02 Dec 2021 13:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>9,900</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211020_202/16347229829782UJSe_JPEG/miracle_MP.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1290,20 +1290,20 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20211118_277/1637242538110cvoKQ_PNG/ONPOSTER_1912.__.png?type=f102_138" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[유체이탈자 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=124768</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=124768</guid>
-            <pubDate>Wed, 24 Nov 2021 00:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2eee1b07783f3ae40b0446fdcc73851956299a6a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[듄 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130886</guid>
             <pubDate>Wed, 20 Oct 2021 00:33:10 GMT</pubDate>
             <content:encoded><![CDATA[21.10.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[유체이탈자 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=124768</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=124768</guid>
+            <pubDate>Wed, 24 Nov 2021 00:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2eee1b07783f3ae40b0446fdcc73851956299a6a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엔칸토: 마법의 세계 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1386,14 +1386,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F01a3377ae55c1d15958d1777f8fd19e100ada541" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[장르만 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=128599</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=128599</guid>
-            <pubDate>Wed, 10 Nov 2021 00:31:21 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d54d4dec506b1386961fbac801aaff2287d953d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[타짜 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=41442</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=41442</guid>
@@ -1410,6 +1402,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F68abec870c08bd07292a5c057be49158778fe731" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[호빗: 다섯 군대 전투 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=73528</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=73528</guid>
+            <pubDate>Wed, 01 Dec 2021 00:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F26061F4A544EF6DB13" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[장르만 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=128599</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=128599</guid>
+            <pubDate>Wed, 10 Nov 2021 00:31:21 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d54d4dec506b1386961fbac801aaff2287d953d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[베네데타 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=130342</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=130342</guid>
@@ -1424,14 +1432,6 @@
             <pubDate>Wed, 01 Dec 2021 00:34:37 GMT</pubDate>
             <content:encoded><![CDATA[21.12.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8f1e231bf33ac23b347d3021b37950867774f7fa" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[호빗: 다섯 군대 전투 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=73528</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=73528</guid>
-            <pubDate>Wed, 01 Dec 2021 00:34:45 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F26061F4A544EF6DB13" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[한창나이 선녀님 (다음영화 영화관 ─ 현재상영)]]></title>
