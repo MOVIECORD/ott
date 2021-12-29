@@ -4,95 +4,72 @@
         <title>[다음영화] 넷플릭스 ─ 공개예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 17:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 03:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[아사쿠사 키드]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156009</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156009</guid>
-            <pubDate>Fri, 03 Dec 2021 03:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7792ef10ba5cdd9ccb83f1485d14ec7af574961d" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[시노비]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=40803</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=40803</guid>
+            <pubDate>Wed, 29 Dec 2021 03:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2071300F4B84E41A1D" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[우리 함께 아웃백으로!]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154679</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154679</guid>
-            <pubDate>Mon, 15 Nov 2021 05:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F30e0f4354623d9b0fff0ae17ec3326d7c06c9149" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[나나]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=41303</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=41303</guid>
+            <pubDate>Wed, 29 Dec 2021 03:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F11110210A8FECEC2EA" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[배드 지니어스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=113830</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=113830</guid>
-            <pubDate>Wed, 01 Dec 2021 04:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbeb37ef58a47434bd8aab6f94559adcf9a6d32e7" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[나나 2]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=42499</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=42499</guid>
+            <pubDate>Wed, 29 Dec 2021 03:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F140D7C10ADAB421716" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[그녀]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=80976</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=80976</guid>
-            <pubDate>Wed, 01 Dec 2021 04:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F767b17f16c8e4aa5a5a9deae11372f431558067772516" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[유레루]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=41940</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=41940</guid>
+            <pubDate>Wed, 29 Dec 2021 03:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F14110210A8F9D6C4CE" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[2]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156153</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156153</guid>
-            <pubDate>Mon, 06 Dec 2021 06:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd09a28015a52fe4f9262886121bd55fb4a2505d6" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[황무지의 괴물]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154232</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154232</guid>
+            <pubDate>Wed, 29 Dec 2021 03:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc9f5cb92dff5a9671fd452bcb15d9279924cd0b1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[모가디슈]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132564</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132564</guid>
-            <pubDate>Tue, 30 Nov 2021 08:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F232a8d6e902c63036bbe2ae327d57e82585a639f" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[마더/안드로이드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155754</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155754</guid>
+            <pubDate>Wed, 29 Dec 2021 03:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F34600b8549027d08c868ab4b527741d122a80a8f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[퍼프 - 산호초의 경이로움]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156156</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156156</guid>
-            <pubDate>Mon, 06 Dec 2021 06:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.16]]></content:encoded>
+            <title><![CDATA[브레이즌]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156506</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156506</guid>
+            <pubDate>Wed, 29 Dec 2021 03:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F26202665919eddb46ccc4869d92f80980210f8fc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[캘리포니아 크리스마스 - 도시의 불빛]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156155</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156155</guid>
-            <pubDate>Mon, 06 Dec 2021 06:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F75af132b6f6b6d854d9b77c4ecb12ecf183fc0ba" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[더 플랫폼]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=136081</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=136081</guid>
-            <pubDate>Mon, 06 Dec 2021 06:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F01767ce125c9649cae467b1d25b4aa236acdd893" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[타오르는 여인의 초상]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=131395</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=131395</guid>
-            <pubDate>Mon, 06 Dec 2021 06:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0dac835c9bb841f7be4a6e59436865541576829054165" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[미드 90]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=123432</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=123432</guid>
-            <pubDate>Mon, 06 Dec 2021 06:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5f10e4bc7cd445199d0f546178c29cbb1565674157065" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[리버댄스 - 애니메이션 어드벤처]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=150713</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=150713</guid>
+            <pubDate>Wed, 29 Dec 2021 03:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdbc3b0478faab26b5b2686cfe9d1d0e2873f7b78" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
