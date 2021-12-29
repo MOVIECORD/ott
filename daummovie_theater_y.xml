@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 11:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 12:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F28a2bbf1962b4f0a48c72f49957c5e4604ca9ccc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[노웨어 스페셜]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143893</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143893</guid>
+            <pubDate>Wed, 29 Dec 2021 03:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F68f5102b7f5e04f97399636f44f612e14bcfadf9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[디어 에반 핸슨]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150692</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150692</guid>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 29 Dec 2021 11:10:49 GMT</pubDate>
             <content:encoded><![CDATA[21.12.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa3d67cc5d4db5a5a0ae7495e64178588c7929390" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[노웨어 스페셜]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143893</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143893</guid>
-            <pubDate>Wed, 29 Dec 2021 03:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F68f5102b7f5e04f97399636f44f612e14bcfadf9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[연애 빠진 로맨스]]></title>
@@ -160,12 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe909cf7e4c547c1e338718bf067561621927d7c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[끝없음에 관하여]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=134340</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=134340</guid>
-            <pubDate>Wed, 29 Dec 2021 03:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F146b470827e17334ff3c83755a61409db2072903" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[해피 아워]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=95676</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=95676</guid>
+            <pubDate>Wed, 29 Dec 2021 12:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F05202322bd2aba53f64cde597dc6acf163752043" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
