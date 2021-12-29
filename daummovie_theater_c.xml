@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 08:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 09:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6bdd424b649719c79895556c8b5154b209480f18" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[특송]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132303</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132303</guid>
+            <title><![CDATA[씽2게더]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138207</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138207</guid>
             <pubDate>Wed, 29 Dec 2021 03:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba021bacaf87ba110d48e406408feccafb6f96a1" length="0" type="image//thumb/C408x596/"/>
+            <content:encoded><![CDATA[22.01.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbee2664b519aa5520cba257b3e992fc1074c6b88" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[피어: 마지막 생존자]]></title>
@@ -32,12 +32,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbca1b56edfb7fe32e207ac567459a1f20b8925b4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[씽2게더]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138207</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138207</guid>
+            <title><![CDATA[특송]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132303</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132303</guid>
             <pubDate>Wed, 29 Dec 2021 03:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbee2664b519aa5520cba257b3e992fc1074c6b88" length="0" type="image//thumb/C408x596/"/>
+            <content:encoded><![CDATA[22.01.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba021bacaf87ba110d48e406408feccafb6f96a1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[청춘적니]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151331</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151331</guid>
+            <pubDate>Wed, 29 Dec 2021 03:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ddd97f36e8a34f2f6b95cea5ba4f8d60ff472ae" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[인생게임]]></title>
@@ -136,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4654fb18ea620529ee10a13cb99a98b0077b919e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[청춘적니]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151331</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151331</guid>
-            <pubDate>Wed, 29 Dec 2021 03:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ddd97f36e8a34f2f6b95cea5ba4f8d60ff472ae" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[걸즈 앤 판처 최종장 제3화]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149364</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149364</guid>
@@ -160,12 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd73c8b8db17bf32ea113257ad68acb88fbed102f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프리즌 브레이크 : 이스케이프 플랜]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=134759</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=134759</guid>
-            <pubDate>Wed, 29 Dec 2021 03:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F270db35926ea47c1bbd14c5a83ba121b1567240194571" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[더 배트맨]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=110137</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=110137</guid>
+            <pubDate>Wed, 29 Dec 2021 09:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[21.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdf11bc725892fe9eec9acbe2ad93f24b53249ed4" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>

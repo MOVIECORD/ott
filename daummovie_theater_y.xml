@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 08:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 09:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,7 +69,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=143893</guid>
             <pubDate>Wed, 29 Dec 2021 03:12:07 GMT</pubDate>
             <content:encoded><![CDATA[21.12.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F34ee68e23c182ca7bb74b4b5cc2079117a001c01" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F68f5102b7f5e04f97399636f44f612e14bcfadf9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[신데렐라 2: 마법에 걸린 왕자]]></title>
@@ -104,6 +104,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[극장판 소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155229</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155229</guid>
+            <pubDate>Wed, 29 Dec 2021 03:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08f419cbf4467bb2bd9ea59132a53e3fcffe52ba" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[마이 뉴욕 다이어리]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=138748</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=138748</guid>
@@ -120,20 +128,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7412acf6a22c72b54b6ec01019c022bea4a877ca" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155229</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155229</guid>
-            <pubDate>Wed, 29 Dec 2021 03:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08f419cbf4467bb2bd9ea59132a53e3fcffe52ba" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[티탄]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151808</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151808</guid>
             <pubDate>Wed, 29 Dec 2021 03:12:07 GMT</pubDate>
             <content:encoded><![CDATA[21.12.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0af94c0bd13ce470880fa3ab4ebd1fd22e2e4f06" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[갱경 떡삥이]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155592</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155592</guid>
+            <pubDate>Wed, 29 Dec 2021 09:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe909cf7e4c547c1e338718bf067561621927d7c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[끝없음에 관하여]]></title>
@@ -144,28 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F146b470827e17334ff3c83755a61409db2072903" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[해피 아워]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=95676</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=95676</guid>
+            <pubDate>Wed, 29 Dec 2021 09:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F05202322bd2aba53f64cde597dc6acf163752043" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[간호중]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=142558</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=142558</guid>
             <pubDate>Wed, 29 Dec 2021 03:12:07 GMT</pubDate>
             <content:encoded><![CDATA[21.12.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdaf187a16c17e8ac5db0364ecd66b87b32a3d8cc" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[사울 레이터: 인 노 그레이트 허리]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155134</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155134</guid>
-            <pubDate>Wed, 29 Dec 2021 03:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe9d91cdeb30408f5309a4356e3dba01f4a5975e8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[리틀 뱀파이어]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141733</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141733</guid>
-            <pubDate>Wed, 29 Dec 2021 05:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F19cc9a14f6c04ba6983251eeb7f53cd058119647" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
