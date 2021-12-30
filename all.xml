@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 00:38:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 02:00:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1068,14 +1068,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0af94c0bd13ce470880fa3ab4ebd1fd22e2e4f06" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[갱경 떡삥이 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155592</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155592</guid>
-            <pubDate>Wed, 29 Dec 2021 09:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbe909cf7e4c547c1e338718bf067561621927d7c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[해피 아워 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=95676</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=95676</guid>
@@ -1090,6 +1082,14 @@
             <pubDate>Wed, 29 Dec 2021 13:20:55 GMT</pubDate>
             <content:encoded><![CDATA[21.11.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b6e97a96e7580751875c5f93d691dfea78e85f6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[사울 레이터: 인 노 그레이트 허리 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155134</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155134</guid>
+            <pubDate>Thu, 30 Dec 2021 01:59:49 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe9d91cdeb30408f5309a4356e3dba01f4a5975e8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[경관의 피 (다음영화 영화관 ─ 개봉예정)]]></title>
