@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 23:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 00:40:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1053,6 +1053,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3eebe1c0e14021f0772f11361f8e6aa8ab48a207" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[연애 빠진 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144054</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144054</guid>
+            <pubDate>Wed, 24 Nov 2021 00:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0fcbda650c0e964ac945ebbe38c5ec8d2dc55ff" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[노웨어 스페셜 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143893</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143893</guid>
@@ -1067,14 +1075,6 @@
             <pubDate>Thu, 18 Nov 2021 00:31:57 GMT</pubDate>
             <content:encoded><![CDATA[21.11.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F143986c99895b2df85b359b06ebbe8f0ce12d5b9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[연애 빠진 로맨스 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=144054</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=144054</guid>
-            <pubDate>Wed, 24 Nov 2021 00:32:36 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0fcbda650c0e964ac945ebbe38c5ec8d2dc55ff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[피어: 마지막 생존자 (다음영화 영화관 ─ 현재상영)]]></title>
