@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 02:04:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 03:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -162,7 +162,7 @@
             <title><![CDATA[도쿄 리벤저스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152016</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152016</guid>
-            <pubDate>Wed, 12 Jan 2022 02:03:49 GMT</pubDate>
+            <pubDate>Wed, 12 Jan 2022 03:14:17 GMT</pubDate>
             <content:encoded><![CDATA[22.01.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0b8e6746fb9c79ca0b83092701601c518caaedbd" length="0" type="image//thumb/C408x596/"/>
         </item>
