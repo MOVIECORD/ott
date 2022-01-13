@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 00:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 02:06:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1213,6 +1213,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdbb145847945438189f90cfa793939951564535042598" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[워터 호스 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=44253</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=44253</guid>
+            <pubDate>Thu, 13 Jan 2022 02:06:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F146F1B10AD36557E62" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[초콜렛 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=2708</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=2708</guid>
@@ -1235,6 +1243,14 @@
             <pubDate>Mon, 10 Jan 2022 02:44:04 GMT</pubDate>
             <content:encoded><![CDATA[22.01.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F07cd0453e4cdcd1b4664406d884d9b47ad36bd72" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스파이 키드 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3125</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3125</guid>
+            <pubDate>Thu, 13 Jan 2022 02:06:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F124D3E10B1B3CC48EB" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[브레이즌 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
@@ -1322,6 +1338,14 @@
             <pubDate>Wed, 12 Jan 2022 05:13:05 GMT</pubDate>
             <content:encoded><![CDATA[22.01.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc607318ce0a60a7d8b8e540ea599f588751df07e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[실: 인연의 시작 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143762</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143762</guid>
+            <pubDate>Thu, 13 Jan 2022 02:06:22 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faa7cb7d0fa4303e74de2a1ba047ef610b7fb47e3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[블레어 위치 ([다음영화] 왓챠 ─ 종료예정)]]></title>
