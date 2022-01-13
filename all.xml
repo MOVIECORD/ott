@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 07:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 08:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -590,6 +590,46 @@
             <enclosure url="https://movie-phinf.pstatic.net/20181109_63/1541748837768AtSVU_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[더빙
+			뽀로로 극장판 보물섬 대.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/482128</link>
+            <guid>https://serieson.naver.com/v2/movie/482128</guid>
+            <pubDate>Thu, 13 Jan 2022 08:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>1,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190329_266/15538347866861YXl3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+			뽀로로 극장판 보물섬 대.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/482127</link>
+            <guid>https://serieson.naver.com/v2/movie/482127</guid>
+            <pubDate>Thu, 13 Jan 2022 08:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>2,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20190329_266/15538347866861YXl3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+			뽀로로 극장판 컴퓨터 왕.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/482126</link>
+            <guid>https://serieson.naver.com/v2/movie/482126</guid>
+            <pubDate>Thu, 13 Jan 2022 08:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>1,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20151125_139/1448419273190InQ0U_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+			뽀로로 극장판 컴퓨터 왕.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/482125</link>
+            <guid>https://serieson.naver.com/v2/movie/482125</guid>
+            <pubDate>Thu, 13 Jan 2022 08:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>2,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20151125_139/1448419273190InQ0U_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[파이터(가치봄영화:시청각장애.. ([시리즈온] 가치봄 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/481625</link>
             <guid>https://serieson.naver.com/v2/movie/481625</guid>
@@ -787,42 +827,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20211108_295/1636363035383sHbbs_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[싱크홀(가치봄영화:시청각장애.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/476146</link>
-            <guid>https://serieson.naver.com/v2/movie/476146</guid>
-            <pubDate>Mon, 03 Jan 2022 20:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>5,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210726_114/1627265960693kkM0B_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱크홀(가치봄영화:시청각장애.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/476145</link>
-            <guid>https://serieson.naver.com/v2/movie/476145</guid>
-            <pubDate>Mon, 03 Jan 2022 20:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>9,900</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210726_114/1627265960693kkM0B_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인질(가치봄영화:시청각장애인.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/476144</link>
-            <guid>https://serieson.naver.com/v2/movie/476144</guid>
-            <pubDate>Mon, 03 Jan 2022 20:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>4,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210714_30/16262486171225Il6s_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인질(가치봄영화:시청각장애인.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/476143</link>
-            <guid>https://serieson.naver.com/v2/movie/476143</guid>
-            <pubDate>Mon, 03 Jan 2022 20:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>9,900</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210714_30/16262486171225Il6s_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[특송 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=132303</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=132303</guid>
@@ -902,14 +906,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b8b6ca0acd78221f254f00954744005c99160fb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
-            <pubDate>Wed, 29 Dec 2021 03:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[프랑스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150559</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150559</guid>
@@ -924,6 +920,14 @@
             <pubDate>Wed, 12 Jan 2022 00:38:44 GMT</pubDate>
             <content:encoded><![CDATA[22.01.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F00ba41decdaf6df5ea47b8bbaf2a71bc0843998b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
+            <pubDate>Wed, 29 Dec 2021 03:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[유체이탈자 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -950,14 +954,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F08f419cbf4467bb2bd9ea59132a53e3fcffe52ba" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[해피 뉴 이어 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149881</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149881</guid>
-            <pubDate>Wed, 29 Dec 2021 03:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F682f49a1be1b6c735b778efb8f5da94ec58a9c89" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[해탄적일천 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=2714</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=2714</guid>
@@ -972,6 +968,14 @@
             <pubDate>Wed, 05 Jan 2022 23:12:40 GMT</pubDate>
             <content:encoded><![CDATA[22.01.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2c545acd0162e80f4af0192bb2e3c4f614f7d6a0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[해피 뉴 이어 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149881</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149881</guid>
+            <pubDate>Wed, 29 Dec 2021 03:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F682f49a1be1b6c735b778efb8f5da94ec58a9c89" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[램 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1014,20 +1018,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff02b0574086980f6782b6c9e2a2911f1124331e0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[미싱타는 여자들 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145234</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145234</guid>
-            <pubDate>Mon, 10 Jan 2022 11:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F70deb49a1e0cda735262b62efad968bd0d3cfb58" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[워 서바이버 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154960</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154960</guid>
             <pubDate>Mon, 03 Jan 2022 05:12:32 GMT</pubDate>
             <content:encoded><![CDATA[22.01.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F50fb67fb941dc8288c0cb5bb486bb4d2c09cc6cb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[미싱타는 여자들 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145234</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145234</guid>
+            <pubDate>Mon, 10 Jan 2022 11:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F70deb49a1e0cda735262b62efad968bd0d3cfb58" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[미스터 앤 미세스 아델만 (다음영화 영화관 ─ 개봉예정)]]></title>
