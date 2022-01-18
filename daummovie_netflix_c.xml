@@ -4,7 +4,7 @@
         <title>[다음영화] 넷플릭스 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 00:42:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 02:06:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Mon, 17 Jan 2022 05:14:01 GMT</pubDate>
             <content:encoded><![CDATA[22.01.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1611554750D2E53D10" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[도쿄 연애사건]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=98527</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=98527</guid>
+            <pubDate>Tue, 18 Jan 2022 02:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F600c47f086cf49e0e7422f0556ccedd6f29fc61c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[헌트]]></title>
