@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 22:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 23:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1075,14 +1075,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F029b4274c87c1b97e2a256ef4a42372aa63a39f7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[뮌헨 - 전쟁의 문턱에서 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155093</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155093</guid>
-            <pubDate>Wed, 12 Jan 2022 03:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F21eb83076e935f70718fb36f56e90723b1740302" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[시카리오: 나이트 오브 이스케이프 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149547</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149547</guid>
@@ -1161,6 +1153,14 @@
             <pubDate>Thu, 20 Jan 2022 00:42:38 GMT</pubDate>
             <content:encoded><![CDATA[22.01.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F18a04cc6d98105ccb87cc2e445c35c87fad9621f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[데드락: 라스트 리벤지 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156608</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156608</guid>
+            <pubDate>Thu, 20 Jan 2022 23:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd08101d794d4a91597f5cd9894cff81e075af2b0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[도쿄 연애사건 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
