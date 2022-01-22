@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 15:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 16:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1087,6 +1087,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6817287fb1801a21489e24614bc029025a4469f2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[1975 킬링필드, 푸난 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=123266</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=123266</guid>
+            <pubDate>Thu, 20 Jan 2022 00:42:38 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F57465d407df5a0cdd57fc5393a9bd929122e2118" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 천재 추리 탐정 셜록홈즈 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=134532</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=134532</guid>
@@ -1141,14 +1149,6 @@
             <pubDate>Wed, 19 Jan 2022 01:53:46 GMT</pubDate>
             <content:encoded><![CDATA[22.01.26]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa6fd7bd64ac623fd3c03a15ee785d8cce3ceae42" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[1975 킬링필드, 푸난 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=123266</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=123266</guid>
-            <pubDate>Thu, 20 Jan 2022 00:42:38 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F57465d407df5a0cdd57fc5393a9bd929122e2118" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[포스트카드 킬링 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -2355,14 +2355,6 @@
             <pubDate>Sat, 08 Jan 2022 16:16:22 GMT</pubDate>
             <content:encoded><![CDATA[22.01.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2a012d8310f343d4b99467a299a41d6075cf285f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[너브 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=103727</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=103727</guid>
-            <pubDate>Fri, 07 Jan 2022 16:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9e6a205403f80227575fb0eb741a5d3e492996e4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[슬립타이트 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
