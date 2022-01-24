@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 15:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 16:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -922,6 +922,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[킹스맨: 퍼스트 에이전트 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=125382</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=125382</guid>
+            <pubDate>Wed, 29 Dec 2021 03:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b8b6ca0acd78221f254f00954744005c99160fb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[웨스트 사이드 스토리 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=132759</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=132759</guid>
@@ -936,14 +944,6 @@
             <pubDate>Wed, 12 Jan 2022 00:38:44 GMT</pubDate>
             <content:encoded><![CDATA[22.01.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ddd97f36e8a34f2f6b95cea5ba4f8d60ff472ae" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[킹스맨: 퍼스트 에이전트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=125382</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=125382</guid>
-            <pubDate>Wed, 29 Dec 2021 03:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b8b6ca0acd78221f254f00954744005c99160fb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엔드게임: 나는 킬러다 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1177,30 +1177,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa6fd7bd64ac623fd3c03a15ee785d8cce3ceae42" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[하늘의 침묵 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=107321</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=107321</guid>
-            <pubDate>Wed, 19 Jan 2022 03:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fca04c90fd27ed1ad2ef4063f019f619fe216957b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[유혹 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=109100</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=109100</guid>
-            <pubDate>Wed, 19 Jan 2022 03:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7f50bf7ff810d3dacbe8e5fc175f18149aaabfdb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[은하 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=93626</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=93626</guid>
-            <pubDate>Wed, 19 Jan 2022 03:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8f997439f7b84cfe53cf65e4e8022d24d515acc3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[더 히든 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=142196</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=142196</guid>
@@ -1383,30 +1359,6 @@
             <pubDate>Mon, 17 Jan 2022 05:14:08 GMT</pubDate>
             <content:encoded><![CDATA[22.02.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4eff55e397b3e9cea31c6fd36d915f7324883b4c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[슬립타이트 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=64770</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=64770</guid>
-            <pubDate>Sat, 08 Jan 2022 16:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2522D44851820DB50D" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[정무가정 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=48094</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=48094</guid>
-            <pubDate>Tue, 11 Jan 2022 02:04:57 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2175024E54CF9D8C31" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[톰과 릴리 : 그들만의 공간 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=108774</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=108774</guid>
-            <pubDate>Sat, 08 Jan 2022 16:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2d0bca67cd3e63d8fcb6e09914b6d1fc791b8219" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[버디, 인생의 동반자 ([다음영화] 왓챠 ─ 종료예정)]]></title>
@@ -2543,36 +2495,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5f6348fc6951256c2be2d9adcd156c0e90a7a550" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[여교사 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=94116</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=94116</guid>
-            <pubDate>Sun, 09 Jan 2022 16:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd8b6a9a5c2f6f16d66805cc81ddce968840ed55e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[인사이드 워 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=99417</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=99417</guid>
-            <pubDate>Sun, 09 Jan 2022 16:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa959a2535c94e96d9151c007b5d6c2169ca034f5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[메이메이 쇼핑몰의 기적 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=101397</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=101397</guid>
             <pubDate>Mon, 10 Jan 2022 16:18:34 GMT</pubDate>
             <content:encoded><![CDATA[22.01.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e3b43b4f14e5a6e14f625ca2adbb24d6b2400ec" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[눈의 여왕3: 눈과 불의 마법대결 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=107825</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=107825</guid>
-            <pubDate>Sun, 09 Jan 2022 16:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59fd5d7890467aa574fb1f78fec1265f355eb5c4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[에어리언 대침공 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
@@ -3167,12 +3095,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa24409aa5967f09d29b556e89369356afe5deeb9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[미씽: 다자브의 비밀 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155181</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155181</guid>
-            <pubDate>Mon, 17 Jan 2022 11:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3c6dee32a6b6a610cd757898d91d2f0598f5abc0" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[무림쟁패: 황제암살단 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=109588</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=109588</guid>
+            <pubDate>Mon, 24 Jan 2022 16:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3ad89ff7ec2f503610692da80d3c2ae9482dd44e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[무림 당문비독 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>

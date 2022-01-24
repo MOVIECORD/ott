@@ -4,33 +4,9 @@
         <title>[다음영화] 넷플릭스 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 15:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 16:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[하늘의 침묵]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=107321</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=107321</guid>
-            <pubDate>Wed, 19 Jan 2022 03:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fca04c90fd27ed1ad2ef4063f019f619fe216957b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[유혹]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=109100</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=109100</guid>
-            <pubDate>Wed, 19 Jan 2022 03:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7f50bf7ff810d3dacbe8e5fc175f18149aaabfdb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[은하]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=93626</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=93626</guid>
-            <pubDate>Wed, 19 Jan 2022 03:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8f997439f7b84cfe53cf65e4e8022d24d515acc3" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[더 히든]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=142196</link>
