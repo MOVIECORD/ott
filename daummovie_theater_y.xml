@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 16:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 17:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff7579ee3ba2608dcd081b01124279a4add22adec" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스피드 : 레이스 1]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=147618</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=147618</guid>
-            <pubDate>Tue, 25 Jan 2022 06:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F498c15131b3f43bc71419f8651f17e6a3c281c2a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[웨스트 사이드 스토리]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=132759</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=132759</guid>
@@ -157,6 +149,14 @@
             <pubDate>Wed, 12 Jan 2022 23:12:10 GMT</pubDate>
             <content:encoded><![CDATA[22.01.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd73c8b8db17bf32ea113257ad68acb88fbed102f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스피드 : 레이스 1]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147618</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147618</guid>
+            <pubDate>Tue, 25 Jan 2022 06:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F498c15131b3f43bc71419f8651f17e6a3c281c2a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[미싱타는 여자들]]></title>
