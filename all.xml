@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 23:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 00:41:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -847,6 +847,22 @@
             <enclosure url="https://movie-phinf.pstatic.net/20210526_164/1622018439127m1L49_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[해적: 도깨비 깃발 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=127223</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=127223</guid>
+            <pubDate>Wed, 26 Jan 2022 00:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff4d297b408910fa79dd5056f0918d373545d9611" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[킹메이커 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=118715</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=118715</guid>
+            <pubDate>Wed, 26 Jan 2022 00:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F03a2d938d69dba50c28565e8225c9f7c09aca7f9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
@@ -988,22 +1004,6 @@
             <pubDate>Wed, 12 Jan 2022 23:12:18 GMT</pubDate>
             <content:encoded><![CDATA[22.01.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0b8e6746fb9c79ca0b83092701601c518caaedbd" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[블루버스데이 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156706</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156706</guid>
-            <pubDate>Mon, 24 Jan 2022 03:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F582408a9c34cc917383386c7b196d3ca79ab8fd1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[미스터 앤 미세스 아델만 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=110209</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=110209</guid>
-            <pubDate>Tue, 25 Jan 2022 10:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F25deee2592c6e3b9e6a4a60330d06314f0df4334" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 안녕 자두야: 제주도의 비밀 (다음영화 영화관 ─ 개봉예정)]]></title>
