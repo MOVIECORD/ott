@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 02:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 03:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0371ebaaaa98e6f6f273d90c7020b67c1c4b1bce" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[경관의 피]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=136344</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=136344</guid>
-            <pubDate>Wed, 05 Jan 2022 00:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a40f6025e785344c32443ed10f7614960cf0c75" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 천재 추리 탐정 셜록홈즈]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=134532</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=134532</guid>
@@ -160,12 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F84163ca3fc7817e3321d4b290c9aef61407bb336" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프랑스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=150559</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=150559</guid>
-            <pubDate>Thu, 27 Jan 2022 16:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd73c8b8db17bf32ea113257ad68acb88fbed102f" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[경관의 피]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=136344</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=136344</guid>
+            <pubDate>Wed, 05 Jan 2022 00:40:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a40f6025e785344c32443ed10f7614960cf0c75" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[프리! 더 파이널 스트로크 전편]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154033</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154033</guid>
+            <pubDate>Fri, 28 Jan 2022 03:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F72d325e53b31484452635da25839b1f28762f426" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
