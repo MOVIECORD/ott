@@ -4,9 +4,75 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 15:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 16:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[킥복서 더 레전드 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/241083</link>
+            <guid>https://serieson.naver.com/v2/movie/241083</guid>
+            <pubDate>Thu, 03 Feb 2022 16:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[2월 17일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180723_159/1532309874242rqP0e_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											언더 더 트리 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/256905</link>
+            <guid>https://serieson.naver.com/v2/movie/256905</guid>
+            <pubDate>Thu, 03 Feb 2022 16:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[2월 17일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180927_121/1538026737280rezo2_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											살인 예술가 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/230562</link>
+            <guid>https://serieson.naver.com/v2/movie/230562</guid>
+            <pubDate>Thu, 03 Feb 2022 16:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[2월 17일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180412_103/1523513648595IjrFC_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1945: 포인트 오브 노 리턴 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/382746</link>
+            <guid>https://serieson.naver.com/v2/movie/382746</guid>
+            <pubDate>Thu, 03 Feb 2022 16:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[2월 17일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200526_72/1590454346011i8rlq_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마담 B ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/261090</link>
+            <guid>https://serieson.naver.com/v2/movie/261090</guid>
+            <pubDate>Thu, 03 Feb 2022 16:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[2월 17일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20181030_126/1540874871840gCMoh_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19
+										
+											
+										
+										
+										
+											데스 콜 ([시리즈온] 이주의 무료영화)]]></title>
+            <link>https://serieson.naver.com/v2/movie/223750</link>
+            <guid>https://serieson.naver.com/v2/movie/223750</guid>
+            <pubDate>Thu, 03 Feb 2022 16:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[2월 17일까지]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20180213_58/1518506126929tpj6W_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미나리 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://serieson.naver.com/v2/movie/434527</link>
@@ -14,14 +80,6 @@
             <pubDate>Thu, 27 Jan 2022 16:14:38 GMT</pubDate>
             <content:encoded><![CDATA[2월 10일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210322_142/1616399817643EJ85O_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영주 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/262613</link>
-            <guid>https://serieson.naver.com/v2/movie/262613</guid>
-            <pubDate>Thu, 20 Jan 2022 15:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20181030_246/1540890794923n6bvy_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미스터트롯: 더 무비 ([시리즈온] 이주의 무료영화)]]></title>
@@ -114,50 +172,6 @@
             <pubDate>Fri, 21 Jan 2022 16:14:11 GMT</pubDate>
             <content:encoded><![CDATA[2월 4일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20120503_25/1336030401291NPRzw_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자막
-										
-											경계의 저편 : I'LL BE HERE -과거편- ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/403113</link>
-            <guid>https://serieson.naver.com/v2/movie/403113</guid>
-            <pubDate>Thu, 20 Jan 2022 15:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20150915_128/1442299882676YK28J_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자막
-										
-											경계의 저편 : I'LL BE HERE -미래편- ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/403114</link>
-            <guid>https://serieson.naver.com/v2/movie/403114</guid>
-            <pubDate>Thu, 20 Jan 2022 15:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20150915_275/1442301018454TcG7d_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔젤 오브 마인 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/329188</link>
-            <guid>https://serieson.naver.com/v2/movie/329188</guid>
-            <pubDate>Thu, 20 Jan 2022 15:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20191011_108/1570785034079WXwBY_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미스터 노바디(감독판) ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/394027</link>
-            <guid>https://serieson.naver.com/v2/movie/394027</guid>
-            <pubDate>Thu, 20 Jan 2022 15:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20200811_26/15971069070568A27v_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스탠바이, 웬디 ([시리즈온] 이주의 무료영화)]]></title>
-            <link>https://serieson.naver.com/v2/movie/235252</link>
-            <guid>https://serieson.naver.com/v2/movie/235252</guid>
-            <pubDate>Thu, 20 Jan 2022 15:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[2월 3일까지]]></content:encoded>
-            <enclosure url="https://tvstore-phinf.pstatic.net/20211202_222/1638376911999NJqF1_PNG/ONPOSTER_2520.%2C.png?type=w320" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[씽2게더(세트: 1~2편) ([시리즈온] 할인 영화관)]]></title>
@@ -950,6 +964,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba021bacaf87ba110d48e406408feccafb6f96a1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[경관의 피 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=136344</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=136344</guid>
+            <pubDate>Wed, 29 Dec 2021 03:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a40f6025e785344c32443ed10f7614960cf0c75" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[원 세컨드 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=128451</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=128451</guid>
@@ -964,14 +986,6 @@
             <pubDate>Wed, 02 Feb 2022 11:10:49 GMT</pubDate>
             <content:encoded><![CDATA[22.01.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F70deb49a1e0cda735262b62efad968bd0d3cfb58" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[경관의 피 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=136344</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=136344</guid>
-            <pubDate>Wed, 29 Dec 2021 03:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6a40f6025e785344c32443ed10f7614960cf0c75" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[인어가 잠든 집 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1062,6 +1076,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6409063751c1662760b10d83406c7be116e61708" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[가슴이 떨리는 건 너 때문 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151100</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151100</guid>
+            <pubDate>Fri, 28 Jan 2022 16:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9265a1ffb8b226e85ffc8438d2ab77e479931148" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[애니멀 체인지 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=143295</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=143295</guid>
@@ -1100,14 +1122,6 @@
             <pubDate>Fri, 28 Jan 2022 03:12:19 GMT</pubDate>
             <content:encoded><![CDATA[22.02.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faad309700522a25332c5678f2e66219074c6a33d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[가슴이 떨리는 건 너 때문 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151100</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151100</guid>
-            <pubDate>Fri, 28 Jan 2022 16:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9265a1ffb8b226e85ffc8438d2ab77e479931148" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[온 세상이 하얗다 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1332,54 +1346,6 @@
             <pubDate>Thu, 03 Feb 2022 05:10:29 GMT</pubDate>
             <content:encoded><![CDATA[22.02.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F12110210A8FF5F8E3D" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[팬 걸 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146212</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146212</guid>
-            <pubDate>Fri, 21 Jan 2022 05:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F26be640d256a3b3de98d8028483729e5c2cc8c24" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[파러웨이 랜드 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157654</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157654</guid>
-            <pubDate>Thu, 03 Feb 2022 05:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F27fbabdb28cdb70890750506b5fb4aa4aac13fb9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[우리의 영웅 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157659</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157659</guid>
-            <pubDate>Thu, 03 Feb 2022 06:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa4ee9f38c070a2684e3382980d796d234e3007b1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[윌 유 매리 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157658</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157658</guid>
-            <pubDate>Thu, 03 Feb 2022 06:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9a39293dfb3ce297553bcd4de8af5b7f134aa940" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[오직 그대와 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157657</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157657</guid>
-            <pubDate>Thu, 03 Feb 2022 06:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff7ec3a134673d3b09973e599d86d310ef8c3a7b3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑과 돈 사이 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157656</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157656</guid>
-            <pubDate>Thu, 03 Feb 2022 06:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F33e8bdb0ee1a58336eb7780c5996f9e31d02d89a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스루 마이 윈도 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
@@ -2059,20 +2025,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb296f3b77ae74986d07a1203694b40f7c0eb6c0c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스캔들: 숨겨진 비밀들 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135670</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135670</guid>
-            <pubDate>Thu, 27 Jan 2022 16:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8fd34d0a343241d69a2db941dfb6c9ed1569768392646" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[화여장: 꽃들의 전쟁 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157115</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157115</guid>
-            <pubDate>Thu, 27 Jan 2022 07:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2539b30771c98fc6a5f45fd25e91337b9597e916" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[미결처리반 Q ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=80751</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=80751</guid>
+            <pubDate>Thu, 03 Feb 2022 16:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc044bad9d2045a160f43524351aebde9cd033a7f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[특송 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
