@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 15:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 16:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -936,14 +936,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0371ebaaaa98e6f6f273d90c7020b67c1c4b1bce" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[해피 뉴 이어 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=149881</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=149881</guid>
-            <pubDate>Sun, 06 Feb 2022 00:45:39 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F682f49a1be1b6c735b778efb8f5da94ec58a9c89" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[특송 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=132303</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=132303</guid>
@@ -998,6 +990,14 @@
             <pubDate>Sun, 06 Feb 2022 08:12:37 GMT</pubDate>
             <content:encoded><![CDATA[22.01.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd73c8b8db17bf32ea113257ad68acb88fbed102f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[도쿄 리벤저스 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152016</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152016</guid>
+            <pubDate>Sun, 06 Feb 2022 16:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0b8e6746fb9c79ca0b83092701601c518caaedbd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 주술회전 0 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -2035,6 +2035,30 @@
             <pubDate>Thu, 03 Feb 2022 16:15:41 GMT</pubDate>
             <content:encoded><![CDATA[22.02.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc044bad9d2045a160f43524351aebde9cd033a7f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[레드 스카이 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=78193</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=78193</guid>
+            <pubDate>Sun, 06 Feb 2022 16:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F084e19f124b5ad0edd82ea4be5aaa78f9febfc4a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[매기스 플랜 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=96948</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=96948</guid>
+            <pubDate>Sun, 06 Feb 2022 16:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdac46f02c2dda3b4eb56f7fdd9e30458493a67fb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 소노 시온: 소노 시온이라는 생물 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=104326</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=104326</guid>
+            <pubDate>Sun, 06 Feb 2022 16:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e1358877bc962a3cab2adde0d303ae85da1b9ac" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[칼의 전쟁 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
