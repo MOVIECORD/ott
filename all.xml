@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 18:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 19:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -611,6 +611,42 @@
             <enclosure url="https://movie-phinf.pstatic.net/20160215_163/1455527110149mO3mt_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뺑반(가치봄영화:시청각장애인.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/486072</link>
+            <guid>https://serieson.naver.com/v2/movie/486072</guid>
+            <pubDate>Tue, 08 Feb 2022 19:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211221_185/1640087768649y7jrt_PNG/ONPOSTER_1825..png?type=f102_138" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뺑반(가치봄영화:시청각장애인.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/486071</link>
+            <guid>https://serieson.naver.com/v2/movie/486071</guid>
+            <pubDate>Tue, 08 Feb 2022 19:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>1,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://tvstore-phinf.pstatic.net/20211221_185/1640087768649y7jrt_PNG/ONPOSTER_1825..png?type=f102_138" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[기억의 전쟁(가치봄영화:시청각.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/486068</link>
+            <guid>https://serieson.naver.com/v2/movie/486068</guid>
+            <pubDate>Tue, 08 Feb 2022 19:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">구매</em>
+                    <strong class="payment"><span>5,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200212_87/1581471190560PupSD_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기억의 전쟁(가치봄영화:시청각.. ([시리즈온] 가치봄 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/486067</link>
+            <guid>https://serieson.naver.com/v2/movie/486067</guid>
+            <pubDate>Tue, 08 Feb 2022 19:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="">대여</em>
+					<strong class="payment"><span>1,000</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20200212_87/1581471190560PupSD_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[마스터(가치봄영화:시청각장애.. ([시리즈온] 가치봄 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/485694</link>
             <guid>https://serieson.naver.com/v2/movie/485694</guid>
@@ -802,42 +838,6 @@
             <content:encoded><![CDATA[<em class="">구매</em>
                     <strong class="payment"><span>1,400</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20190814_273/1565762582530bwo3n_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아들의 이름으로(가치봄영화:시.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/484892</link>
-            <guid>https://serieson.naver.com/v2/movie/484892</guid>
-            <pubDate>Sun, 30 Jan 2022 19:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210423_52/1619163659566SWe1o_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소녀의 세계(가치봄영화:시청각.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/484891</link>
-            <guid>https://serieson.naver.com/v2/movie/484891</guid>
-            <pubDate>Sun, 30 Jan 2022 19:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>1,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20181122_187/1542867127495IsERa_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[협상(가치봄영화:시청각장애인.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/484782</link>
-            <guid>https://serieson.naver.com/v2/movie/484782</guid>
-            <pubDate>Sat, 29 Jan 2022 12:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">구매</em>
-                    <strong class="payment"><span>6,050</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180828_55/15354321217227X7a3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[협상(가치봄영화:시청각장애인.. ([시리즈온] 가치봄 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/484781</link>
-            <guid>https://serieson.naver.com/v2/movie/484781</guid>
-            <pubDate>Sat, 29 Jan 2022 12:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="">대여</em>
-					<strong class="payment"><span>1,540</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i></strong><br>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20180828_55/15354321217227X7a3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[듄 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1112,20 +1112,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9265a1ffb8b226e85ffc8438d2ab77e479931148" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[애니멀 체인지 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143295</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143295</guid>
-            <pubDate>Tue, 01 Feb 2022 00:37:48 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a42553276351cb243c6da25b28c78bc5a1bddfe" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[더 마더 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146731</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146731</guid>
             <pubDate>Thu, 27 Jan 2022 07:11:17 GMT</pubDate>
             <content:encoded><![CDATA[22.02.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbaf77f7a554227fbbded052634ac9d85f8e8ba33" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[애니멀 체인지 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143295</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143295</guid>
+            <pubDate>Tue, 01 Feb 2022 00:37:48 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a42553276351cb243c6da25b28c78bc5a1bddfe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[온 세상이 하얗다 (다음영화 영화관 ─ 개봉예정)]]></title>
