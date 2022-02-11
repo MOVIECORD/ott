@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 04:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 05:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -915,20 +915,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4f4cb722ef68ec2542df05e4eab6c90f0b272bd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[씽2게더 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138207</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138207</guid>
-            <pubDate>Wed, 29 Dec 2021 03:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1021e3e3e714bc8ebf67f8c3e238a56ada885292" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[굿 보스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154390</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154390</guid>
             <pubDate>Thu, 10 Feb 2022 00:39:26 GMT</pubDate>
             <content:encoded><![CDATA[22.02.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb1af68ec1c62973dbd480b30717789a277341dfa" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[씽2게더 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138207</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138207</guid>
+            <pubDate>Wed, 29 Dec 2021 03:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1021e3e3e714bc8ebf67f8c3e238a56ada885292" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 안녕 자두야: 제주도의 비밀 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1963,12 +1963,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd16f450a210fa390324d4c5cf4d208d829f18448" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[가슴이 떨리는 건 너 때문 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151100</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151100</guid>
+            <pubDate>Fri, 11 Feb 2022 05:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F130e36f3903e7880cf02297475c6624a0245ceda" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[아웃브레이크 호텔 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154966</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154966</guid>
             <pubDate>Wed, 09 Feb 2022 00:40:44 GMT</pubDate>
             <content:encoded><![CDATA[22.02.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faad309700522a25332c5678f2e66219074c6a33d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[디펜스 이즈 폴른 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157831</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157831</guid>
+            <pubDate>Fri, 11 Feb 2022 05:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff00f475c6f62dc59265857f7e9c984959d6b884b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[온 세상이 하얗다 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
