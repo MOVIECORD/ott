@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 13:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 14:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -897,14 +897,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1021e3e3e714bc8ebf67f8c3e238a56ada885292" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[태일이 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=125939</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=125939</guid>
-            <pubDate>Fri, 11 Feb 2022 23:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb42c72550f6c76f3c0ab9906ba50aea889b8676a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[굿 보스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154390</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154390</guid>
@@ -919,6 +911,14 @@
             <pubDate>Fri, 11 Feb 2022 23:11:48 GMT</pubDate>
             <content:encoded><![CDATA[21.12.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[태일이 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=125939</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=125939</guid>
+            <pubDate>Fri, 11 Feb 2022 23:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb42c72550f6c76f3c0ab9906ba50aea889b8676a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[듄 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1065,12 +1065,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcfb87a998ee56aa40424b98ff57417953704a6cd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[매미소리 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135097</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135097</guid>
-            <pubDate>Mon, 14 Feb 2022 08:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fad66879f4ba1aba5bba06be6d3cf44f8b2490c6f" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[극장판 바다 탐험대 옥토넛 : 해저동굴 대탈출 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141023</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141023</guid>
+            <pubDate>Wed, 09 Feb 2022 23:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3047b13f3da6fa0f486ccd55269a11a2891356c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[피그 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1081,12 +1081,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec5d488e21478c0b7d565bcbd75523719209bbb7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 바다 탐험대 옥토넛 : 해저동굴 대탈출 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=141023</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=141023</guid>
-            <pubDate>Wed, 09 Feb 2022 23:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3047b13f3da6fa0f486ccd55269a11a2891356c" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[매미소리 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135097</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135097</guid>
+            <pubDate>Mon, 14 Feb 2022 08:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fad66879f4ba1aba5bba06be6d3cf44f8b2490c6f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[전투왕 (다음영화 영화관 ─ 개봉예정)]]></title>
