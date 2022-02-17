@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 15:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 16:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -442,7 +442,7 @@
 			타마코 러브 스토리 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/478539</link>
             <guid>https://serieson.naver.com/v2/movie/478539</guid>
-            <pubDate>Thu, 17 Feb 2022 15:12:21 GMT</pubDate>
+            <pubDate>Thu, 17 Feb 2022 15:12:13 GMT</pubDate>
             <content:encoded><![CDATA[구매]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20140820_25/1408499270410UaKd6_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
@@ -515,7 +515,7 @@
 			슈퍼노바 지구 탈출기 ([시리즈온] 천원관)]]></title>
             <link>https://serieson.naver.com/v2/movie/470085</link>
             <guid>https://serieson.naver.com/v2/movie/470085</guid>
-            <pubDate>Thu, 17 Feb 2022 15:12:21 GMT</pubDate>
+            <pubDate>Thu, 17 Feb 2022 15:12:13 GMT</pubDate>
             <content:encoded><![CDATA[구매]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20140120_171/1390181740740nlq1M_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
@@ -1315,30 +1315,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F142EFB10ADC376A4E7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[우리 죄를 사하여 주옵소서 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157619</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157619</guid>
-            <pubDate>Fri, 04 Feb 2022 03:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb30440aae4d190083460a71414b2d7842ba048d3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[하트 샷 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157621</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157621</guid>
-            <pubDate>Fri, 04 Feb 2022 03:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe899938c0287e1c8d5af29135b62f5fb70eda20b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[이랙스 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157620</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157620</guid>
-            <pubDate>Thu, 17 Feb 2022 05:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7995f4f72901d18744d706f36d1b7537a02a9365" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[텍사스 전기톱 학살 2022 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156687</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156687</guid>
@@ -1681,22 +1657,6 @@
             <pubDate>Thu, 17 Feb 2022 05:11:36 GMT</pubDate>
             <content:encoded><![CDATA[22.03.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ec63ea20869c6a243ebbf2756706a022a11dc7d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[플라워 쇼 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=102638</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=102638</guid>
-            <pubDate>Fri, 04 Feb 2022 04:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd38c97f87332573b02e3c8c2f2f561c0f09322ed" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[포트 블리스 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=93384</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=93384</guid>
-            <pubDate>Fri, 04 Feb 2022 04:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F514298fe78c78d904355c6aef9fd0270b4cd3f34" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[홀리 랜드 ([다음영화] 왓챠 ─ 종료예정)]]></title>
@@ -2480,14 +2440,6 @@
             <pubDate>Fri, 04 Feb 2022 08:11:24 GMT</pubDate>
             <content:encoded><![CDATA[22.03.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffacbef15f8292311d563b228a68825273ad83a6a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[우리에겐 교황이 있다 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=63685</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=63685</guid>
-            <pubDate>Thu, 17 Feb 2022 01:50:27 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2478D64D5147CDFF21" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[미결처리반 Q ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
