@@ -4,9 +4,17 @@
         <title>[다음영화] 카카오페이지 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 00:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 02:06:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[채플린 회고]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=39469</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=39469</guid>
+            <pubDate>Wed, 23 Feb 2022 02:06:30 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F19435C174BEA15302D" length="0" type="image//thumb/C408x596/"/>
+        </item>
         <item>
             <title><![CDATA[기억의 원더랜드]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=96501</link>
@@ -104,6 +112,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F76d487f6bf4d7b754d64aa276c597ebc8e6fad67" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[악마의 무덤]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=51593</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=51593</guid>
+            <pubDate>Wed, 23 Feb 2022 02:06:30 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F250059589a30003a013a13c93f6ece40ad429653" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[스노든]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=89198</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=89198</guid>
@@ -126,6 +142,14 @@
             <pubDate>Wed, 16 Feb 2022 16:15:03 GMT</pubDate>
             <content:encoded><![CDATA[22.03.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F82f0a6dcfdeb6f2d2d62a79ab162e6f4d0a11227" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[가장 따뜻한 색, 블루]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=79172</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=79172</guid>
+            <pubDate>Wed, 23 Feb 2022 02:06:30 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2523AD4952AE77E639" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[미씽 차일드]]></title>
