@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 05:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 06:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F04dd4d9cec80ba1857d24f2b68cc4f97748c0b05" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[나이트 레이더스]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148354</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148354</guid>
+            <pubDate>Wed, 23 Feb 2022 23:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e6dbadeab9d0cf45189a0c008dc429a0fd1352e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[데스 밸리]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156666</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156666</guid>
@@ -136,6 +144,13 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F55f4119b4fa527ed112faec0858caebd293350c4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[에우리디체]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158253</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158253</guid>
+            <pubDate>Thu, 24 Feb 2022 06:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.01]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[얼어버린 시간 속에서]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157292</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157292</guid>
@@ -144,28 +159,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff62ea07fc6f7a784c08b0ee3829e90c594e7887d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나이트 레이더스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=148354</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=148354</guid>
-            <pubDate>Wed, 23 Feb 2022 23:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7e6dbadeab9d0cf45189a0c008dc429a0fd1352e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[인비저블 킬러]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157359</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157359</guid>
             <pubDate>Wed, 23 Feb 2022 23:12:50 GMT</pubDate>
             <content:encoded><![CDATA[22.03.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe1d2a645e3058eadfa324ddfee3ce5b3a4ce26cb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152908</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152908</guid>
-            <pubDate>Wed, 23 Feb 2022 23:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff892fdb7534d4d9bbb743c90257eb3007bae86e2" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
