@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 22:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 23:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1097,14 +1097,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc869a2a1cc226fd7583c04588f60000ab433155e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[주얼스 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156349</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156349</guid>
-            <pubDate>Wed, 23 Feb 2022 23:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F647e3aecb3903b189004d10881ff1eca473eafec" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[소리없는 추격자 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156297</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156297</guid>
@@ -1151,6 +1143,14 @@
             <pubDate>Thu, 24 Feb 2022 23:13:18 GMT</pubDate>
             <content:encoded><![CDATA[22.03.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff892fdb7534d4d9bbb743c90257eb3007bae86e2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙라이트 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156957</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156957</guid>
+            <pubDate>Fri, 25 Feb 2022 23:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F064affbaf3675fb3a7160658a139af8783887cc1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[돌아온 포스 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
