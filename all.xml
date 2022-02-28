@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 14:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 15:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -146,6 +146,24 @@
             <pubDate>Thu, 17 Feb 2022 17:11:52 GMT</pubDate>
             <content:encoded><![CDATA[3월 3일까지]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20200320_286/1584675806294SLckH_JPEG/movie_image.jpg?type=w320" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+			안녕자두야 스페셜 - 인어.. ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/488058</link>
+            <guid>https://serieson.naver.com/v2/movie/488058</guid>
+            <pubDate>Mon, 28 Feb 2022 15:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span>440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20140103_1/1388741159517oBH2I_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더빙
+			안녕자두야 스페셜 - 인어.. ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/52288</link>
+            <guid>https://serieson.naver.com/v2/movie/52288</guid>
+            <pubDate>Mon, 28 Feb 2022 15:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span>1,320</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20140103_1/1388741159517oBH2I_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[씽2게더(세트: 1~2편) ([시리즈온] 할인 영화관)]]></title>
@@ -353,23 +371,6 @@
             <pubDate>Sun, 20 Feb 2022 15:12:16 GMT</pubDate>
             <content:encoded><![CDATA[<span>9,600</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210826_36/1629943964659nTdae_JPEG/2__0714.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원스 어폰 어 타임 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/459120</link>
-            <guid>https://serieson.naver.com/v2/movie/459120</guid>
-            <pubDate>Sun, 27 Feb 2022 15:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span>840</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20111222_209/13245610161742LqXE_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더빙
-			극장판 도라에몽: 진구의.. ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/457346</link>
-            <guid>https://serieson.naver.com/v2/movie/457346</guid>
-            <pubDate>Sun, 20 Feb 2022 15:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span>2,200</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210805_35/1628142193088hCOyc_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[범죄의 여왕(가치봄영화:시청각.. ([시리즈온] 천원관)]]></title>
@@ -953,14 +954,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스크림 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154526</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154526</guid>
-            <pubDate>Sun, 27 Feb 2022 17:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd615f49fe381ac00cd48f0f8789746e911af66b4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[나일 강의 죽음 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=117471</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=117471</guid>
@@ -991,6 +984,14 @@
             <pubDate>Wed, 16 Feb 2022 00:39:43 GMT</pubDate>
             <content:encoded><![CDATA[22.02.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc19dfdd279275c1aea9b0c4dba703474815cf470" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[듄 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=130886</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=130886</guid>
+            <pubDate>Mon, 28 Feb 2022 15:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 배트맨 (다음영화 영화관 ─ 개봉예정)]]></title>
