@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 22:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 23:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -131,7 +131,7 @@
             <title><![CDATA[휘트니 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/ott/all.xml</link>
             <guid>https://MOVIECORD.github.io/ott/all.xml</guid>
-            <pubDate>Mon, 07 Mar 2022 22:10:58 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 23:10:43 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -144,21 +144,21 @@
 											러브 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/ott/all.xml</link>
             <guid>https://MOVIECORD.github.io/ott/all.xml</guid>
-            <pubDate>Mon, 07 Mar 2022 22:10:58 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 23:10:43 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[그해 여름 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/ott/all.xml</link>
             <guid>https://MOVIECORD.github.io/ott/all.xml</guid>
-            <pubDate>Mon, 07 Mar 2022 22:10:58 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 23:10:43 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[시카리오: 데이 오브 솔다도 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/ott/all.xml</link>
             <guid>https://MOVIECORD.github.io/ott/all.xml</guid>
-            <pubDate>Mon, 07 Mar 2022 22:10:58 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 23:10:43 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -911,6 +911,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[우리가 사랑이라고 믿는 것 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134485</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134485</guid>
+            <pubDate>Thu, 24 Feb 2022 00:43:06 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59f14769d01ff2e8ec75a72ce36be48c7a28d755" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[서바이벌리스트 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153196</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153196</guid>
@@ -925,14 +933,6 @@
             <pubDate>Thu, 10 Feb 2022 18:13:20 GMT</pubDate>
             <content:encoded><![CDATA[22.02.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8794ab82e2da32c0efa0187c65735d6249e37d43" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 사랑이라고 믿는 것 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=134485</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=134485</guid>
-            <pubDate>Thu, 24 Feb 2022 00:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F59f14769d01ff2e8ec75a72ce36be48c7a28d755" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[나이트 레이더스 (다음영화 영화관 ─ 현재상영)]]></title>
