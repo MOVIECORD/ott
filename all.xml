@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 15:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 16:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -926,20 +926,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1f54e7248dbebea9649b47176f1f8dacdc2eb9eb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
-            <pubDate>Fri, 11 Feb 2022 23:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[안테벨룸 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137065</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137065</guid>
             <pubDate>Mon, 14 Feb 2022 07:11:43 GMT</pubDate>
             <content:encoded><![CDATA[22.02.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcfb87a998ee56aa40424b98ff57417953704a6cd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
+            <pubDate>Fri, 11 Feb 2022 23:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[그 남자는 타이타닉을 보고 싶지 않았다 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -2542,30 +2542,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F166C8B254C3180952B" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[우리집에 왜 왔니? ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=115142</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=115142</guid>
-            <pubDate>Fri, 25 Feb 2022 05:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F84c45d186b7d0c439e6515e1b2d6c7e0100da4f6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[외계납치 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=114955</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=114955</guid>
-            <pubDate>Fri, 25 Feb 2022 05:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F80aed93cd2da804b1854e2ec096a175eecedc579" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[웨스턴 좀비 헌터 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=116190</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=116190</guid>
-            <pubDate>Fri, 25 Feb 2022 05:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff69e510d38b76827db177cbfe27e8d3c3b36e26c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[언터처블 : 1%의 우정 ([다음영화] 왓챠 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=67335</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=67335</guid>
@@ -3020,22 +2996,6 @@
             <pubDate>Tue, 08 Mar 2022 16:17:41 GMT</pubDate>
             <content:encoded><![CDATA[22.03.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F07769d757fbeb6c37d43d8b451a18c41fce47ef7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[협객: 도원매영 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156918</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156918</guid>
-            <pubDate>Mon, 07 Mar 2022 08:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F76f4b85d0e0fd091bd60944a9352650587011240" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아메리칸 시빌 워 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157767</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157767</guid>
-            <pubDate>Mon, 07 Mar 2022 08:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F05978441b66f9f2428af79dba3c72d1077657766" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[바이올런트 러브 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
