@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 23:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 00:43:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,28 +144,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc19dfdd279275c1aea9b0c4dba703474815cf470" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[극장판 안녕 자두야: 제주도의 비밀]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156603</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156603</guid>
+            <pubDate>Sun, 13 Mar 2022 00:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ee3e94ab72ab91fbb2dce546aa5a79152bb9901" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[매미소리]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=135097</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=135097</guid>
+            <pubDate>Sun, 13 Mar 2022 00:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fad66879f4ba1aba5bba06be6d3cf44f8b2490c6f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 금빛 모자이크: 땡큐!!]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153427</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153427</guid>
             <pubDate>Tue, 08 Mar 2022 23:11:19 GMT</pubDate>
             <content:encoded><![CDATA[22.03.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3b51b144f80ca2986899902cb90573cb2c385925" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[시라노]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154521</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154521</guid>
-            <pubDate>Sat, 12 Mar 2022 16:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbad4d2ce30349f4eff5f095247d222550ed91c83" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[피그]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151551</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151551</guid>
-            <pubDate>Sat, 12 Mar 2022 23:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec5d488e21478c0b7d565bcbd75523719209bbb7" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
