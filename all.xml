@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 23:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 00:47:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -151,14 +151,14 @@
 											키스 오브 뱀파이어 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/ott/all.xml</link>
             <guid>https://MOVIECORD.github.io/ott/all.xml</guid>
-            <pubDate>Sun, 13 Mar 2022 22:10:40 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2022 00:45:41 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미녀는 괴로워 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/ott/all.xml</link>
             <guid>https://MOVIECORD.github.io/ott/all.xml</guid>
-            <pubDate>Sun, 13 Mar 2022 22:10:40 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2022 00:45:41 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -171,7 +171,7 @@
 											화장 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/ott/all.xml</link>
             <guid>https://MOVIECORD.github.io/ott/all.xml</guid>
-            <pubDate>Sun, 13 Mar 2022 22:10:40 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2022 00:45:41 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -891,20 +891,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7bbd91ede7bdcd4d0073c1159e3c3dfb8a6ff048" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152908</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152908</guid>
-            <pubDate>Thu, 24 Feb 2022 23:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff892fdb7534d4d9bbb743c90257eb3007bae86e2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
             <pubDate>Tue, 01 Mar 2022 05:10:51 GMT</pubDate>
             <content:encoded><![CDATA[21.12.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152908</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152908</guid>
+            <pubDate>Thu, 24 Feb 2022 23:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff892fdb7534d4d9bbb743c90257eb3007bae86e2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[레벤느망 (다음영화 영화관 ─ 현재상영)]]></title>
