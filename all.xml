@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 00:47:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 02:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1124,7 +1124,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=148122</guid>
             <pubDate>Tue, 15 Mar 2022 23:12:28 GMT</pubDate>
             <content:encoded><![CDATA[22.03.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F82beabe24990fc3719f03c73e18821d31967dc96" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02d25662f049c6f9656d9272698d50596092f944" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드라이 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -1172,7 +1172,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=157433</guid>
             <pubDate>Wed, 16 Mar 2022 23:12:07 GMT</pubDate>
             <content:encoded><![CDATA[22.03.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7259c52fb0e78c2143d70ef0ee6dd66ae8d5936a" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb56e0a08f34d52385c318bef8d4485e46044cff3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[하로동선 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -2789,6 +2789,30 @@
             <pubDate>Wed, 16 Mar 2022 16:16:14 GMT</pubDate>
             <content:encoded><![CDATA[22.03.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd85292d36495497c3e5ceda08c19615f573a96a1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[다리아 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157018</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157018</guid>
+            <pubDate>Thu, 17 Mar 2022 02:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3118192182b4deeb05afd51dbc249cf0db796832" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[브릭스턴 테일 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=148122</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=148122</guid>
+            <pubDate>Tue, 15 Mar 2022 23:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02d25662f049c6f9656d9272698d50596092f944" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[라스트 드라이버 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138060</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138060</guid>
+            <pubDate>Thu, 17 Mar 2022 02:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbbb1cb55f589050866d933784418a223b074701b" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
