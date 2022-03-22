@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 14:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 15:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -249,30 +249,6 @@
             <enclosure url="https://tvstore-phinf.pstatic.net/20210730_113/1627610452046VuQOy_JPEG/SpaceJam_NewLegacy_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[19
-			
-			
-			
-			이스턴 프라미스 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/452428</link>
-            <guid>https://serieson.naver.com/v2/movie/452428</guid>
-            <pubDate>Wed, 16 Mar 2022 15:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span>840</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20151022_5/1445490279314TzhEF_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19
-			
-			
-			
-			이스턴 프라미스 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/452427</link>
-            <guid>https://serieson.naver.com/v2/movie/452427</guid>
-            <pubDate>Wed, 16 Mar 2022 15:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20151022_5/1445490279314TzhEF_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[콰이어트 플레이스 2(세트: 1~.. ([시리즈온] 할인 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/449519</link>
             <guid>https://serieson.naver.com/v2/movie/449519</guid>
@@ -287,22 +263,6 @@
             <pubDate>Tue, 01 Mar 2022 15:12:34 GMT</pubDate>
             <content:encoded><![CDATA[<span>13,750</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210623_261/1624425567386pgigc_JPEG/CONJURING_TDMMDI_PVOD_STD_V_DD_KA_TT_2160x2880_300dpi_KR.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프라미싱 영 우먼 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/428038</link>
-            <guid>https://serieson.naver.com/v2/movie/428038</guid>
-            <pubDate>Wed, 16 Mar 2022 15:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span>3,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210208_83/1612747165478tIX9H_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프라미싱 영 우먼 ([시리즈온] 할인 영화관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/428037</link>
-            <guid>https://serieson.naver.com/v2/movie/428037</guid>
-            <pubDate>Wed, 16 Mar 2022 15:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span>840</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20210208_83/1612747165478tIX9H_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자막
@@ -404,6 +364,46 @@
             <pubDate>Mon, 21 Mar 2022 15:13:31 GMT</pubDate>
             <content:encoded><![CDATA[<span>11,440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20111221_276/1324451631976netM8_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자막
+			
+			센과 치히로의 행방불명(.. ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/394837</link>
+            <guid>https://serieson.naver.com/v2/movie/394837</guid>
+            <pubDate>Tue, 22 Mar 2022 15:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span>11,440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20150113_96/1421113909808LPjqA_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자막
+			
+			바람계곡의 나우시카(패키.. ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/394831</link>
+            <guid>https://serieson.naver.com/v2/movie/394831</guid>
+            <pubDate>Tue, 22 Mar 2022 15:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span>11,440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111222_106/1324528452873OMdC0_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자막
+			
+			모노노케 히메(원령공주).. ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/394825</link>
+            <guid>https://serieson.naver.com/v2/movie/394825</guid>
+            <pubDate>Tue, 22 Mar 2022 15:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span>11,440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111222_63/1324483671210VVU36_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자막
+			
+			마루 밑 아리에티(패키지.. ([시리즈온] 할인 영화관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/394819</link>
+            <guid>https://serieson.naver.com/v2/movie/394819</guid>
+            <pubDate>Tue, 22 Mar 2022 15:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span>11,440</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111223_230/1324622664939kJnrD_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[범죄의 여왕(가치봄영화:시청각.. ([시리즈온] 천원관)]]></title>
@@ -570,18 +570,6 @@
             <enclosure url="https://movie-phinf.pstatic.net/20111221_87/1324463812384jrIP3_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[19
-			
-			
-			
-			이스턴 프라미스 ([시리즈온] 천원관)]]></title>
-            <link>https://serieson.naver.com/v2/movie/452428</link>
-            <guid>https://serieson.naver.com/v2/movie/452428</guid>
-            <pubDate>Wed, 16 Mar 2022 15:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[대여]]></content:encoded>
-            <enclosure url="https://movie-phinf.pstatic.net/20151022_5/1445490279314TzhEF_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[자막
 			
 			언어의 정원 ([시리즈온] 천원관)]]></title>
@@ -628,6 +616,14 @@
             <pubDate>Tue, 01 Mar 2022 15:12:43 GMT</pubDate>
             <content:encoded><![CDATA[대여]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20160215_163/1455527110149mO3mt_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[번지 점프를 하다 ([시리즈온] 천원관)]]></title>
+            <link>https://serieson.naver.com/v2/movie/439027</link>
+            <guid>https://serieson.naver.com/v2/movie/439027</guid>
+            <pubDate>Tue, 22 Mar 2022 15:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[대여]]></content:encoded>
+            <enclosure url="https://movie-phinf.pstatic.net/20111222_138/1324545567577v2JLW_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더빙
@@ -881,20 +877,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스펜서 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145181</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145181</guid>
-            <pubDate>Wed, 16 Mar 2022 00:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffe807f2e93a1d028b73c1ac89cbcb4e0748965aa" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[이상한 나라의 수학자 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139237</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139237</guid>
             <pubDate>Mon, 14 Feb 2022 13:15:12 GMT</pubDate>
             <content:encoded><![CDATA[22.03.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9ca21642451e2e68e3eec5b9691c2aba33b47d70" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스펜서 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145181</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145181</guid>
+            <pubDate>Wed, 16 Mar 2022 00:46:47 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffe807f2e93a1d028b73c1ac89cbcb4e0748965aa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[문폴 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1105,14 +1101,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc982f39016322391451456b3fe9bb9f82fa74950" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[사랑 후의 두 여자 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146201</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146201</guid>
-            <pubDate>Sun, 13 Mar 2022 08:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ca067234bc4a4f10b1fd8a3cba5071276843f0d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[재춘언니 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145292</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145292</guid>
@@ -1127,6 +1115,14 @@
             <pubDate>Tue, 15 Mar 2022 08:15:36 GMT</pubDate>
             <content:encoded><![CDATA[22.03.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe9161cb34768cd27d71a230075105a143e6f909c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑 후의 두 여자 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146201</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146201</guid>
+            <pubDate>Sun, 13 Mar 2022 08:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ca067234bc4a4f10b1fd8a3cba5071276843f0d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[7인의 악인전 (다음영화 영화관 ─ 개봉예정)]]></title>
