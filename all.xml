@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 10:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 11:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -145,21 +145,21 @@
 											황제를 위하여 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/ott/all.xml</link>
             <guid>https://MOVIECORD.github.io/ott/all.xml</guid>
-            <pubDate>Thu, 24 Mar 2022 10:12:33 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2022 11:09:37 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[재심 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/ott/all.xml</link>
             <guid>https://MOVIECORD.github.io/ott/all.xml</guid>
-            <pubDate>Thu, 24 Mar 2022 10:12:33 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2022 11:09:37 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[윤희에게 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/ott/all.xml</link>
             <guid>https://MOVIECORD.github.io/ott/all.xml</guid>
-            <pubDate>Thu, 24 Mar 2022 10:12:33 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2022 11:09:37 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -976,20 +976,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
-            <pubDate>Fri, 11 Feb 2022 23:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152908</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152908</guid>
             <pubDate>Thu, 24 Feb 2022 23:13:18 GMT</pubDate>
             <content:encoded><![CDATA[22.03.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff892fdb7534d4d9bbb743c90257eb3007bae86e2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스파이더맨: 노 웨이 홈 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=146656</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=146656</guid>
+            <pubDate>Fri, 11 Feb 2022 23:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[리코리쉬 피자 (다음영화 영화관 ─ 현재상영)]]></title>
