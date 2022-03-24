@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 18:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 19:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -135,14 +135,14 @@
             <title><![CDATA[러덜리스 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/ott/all.xml</link>
             <guid>https://MOVIECORD.github.io/ott/all.xml</guid>
-            <pubDate>Thu, 24 Mar 2022 18:14:19 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2022 19:11:30 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[알래스카 대지진 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/ott/all.xml</link>
             <guid>https://MOVIECORD.github.io/ott/all.xml</guid>
-            <pubDate>Thu, 24 Mar 2022 18:14:19 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2022 19:11:30 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -155,7 +155,7 @@
 											겟 아웃 얼라이브 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/ott/all.xml</link>
             <guid>https://MOVIECORD.github.io/ott/all.xml</guid>
-            <pubDate>Thu, 24 Mar 2022 18:14:19 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2022 19:11:30 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -163,7 +163,7 @@
 											토미카 무비 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/ott/all.xml</link>
             <guid>https://MOVIECORD.github.io/ott/all.xml</guid>
-            <pubDate>Thu, 24 Mar 2022 18:14:19 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2022 19:11:30 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -1121,7 +1121,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=157916</guid>
             <pubDate>Tue, 22 Mar 2022 23:12:31 GMT</pubDate>
             <content:encoded><![CDATA[22.03.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3d5265daadb87d26b0c2936383ed22e201d34564" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3c73869cd1099d1f28488b9097733c0e1cee1f83" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 시그널 (다음영화 영화관 ─ 개봉예정)]]></title>
