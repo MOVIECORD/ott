@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 07:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 08:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -955,14 +955,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe9161cb34768cd27d71a230075105a143e6f909c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[어거스트 버진 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132877</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132877</guid>
-            <pubDate>Wed, 16 Mar 2022 23:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc982f39016322391451456b3fe9bb9f82fa74950" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[신비한 동물사전 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=94464</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=94464</guid>
@@ -971,12 +963,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7d09c2f81bfb2f2ff3f38a34dfedab996d501f14" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152908</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152908</guid>
-            <pubDate>Thu, 24 Feb 2022 23:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff892fdb7534d4d9bbb743c90257eb3007bae86e2" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[어거스트 버진 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132877</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132877</guid>
+            <pubDate>Wed, 16 Mar 2022 23:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc982f39016322391451456b3fe9bb9f82fa74950" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1001,6 +993,14 @@
             <pubDate>Fri, 11 Feb 2022 23:11:48 GMT</pubDate>
             <content:encoded><![CDATA[21.12.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fc5880afdb5b7c60161f34184e1f466814fec2d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152908</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152908</guid>
+            <pubDate>Thu, 24 Feb 2022 23:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff892fdb7534d4d9bbb743c90257eb3007bae86e2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[듄 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1059,14 +1059,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F736ee84e6960e8e64a898957df6c60e197eec4b0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[B컷 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=157433</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=157433</guid>
-            <pubDate>Mon, 21 Mar 2022 03:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb56e0a08f34d52385c318bef8d4485e46044cff3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[드라이 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=149227</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=149227</guid>
@@ -1113,6 +1105,14 @@
             <pubDate>Wed, 23 Mar 2022 08:15:19 GMT</pubDate>
             <content:encoded><![CDATA[22.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fffa49b84630a69dc84c1138358a461eab82c1dff" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[B컷 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157433</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157433</guid>
+            <pubDate>Mon, 21 Mar 2022 03:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb56e0a08f34d52385c318bef8d4485e46044cff3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[하로동선 (다음영화 영화관 ─ 개봉예정)]]></title>
