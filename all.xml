@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 16:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 17:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -213,7 +213,7 @@
             <title><![CDATA[캅샵: 미친놈들의 전쟁 ([시리즈온] 할인 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/478299</link>
             <guid>https://serieson.naver.com/v2/movie/478299</guid>
-            <pubDate>Mon, 28 Mar 2022 16:16:27 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2022 15:13:01 GMT</pubDate>
             <content:encoded><![CDATA[<span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20211124_43/1637743619864giKMl_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
@@ -229,7 +229,7 @@
             <title><![CDATA[킬링 카인드: 킬러의 수제자 ([시리즈온] 할인 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/476924</link>
             <guid>https://serieson.naver.com/v2/movie/476924</guid>
-            <pubDate>Mon, 28 Mar 2022 16:16:27 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2022 15:13:01 GMT</pubDate>
             <content:encoded><![CDATA[<span>2,500</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20211227_202/1640580690855vllUl_JPEG/_P.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
@@ -309,7 +309,7 @@
             <title><![CDATA[킬러의 보디가드 2: 킬러의 와.. ([시리즈온] 할인 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/456470</link>
             <guid>https://serieson.naver.com/v2/movie/456470</guid>
-            <pubDate>Mon, 28 Mar 2022 16:16:27 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2022 15:13:01 GMT</pubDate>
             <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://tvstore-phinf.pstatic.net/20210818_291/1629279271873OcESQ_JPEG/_KB2_PO_A.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
@@ -321,7 +321,7 @@
 			킬러의 보디가드 2 ([시리즈온] 할인 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/456469</link>
             <guid>https://serieson.naver.com/v2/movie/456469</guid>
-            <pubDate>Mon, 28 Mar 2022 16:16:27 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2022 15:13:01 GMT</pubDate>
             <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210624_286/1624496856988kAD9f_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
@@ -365,7 +365,7 @@
 			레옹 ([시리즈온] 할인 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/451454</link>
             <guid>https://serieson.naver.com/v2/movie/451454</guid>
-            <pubDate>Mon, 28 Mar 2022 16:16:27 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2022 15:13:01 GMT</pubDate>
             <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20180614_21/1528939162378wtwMm_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
@@ -393,7 +393,7 @@
 			캐시트럭 ([시리즈온] 할인 영화관)]]></title>
             <link>https://serieson.naver.com/v2/movie/447253</link>
             <guid>https://serieson.naver.com/v2/movie/447253</guid>
-            <pubDate>Mon, 28 Mar 2022 16:16:27 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2022 15:13:01 GMT</pubDate>
             <content:encoded><![CDATA[<span>1,250</span><i class="spr_cash_img unit_cash"><span class="blind">캐시</span></i>]]></content:encoded>
             <enclosure url="https://movie-phinf.pstatic.net/20210610_47/1623286504396SomKE_JPEG/movie_image.jpg?type=f102_138" length="0" type="image/jpg"/>
         </item>
@@ -941,6 +941,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fccbb20ebcbd54b9d461962f7af826bde5122b805" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
+            <pubDate>Mon, 28 Mar 2022 12:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[뱅드림! 팝핀‘ 드림! (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156955</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156955</guid>
@@ -955,14 +963,6 @@
             <pubDate>Wed, 02 Mar 2022 09:11:41 GMT</pubDate>
             <content:encoded><![CDATA[22.03.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3741882ac3d1e790de3cf934aaf4bd886c5565ea" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
-            <pubDate>Mon, 28 Mar 2022 12:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[도어맨 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1016,7 +1016,7 @@
             <title><![CDATA[하늘의 푸르름을 아는 사람이여 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=135548</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=135548</guid>
-            <pubDate>Mon, 28 Mar 2022 16:16:50 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2022 15:13:25 GMT</pubDate>
             <content:encoded><![CDATA[22.03.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe4dc4721df05c4b46cfffc11f7859037956ec50d" length="0" type="image//thumb/C408x596/"/>
         </item>
@@ -2415,7 +2415,7 @@
             <title><![CDATA[분노 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=96644</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=96644</guid>
-            <pubDate>Mon, 28 Mar 2022 16:17:30 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2022 17:16:28 GMT</pubDate>
             <content:encoded><![CDATA[22.04.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2dcda732235aa8db9526eb6adefcb557f17c0e87" length="0" type="image//thumb/C408x596/"/>
         </item>
