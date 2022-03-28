@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 08:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 09:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -135,14 +135,14 @@
             <title><![CDATA[러덜리스 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/ott/all.xml</link>
             <guid>https://MOVIECORD.github.io/ott/all.xml</guid>
-            <pubDate>Mon, 28 Mar 2022 06:14:58 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2022 09:12:32 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[알래스카 대지진 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/ott/all.xml</link>
             <guid>https://MOVIECORD.github.io/ott/all.xml</guid>
-            <pubDate>Mon, 28 Mar 2022 06:14:58 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2022 09:12:32 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -155,7 +155,7 @@
 											겟 아웃 얼라이브 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/ott/all.xml</link>
             <guid>https://MOVIECORD.github.io/ott/all.xml</guid>
-            <pubDate>Mon, 28 Mar 2022 06:14:58 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2022 09:12:32 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -163,14 +163,14 @@
 											토미카 무비 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/ott/all.xml</link>
             <guid>https://MOVIECORD.github.io/ott/all.xml</guid>
-            <pubDate>Mon, 28 Mar 2022 06:14:58 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2022 09:12:32 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[리틀 킹덤 ([시리즈온] 이주의 무료영화)]]></title>
             <link>https://MOVIECORD.github.io/ott/all.xml</link>
             <guid>https://MOVIECORD.github.io/ott/all.xml</guid>
-            <pubDate>Mon, 28 Mar 2022 06:14:58 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2022 09:12:32 GMT</pubDate>
             <content:encoded><![CDATA[오픈예정]]></content:encoded>
         </item>
         <item>
@@ -931,14 +931,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fccbb20ebcbd54b9d461962f7af826bde5122b805" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[뱅드림! 팝핀‘ 드림! (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156955</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156955</guid>
-            <pubDate>Wed, 16 Mar 2022 23:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5850d17f2763ce9382810e46da277c047331a826" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[어거스트 버진 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=132877</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=132877</guid>
@@ -977,6 +969,14 @@
             <pubDate>Sun, 27 Mar 2022 00:52:08 GMT</pubDate>
             <content:encoded><![CDATA[22.02.09]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd0235b8e9c0048e4301f8c9c74da929863e33456" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뱅드림! 팝핀‘ 드림! (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156955</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156955</guid>
+            <pubDate>Wed, 16 Mar 2022 23:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5850d17f2763ce9382810e46da277c047331a826" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[에펠 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -2080,6 +2080,14 @@
             <pubDate>Mon, 14 Mar 2022 16:17:53 GMT</pubDate>
             <content:encoded><![CDATA[22.03.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0d466dff97d7a2c13293482820248c5daa719044" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[언터처블 : 1%의 우정 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=67335</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=67335</guid>
+            <pubDate>Mon, 28 Mar 2022 09:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F18518C4F4F2F710A23" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아나키스트 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
