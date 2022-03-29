@@ -4,57 +4,9 @@
         <title>[다음영화] 카카오페이지 ─ 종료예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 15:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 16:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[가비]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=61782</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=61782</guid>
-            <pubDate>Mon, 14 Mar 2022 16:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1541E3494F59E4982D" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[영원스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=77993</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=77993</guid>
-            <pubDate>Mon, 14 Mar 2022 16:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1df0ea8c80fd452bc49949fd8d7e4d053a93c60f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[마궁매영: 유령극장]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=102764</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=102764</guid>
-            <pubDate>Mon, 14 Mar 2022 16:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0d466dff97d7a2c13293482820248c5daa719044" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[당나귀 공주]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=52773</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=52773</guid>
-            <pubDate>Tue, 29 Mar 2022 09:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Febf1b2dbe34f4dd2bb939bf85d091e9b1564468958366" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[언터처블 : 1%의 우정]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=67335</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=67335</guid>
-            <pubDate>Mon, 28 Mar 2022 09:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F18518C4F4F2F710A23" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[천주정]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=79167</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=79167</guid>
-            <pubDate>Tue, 29 Mar 2022 09:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F212C344B531F6AF333" length="0" type="image//thumb/C408x596/"/>
-        </item>
         <item>
             <title><![CDATA[아나키스트]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=170</link>
@@ -414,6 +366,14 @@
             <pubDate>Mon, 28 Mar 2022 19:10:13 GMT</pubDate>
             <content:encoded><![CDATA[22.04.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2dcda732235aa8db9526eb6adefcb557f17c0e87" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[GTA플레이어]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=113019</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=113019</guid>
+            <pubDate>Tue, 29 Mar 2022 16:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F05ae8a14b68784c148fab4f25d6c217d950341e5" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
