@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 07:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 08:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,12 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5850d17f2763ce9382810e46da277c047331a826" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[역할들]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158797</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158797</guid>
-            <pubDate>Wed, 13 Apr 2022 03:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F736ee84e6960e8e64a898957df6c60e197eec4b0" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[행복을 전하는 편지]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145703</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145703</guid>
+            <pubDate>Wed, 13 Apr 2022 08:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3c42b334e2002d46157b55b90de1f4026c3975a9" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
