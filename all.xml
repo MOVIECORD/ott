@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 15:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 16:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -326,22 +326,6 @@
             <pubDate>Thu, 31 Mar 2022 03:26:38 GMT</pubDate>
             <content:encoded><![CDATA[22.04.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F70f1914207877f7e7a697d31d24ce5f4be680634" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼배드 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=52669</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=52669</guid>
-            <pubDate>Tue, 22 Mar 2022 12:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F13299E154C68C7B754" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[미니언즈 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=81846</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=81846</guid>
-            <pubDate>Tue, 29 Mar 2022 03:28:02 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2cbeec6d6b1b879dac62c295a4fc734f894340b7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[시애틀의 잠 못 이루는 밤 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1160,14 +1144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f9750f09dac0f1b3659ae03cfe9ed7938be8d30" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[맨 오브 갓 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159224</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159224</guid>
-            <pubDate>Thu, 07 Apr 2022 04:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8ae1ecc369076554bb2541b470974f7045047dfb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[부기 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147701</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147701</guid>
@@ -1613,30 +1589,6 @@
             <pubDate>Mon, 28 Mar 2022 12:20:51 GMT</pubDate>
             <content:encoded><![CDATA[22.04.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F36e754027bdbe5dbf9f8b4c7458168acc4cbb1b2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[어느 독재자 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=88068</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=88068</guid>
-            <pubDate>Mon, 11 Apr 2022 06:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4bd76e2750781b1f989daff7b80c251a7f50a91b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[개에게 처음 이름을 지어준 날 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=104883</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=104883</guid>
-            <pubDate>Mon, 11 Apr 2022 06:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d1b7167cb746b776980caa5ad7ab5fba3d2e791" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[라라랜드 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=95306</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=95306</guid>
-            <pubDate>Mon, 11 Apr 2022 06:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0e371de6f342a66143c49af3dd2b204342bbb5aa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[빌마르크 어사일럼 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
