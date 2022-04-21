@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 15:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 16:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdb225500f78c419aec04f5a1c6f1bc3290832c22" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[쓰리: 아직 끝나지 않았다 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145278</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145278</guid>
-            <pubDate>Fri, 08 Apr 2022 03:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd7d13d519278c4ed6f8fb3845423f310b4d8bfde" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 귀멸의 칼날: 무한열차편 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=145371</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=145371</guid>
             <pubDate>Wed, 13 Apr 2022 23:13:04 GMT</pubDate>
             <content:encoded><![CDATA[22.04.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe2733bbc22a93d16bace5658738322df204bbf01" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[쓰리: 아직 끝나지 않았다 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145278</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145278</guid>
+            <pubDate>Fri, 08 Apr 2022 03:32:44 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd7d13d519278c4ed6f8fb3845423f310b4d8bfde" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[중경삼림 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -280,6 +280,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac3fca4e494abc742f22c389bffa5f57f5a40b9d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[극장판 엉덩이 탐정: 수플레 섬의 비밀 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153204</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153204</guid>
+            <pubDate>Thu, 21 Apr 2022 16:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8e06f776e191821efe1c0ba65b0222d87d49a5b6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[파리의 피아니스트: 후지코 헤밍의 시간들 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146407</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146407</guid>
@@ -318,22 +326,6 @@
             <pubDate>Wed, 20 Apr 2022 23:15:01 GMT</pubDate>
             <content:encoded><![CDATA[22.04.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F486913e489910ec8021fa2cf6a3b3e77230c933c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[부기나이트 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158065</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158065</guid>
-            <pubDate>Wed, 20 Apr 2022 11:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F03bae2e3001dcb78ff5294a95dd8651881af8491" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[미드나잇 인 파리 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=57645</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=57645</guid>
-            <pubDate>Fri, 25 Mar 2022 00:46:35 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F738cb1b8ed1705cbf165904a0093c874445cf359" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[몬스터 호텔 2 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -2094,14 +2086,6 @@
             <pubDate>Wed, 20 Apr 2022 07:14:14 GMT</pubDate>
             <content:encoded><![CDATA[22.04.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F79e746bcea93f72e7d47579e56e3eb89581ae560" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[악마의 손 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=142704</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=142704</guid>
-            <pubDate>Thu, 07 Apr 2022 06:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F54cb870d31580b4f279d01620e92d7bc4c8e5e6d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[프리즌 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
