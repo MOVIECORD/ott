@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 17:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 18:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,20 +80,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb491e00f195f70fe69364c79cd1ef40224b19608" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[열대왕사]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151328</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151328</guid>
-            <pubDate>Wed, 20 Apr 2022 23:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F437bb6ffee32d3bec749738c4cee4aa6ce1ef6b7" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 주술회전 0]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=156790</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=156790</guid>
             <pubDate>Thu, 17 Feb 2022 00:36:22 GMT</pubDate>
             <content:encoded><![CDATA[22.02.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbdec276db284e8c6d82f974cff11fa991ccd3f6b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[열대왕사]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151328</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151328</guid>
+            <pubDate>Wed, 20 Apr 2022 23:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F437bb6ffee32d3bec749738c4cee4aa6ce1ef6b7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[청킹맨션]]></title>
@@ -136,6 +136,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1480f5c678844507d9dca630fce845360a61bf54" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[태어나길 잘했어]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145345</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145345</guid>
+            <pubDate>Sat, 23 Apr 2022 18:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8e0e694e88c0b7992201bf9f04560fb7e2ee2aa8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[위대한 계약: 파주, 책, 도시]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=144626</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144626</guid>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 23 Apr 2022 03:30:43 GMT</pubDate>
             <content:encoded><![CDATA[22.03.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ac6afd6ce9c957440c76d731f81503c2d5b3d42" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[하빗]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152470</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152470</guid>
-            <pubDate>Sat, 23 Apr 2022 07:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F30a2e0ef79641841e489f9fb36b9e8137161d3a6" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
