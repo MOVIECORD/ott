@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 21:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 22:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1480f5c678844507d9dca630fce845360a61bf54" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[태어나길 잘했어 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145345</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145345</guid>
+            <pubDate>Sat, 23 Apr 2022 22:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8e0e694e88c0b7992201bf9f04560fb7e2ee2aa8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[위대한 계약: 파주, 책, 도시 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=144626</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=144626</guid>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 23 Apr 2022 03:30:43 GMT</pubDate>
             <content:encoded><![CDATA[22.03.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ac6afd6ce9c957440c76d731f81503c2d5b3d42" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[말임씨를 부탁해 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=151293</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=151293</guid>
-            <pubDate>Sat, 23 Apr 2022 20:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa1c758159fc2be91c7c3ec1c8b4efbf60dd1dfff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[닥터 스트레인지: 대혼돈의 멀티버스 (다음영화 영화관 ─ 개봉예정)]]></title>
