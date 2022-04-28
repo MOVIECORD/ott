@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 15:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 16:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -326,22 +326,6 @@
             <pubDate>Thu, 28 Apr 2022 10:14:42 GMT</pubDate>
             <content:encoded><![CDATA[22.05.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F253c9d4ae7a1a509ffebcd7edaaa5532dcc9da1e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[컨저링 2 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=94486</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=94486</guid>
-            <pubDate>Wed, 30 Mar 2022 09:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2fcacc0c6a963cb72504fd9d017a53650f54e021" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[컨저링 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=77979</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=77979</guid>
-            <pubDate>Wed, 30 Mar 2022 09:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F246B664A5223FF1E12" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[플레잉 위드 파이어 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -934,14 +918,6 @@
             <pubDate>Fri, 22 Apr 2022 07:13:31 GMT</pubDate>
             <content:encoded><![CDATA[22.05.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F146F1B10ABA8980D9E" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[버블 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158055</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158055</guid>
-            <pubDate>Thu, 07 Apr 2022 06:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2244bf32b342e70e7424a42b58f250b8b7c8c62c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[청소년 v 정부 - 기후 정의를 외치다 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
@@ -2330,22 +2306,6 @@
             <pubDate>Sun, 24 Apr 2022 16:17:13 GMT</pubDate>
             <content:encoded><![CDATA[22.05.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc533862e03aad173d59e496511e8afcbeaf44e6b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[부기나이트 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158065</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158065</guid>
-            <pubDate>Wed, 20 Apr 2022 11:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F03bae2e3001dcb78ff5294a95dd8651881af8491" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[브레이킹 라인 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159170</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159170</guid>
-            <pubDate>Wed, 20 Apr 2022 11:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3363ee069d09eb52aa14b2f508322b6b14ec54b8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[영희 ([다음영화] 카카오페이지 ─ 공개예정)]]></title>
