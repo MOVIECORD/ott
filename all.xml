@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 04:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 06:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa645a5285e0758cc1fdff9b3aa72d5fb234a7fa9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[베르네 부인의 장미정원 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152814</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152814</guid>
+            <pubDate>Tue, 31 May 2022 23:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F555ed3480a8ff028128f7e991798c5c0dc115eda" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[카시오페아 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159799</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159799</guid>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 03 May 2022 07:12:46 GMT</pubDate>
             <content:encoded><![CDATA[22.05.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9f4fcc696cb967895ae0735c198d0b9f0551fb3a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[베르네 부인의 장미정원 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152814</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152814</guid>
-            <pubDate>Tue, 31 May 2022 23:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F555ed3480a8ff028128f7e991798c5c0dc115eda" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[이공삼칠 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -854,12 +854,35 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ea8ffb2c4db2b707dcf538b1218f7c4890fe78e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[블래스티드: 친구들 vs 외계인 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161229</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161229</guid>
+            <pubDate>Thu, 16 Jun 2022 06:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8d13a343208be2145ed3e7bdadbedecfc53555b2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[더 넌 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=120838</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=120838</guid>
             <pubDate>Tue, 14 Jun 2022 04:46:18 GMT</pubDate>
             <content:encoded><![CDATA[22.06.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8b407f52ae40e783de2bf4447e631a869360ca17" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뷰티 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139420</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139420</guid>
+            <pubDate>Thu, 16 Jun 2022 06:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.29]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어 마우스풀 오브 에어 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154383</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154383</guid>
+            <pubDate>Thu, 16 Jun 2022 06:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c5a0ec176a05841b61f3587c85117087e631a39" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[바비의 공주와 거지 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
@@ -1143,6 +1166,97 @@
             <pubDate>Thu, 16 Jun 2022 03:01:56 GMT</pubDate>
             <content:encoded><![CDATA[22.06.29]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F03621d6ebb8ab9c73585b91686160de9f50e7211" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[마징카이저 SKL ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=67460</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=67460</guid>
+            <pubDate>Thu, 16 Jun 2022 06:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5710ecbbcc3abc6e63995de4fda4ef0ea1b33c91" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[타이니 숄더:바비 인형을 다시 보다 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=120266</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=120266</guid>
+            <pubDate>Thu, 16 Jun 2022 06:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6f78b50463b4ce03c89bf5182f420ddc044234b5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[닷핵퀀텀 : 숨겨진 몬스터의 비밀 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=65851</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=65851</guid>
+            <pubDate>Thu, 16 Jun 2022 06:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdd8a8b5c6215bcefff3dd058caff3205b2a5d6a4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[오디션 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=84947</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=84947</guid>
+            <pubDate>Tue, 14 Jun 2022 16:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff8874421a64d9677167016f0fff0c436a374db7b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 세인트 세이야 : 사신 에리스 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143216</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143216</guid>
+            <pubDate>Thu, 16 Jun 2022 06:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[극장판 세인트 세이야 : 신들의 뜨거운 싸움 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143227</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143227</guid>
+            <pubDate>Thu, 16 Jun 2022 06:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[극장판 트리니티 세븐 -유구 도서관과 연금술 소녀- ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=110565</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=110565</guid>
+            <pubDate>Thu, 16 Jun 2022 06:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F148b637d9442bd075a2384deec745c1c913d1304" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 세인트 세이야 : 최후성전의 전사들 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143245</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143245</guid>
+            <pubDate>Thu, 16 Jun 2022 06:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[극장판 세인트 세이야 : 진홍의 소년 전설 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143234</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143234</guid>
+            <pubDate>Thu, 16 Jun 2022 06:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[극장판 세인트 세이야 : 천계편 서곡 overture ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143242</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143242</guid>
+            <pubDate>Thu, 16 Jun 2022 06:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[허니 보이 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=127655</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=127655</guid>
+            <pubDate>Thu, 16 Jun 2022 06:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F25482751cf0e490b81b8d2b893be83ab1572431647286" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[벨지안 랩소디 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=96769</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=96769</guid>
+            <pubDate>Tue, 14 Jun 2022 16:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa27c04fc9fd2d02df776e46e3f03c5f784d4bc76" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[흡혈형사 나도열 ([다음영화] 왓챠 ─ 공개예정)]]></title>
