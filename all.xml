@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 05:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 06:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,6 +184,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F72cfc7293390c63db16779b67097d8703d2a5628" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[모어 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153828</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153828</guid>
+            <pubDate>Tue, 14 Jun 2022 23:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38f17227af8b5decdc74b54f9f408488639d5e4d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 윌벤져스: 수상한 캠핑대소동 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160414</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160414</guid>
@@ -206,14 +214,6 @@
             <pubDate>Fri, 03 Jun 2022 02:50:02 GMT</pubDate>
             <content:encoded><![CDATA[22.06.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fd5fd3fbeb3cb974195b91a21e529e8234b97de" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[모어 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=153828</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=153828</guid>
-            <pubDate>Tue, 14 Jun 2022 23:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38f17227af8b5decdc74b54f9f408488639d5e4d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[컴온 컴온 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -590,6 +590,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6f0383996e79bb75f1bf85c2a4618a2ab904f96e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[데드락: 라스트 리벤지 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156608</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156608</guid>
+            <pubDate>Mon, 20 Jun 2022 06:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0371ebaaaa98e6f6f273d90c7020b67c1c4b1bce" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[팜 스프링스 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=137848</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=137848</guid>
@@ -646,12 +654,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe94a320f0510d906fec2bdab497734286de0a597" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[러브 앤 젤라토 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161226</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161226</guid>
+            <pubDate>Wed, 15 Jun 2022 23:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd818f6901dafce067f29d7621521cd204f45e53f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[어 마우스풀 오브 에어 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154383</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154383</guid>
             <pubDate>Thu, 16 Jun 2022 06:16:06 GMT</pubDate>
             <content:encoded><![CDATA[22.06.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7c5a0ec176a05841b61f3587c85117087e631a39" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[범털 2: 쩐의 전쟁 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=149745</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=149745</guid>
+            <pubDate>Mon, 20 Jun 2022 06:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9361b5ff45e941daeed797016adb8e2fc8fbb372" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[바비의 공주와 거지 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
@@ -694,12 +718,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1671A4554E3E375E03" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[메인스트림 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=143880</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=143880</guid>
+            <pubDate>Mon, 20 Jun 2022 06:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F935615a6c9fa0a96043b2bfccc5c4a435dff7759" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[씽2게더 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=138207</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=138207</guid>
             <pubDate>Tue, 14 Jun 2022 04:46:18 GMT</pubDate>
             <content:encoded><![CDATA[22.07.02]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1021e3e3e714bc8ebf67f8c3e238a56ada885292" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[어부바 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=144227</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=144227</guid>
+            <pubDate>Mon, 20 Jun 2022 06:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4a55864ff642261af87b1e93afddc9e5f76f9f0e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[헬로, 굿바이, 그리고 그 사이의 모든 것 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161266</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161266</guid>
+            <pubDate>Mon, 20 Jun 2022 06:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4aba3d9cd788b89ef22e4ecb2f75ad207c4872e0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[씨 비스트 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
@@ -715,6 +763,14 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=160218</guid>
             <pubDate>Tue, 14 Jun 2022 06:16:25 GMT</pubDate>
             <content:encoded><![CDATA[22.07.11]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[설득 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151512</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151512</guid>
+            <pubDate>Mon, 20 Jun 2022 06:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F569e649574d4cd45aec151dcb057ebda848bb97e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[화이트 월 ([다음영화] 왓챠 ─ 종료예정)]]></title>
@@ -962,6 +1018,14 @@
             <pubDate>Mon, 20 Jun 2022 05:12:14 GMT</pubDate>
             <content:encoded><![CDATA[22.07.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F31af8873fe067c5e91ef79504fb1d840059b61cd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스펜서 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=145181</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=145181</guid>
+            <pubDate>Mon, 20 Jun 2022 06:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffe807f2e93a1d028b73c1ac89cbcb4e0748965aa" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[플라이 미 투 더 문 ([다음영화] 카카오페이지 ─ 종료예정)]]></title>
