@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 05:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 06:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ef78f21b43a4d051a178f1ee3f9fbb49cfd930f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[고스트랜드 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138164</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138164</guid>
-            <pubDate>Tue, 21 Jun 2022 03:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9207366796fb2f2d2e01f88bb9b53addaaaf9a45" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[쥬라기 월드: 도미니언 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139235</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139235</guid>
@@ -142,6 +134,14 @@
             <pubDate>Thu, 09 Jun 2022 00:57:38 GMT</pubDate>
             <content:encoded><![CDATA[22.06.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7267cd7cccb1af1d5fe306be5c0c63925282b19d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[고스트랜드 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138164</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138164</guid>
+            <pubDate>Tue, 21 Jun 2022 03:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9207366796fb2f2d2e01f88bb9b53addaaaf9a45" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[모어 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1036,6 +1036,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F114c1660c3a75fdef7dc01c86a11984bb53a052e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[스퀴즈 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=93276</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=93276</guid>
+            <pubDate>Tue, 05 Jul 2022 06:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F53d39a68902140ea466da752b88349826e6f15c8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[카오스 ([다음영화] 왓챠 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=50289</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=50289</guid>
@@ -1066,6 +1074,38 @@
             <pubDate>Tue, 05 Jul 2022 05:19:06 GMT</pubDate>
             <content:encoded><![CDATA[22.07.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2253033851FFC07C23" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[지옥: 두개의 삶 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=47099</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=47099</guid>
+            <pubDate>Tue, 05 Jul 2022 06:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F14493010B0C33953D3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[출국심사 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132558</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132558</guid>
+            <pubDate>Tue, 05 Jul 2022 06:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe6d34bd37820481eb76cb965a6beb99f1560273385549" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[학교 다녀왔습니다 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=30604</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=30604</guid>
+            <pubDate>Tue, 05 Jul 2022 06:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F115BAB594DE8D78C3D" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[꿈속에서 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=48644</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=48644</guid>
+            <pubDate>Tue, 05 Jul 2022 06:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F135351354CAC64BD32" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
