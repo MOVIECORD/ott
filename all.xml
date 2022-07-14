@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 15:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 16:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -326,14 +326,6 @@
             <pubDate>Thu, 14 Jul 2022 12:24:16 GMT</pubDate>
             <content:encoded><![CDATA[22.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F825f02455b69f93b5ceb10f12c83e662adf0c4a8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[이스케이프 룸 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=125697</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=125697</guid>
-            <pubDate>Mon, 11 Jul 2022 03:28:47 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8ca5a86d9fdc4dc39e0f5f7ee53f5a511552038869913" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[우주전쟁 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -1238,14 +1230,6 @@
             <pubDate>Mon, 11 Jul 2022 08:27:18 GMT</pubDate>
             <content:encoded><![CDATA[22.08.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F453152fc3503f3a5d706a0c78b88c8b0dbe01db6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[윈드랜드 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=92488</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=92488</guid>
-            <pubDate>Thu, 30 Jun 2022 05:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.14]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F94af59e7eea1af9edee7509c7061606afb65efdc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[해피니스 네버 컴즈 얼론 ([다음영화] 왓챠 ─ 종료예정)]]></title>
