@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 03:48:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 04:44:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9a03fb5ab29f3ae61de729ce21f42592f512cb23" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프리! 더 파이널 스트로크 후편 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=159684</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=159684</guid>
-            <pubDate>Thu, 30 Jun 2022 00:58:30 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa25ffc94823b7522564f7f2c9714b4314b97cae0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[빅샤크4: 바다공룡 대모험 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154786</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154786</guid>
@@ -150,6 +142,14 @@
             <pubDate>Wed, 01 Jun 2022 01:07:57 GMT</pubDate>
             <content:encoded><![CDATA[22.06.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ef78f21b43a4d051a178f1ee3f9fbb49cfd930f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[프리! 더 파이널 스트로크 후편 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=159684</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=159684</guid>
+            <pubDate>Thu, 30 Jun 2022 00:58:30 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa25ffc94823b7522564f7f2c9714b4314b97cae0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[메모리 (다음영화 영화관 ─ 현재상영)]]></title>
