@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 08:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 09:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,6 +231,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb9713e80a8c1cb269ab03337fd8cb3d247402160" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[사랑할 땐 누구나 최악이 된다 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152038</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152038</guid>
+            <pubDate>Thu, 28 Jul 2022 09:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4fde77f51242682717d98e31a034b00c5c44db14" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[엔젤 하트 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=2029</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=2029</guid>
@@ -252,7 +260,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=161416</guid>
             <pubDate>Tue, 19 Jul 2022 23:14:44 GMT</pubDate>
             <content:encoded><![CDATA[22.07.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe116f173a0d88689f853b9e07137d5fc8ed469e6" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fed9fc10395269fb5bfe59c2556bde035e0d7efae" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[데이 투 다이 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -317,14 +325,6 @@
             <pubDate>Wed, 27 Jul 2022 23:14:14 GMT</pubDate>
             <content:encoded><![CDATA[22.08.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff84ef6b058300c2818fa4519f057ad3748101229" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[세기의 은행털이: 도둑들의 고백 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162270</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162270</guid>
-            <pubDate>Wed, 27 Jul 2022 23:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F54451b107f7effd370dcf849fbe282dc31e2f640" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[컷 스로트 시티 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -764,7 +764,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=161416</guid>
             <pubDate>Tue, 19 Jul 2022 23:14:44 GMT</pubDate>
             <content:encoded><![CDATA[22.07.29]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe116f173a0d88689f853b9e07137d5fc8ed469e6" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fed9fc10395269fb5bfe59c2556bde035e0d7efae" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[금수저가 내게로 올까요? ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
