@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 04:39:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 05:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -671,6 +671,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3adf584ca89902d68a8b88db75a3f39a912baab9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[엔젤 오브 데스 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=141098</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=141098</guid>
+            <pubDate>Thu, 28 Jul 2022 05:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdda2a7e5f420bcc8fba9671b2bf46f13967d0e51" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[혐오스런 마츠코의 일생 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=42067</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=42067</guid>
@@ -927,6 +935,21 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faa30ebe031785acb4f4afe6f01d6fdde0d5232c1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[오피스 인베이전 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162274</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162274</guid>
+            <pubDate>Thu, 28 Jul 2022 05:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.10]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세기의 은행털이: 도둑들의 고백 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162270</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162270</guid>
+            <pubDate>Wed, 27 Jul 2022 23:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F54451b107f7effd370dcf849fbe282dc31e2f640" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[13: 더 뮤지컬 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162104</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162104</guid>
@@ -941,6 +964,13 @@
             <pubDate>Thu, 28 Jul 2022 04:38:39 GMT</pubDate>
             <content:encoded><![CDATA[22.08.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F71d246a8a6eb434059b166e4d1c2ea6804d1029a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[로열틴 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162272</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162272</guid>
+            <pubDate>Thu, 28 Jul 2022 05:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.17]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[강철의 연금술사 완결편 복수자 스카 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
@@ -1221,6 +1251,22 @@
             <pubDate>Thu, 28 Jul 2022 03:33:13 GMT</pubDate>
             <content:encoded><![CDATA[22.08.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd3ec45e9f293ce3811ec74cd24fbe06664d3b5ed" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[생의 마지막 한 걸음 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134016</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134016</guid>
+            <pubDate>Thu, 28 Jul 2022 05:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F61f7fed5848a4a509d5a9fe6744629411564675550487" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[경극을 따라서 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=134044</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=134044</guid>
+            <pubDate>Thu, 28 Jul 2022 05:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F09fbdcfe97984fbba2457e98004ecf981564838688594" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[잃어버린 아이들 ([다음영화] 왓챠 ─ 공개예정)]]></title>
