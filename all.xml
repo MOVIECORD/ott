@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 15:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 16:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -429,14 +429,6 @@
             <pubDate>Wed, 27 Jul 2022 08:16:49 GMT</pubDate>
             <content:encoded><![CDATA[22.08.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3adf584ca89902d68a8b88db75a3f39a912baab9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[엄마라는 집 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161913</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161913</guid>
-            <pubDate>Tue, 26 Jul 2022 04:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faa30ebe031785acb4f4afe6f01d6fdde0d5232c1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[오피스 인베이전 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
