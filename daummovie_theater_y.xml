@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 22:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 23:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,20 +104,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0935ff55cf62deb0648292658709976c9f434f00" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[굿 럭 투 유, 리오 그랜드]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156774</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156774</guid>
-            <pubDate>Wed, 10 Aug 2022 23:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02f3f66bc095410ad4cd460c5a50a99a5dc22f92" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[명탐정 코난: 할로윈의 신부]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159461</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159461</guid>
             <pubDate>Tue, 12 Jul 2022 23:13:22 GMT</pubDate>
             <content:encoded><![CDATA[22.07.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fafa6da7c2f245e8bf1c7b805df332e85ff14cc66" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[굿 럭 투 유, 리오 그랜드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156774</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156774</guid>
+            <pubDate>Wed, 10 Aug 2022 23:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02f3f66bc095410ad4cd460c5a50a99a5dc22f92" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[뱅크시]]></title>
@@ -160,12 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8fc399e3ee3b5783d821fe5859535137a9d2fb18" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[모퉁이]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154119</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154119</guid>
-            <pubDate>Fri, 12 Aug 2022 15:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe7dccc4f61bf17de4b0665846a43c4e90bc83a5c" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[보일링 포인트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=153341</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=153341</guid>
+            <pubDate>Fri, 12 Aug 2022 23:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69b1bc2d7897d00081a009950e2fdee3ce42f7a8" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
