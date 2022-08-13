@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 15:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 16:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -325,14 +325,6 @@
             <pubDate>Tue, 09 Aug 2022 23:13:25 GMT</pubDate>
             <content:encoded><![CDATA[22.08.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc90998a344824c14386bf549dbb2856d219b4933" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[루저의 역습 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=94132</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=94132</guid>
-            <pubDate>Mon, 08 Aug 2022 03:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcc4ccaea253abda172cd6dfb27bcca9cae743a36" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엑시트 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -804,14 +796,6 @@
             <pubDate>Mon, 08 Aug 2022 03:09:54 GMT</pubDate>
             <content:encoded><![CDATA[22.08.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0a9bc7406eb94984b4fe381d90fa8a5c1540556084895" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[무서운 이야기 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=72189</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=72189</guid>
-            <pubDate>Mon, 01 Aug 2022 04:01:32 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F191DB0495007CEF41C" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[올리버 트위스트 ([다음영화] 왓챠 ─ 종료예정)]]></title>
