@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 15:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 16:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,20 +64,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F72cfc7293390c63db16779b67097d8703d2a5628" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[바다 탐험대 옥토넛 : 탐험선 대작전 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161896</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161896</guid>
-            <pubDate>Wed, 03 Aug 2022 12:25:39 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F31aa8d90be40312dbefd1b210e89c525f77b72b8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[엘비스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158210</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158210</guid>
             <pubDate>Wed, 29 Jun 2022 03:21:34 GMT</pubDate>
             <content:encoded><![CDATA[22.07.13]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0935ff55cf62deb0648292658709976c9f434f00" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[바다 탐험대 옥토넛 : 탐험선 대작전 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161896</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161896</guid>
+            <pubDate>Wed, 03 Aug 2022 12:25:39 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F31aa8d90be40312dbefd1b210e89c525f77b72b8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[뽀로로 극장판 드래곤캐슬 대모험 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -327,22 +327,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdee2d2c76a986e2c778dd54c1c91208e9c7e654e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[자연을 지키는 7가지 믿음 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143729</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143729</guid>
-            <pubDate>Tue, 16 Aug 2022 03:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F641bd13f2a055352f7f8faefb307d9c9a86fe57b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[과학, 지식 릴레이 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=123765</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=123765</guid>
-            <pubDate>Tue, 16 Aug 2022 03:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F100527ccbd839db1da8688f712a91ed59044d49e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[블레이드 러너 2049 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=107541</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=107541</guid>
@@ -549,126 +533,6 @@
             <pubDate>Fri, 12 Aug 2022 03:09:18 GMT</pubDate>
             <content:encoded><![CDATA[22.09.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8faa442a4f3dc9fd0ab7bd6fb159c6e2a50e2963" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[사탄의 인형 3 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=18068</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=18068</guid>
-            <pubDate>Fri, 29 Jul 2022 03:49:49 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1448C5194BE2AD0269" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[바비와 삼총사 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=54899</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=54899</guid>
-            <pubDate>Fri, 29 Jul 2022 03:49:49 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F154041164B15225B4E" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[바비와 마법의 페가수스 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=54981</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=54981</guid>
-            <pubDate>Fri, 29 Jul 2022 04:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F126BCB1D4B29AC1D10" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[바비 - 나비요정 마리포사 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=54972</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=54972</guid>
-            <pubDate>Fri, 29 Jul 2022 04:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1625A8274B1BBFF788" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[이스턴 프라미스 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=44089</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=44089</guid>
-            <pubDate>Fri, 29 Jul 2022 04:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F087449c9f9d5220e3eb3f248a9103e2cf0b59b40" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[자헤드 2 : 필드 오브 파이어 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=93038</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=93038</guid>
-            <pubDate>Fri, 29 Jul 2022 04:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3c0e4f97e50b71722c0a7c728cc49f976ef2a26b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[바비: 12명의 춤추는 공주 이야기 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=54962</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=54962</guid>
-            <pubDate>Fri, 29 Jul 2022 04:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F125A5E1D4B1D1BCA5E" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[베토벤 2 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=3523</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=3523</guid>
-            <pubDate>Fri, 29 Jul 2022 04:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F146F1B10AE3774D8D0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[프렌지 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=11647</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=11647</guid>
-            <pubDate>Fri, 29 Jul 2022 04:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1443EF10B1619FA546" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[바비 : 페어리토피아 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=54975</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=54975</guid>
-            <pubDate>Mon, 01 Aug 2022 05:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1965F31D4B1E56BF1A" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[바톤 핑크 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=1653</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=1653</guid>
-            <pubDate>Mon, 01 Aug 2022 05:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F126F1B10AD407E0F81" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[자헤드 3: 더 시즈 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=101795</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=101795</guid>
-            <pubDate>Mon, 01 Aug 2022 05:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc1f417679578691b9247e82cf3eedda5d4c848cd" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[힛쳐 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=42762</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=42762</guid>
-            <pubDate>Tue, 02 Aug 2022 05:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1240FB10AB9817EF8A" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[로렌조 오일 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=11583</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=11583</guid>
-            <pubDate>Tue, 02 Aug 2022 05:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F262E924D521F50E804" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[바비 - 마법의 레인보우 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=54974</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=54974</guid>
-            <pubDate>Tue, 16 Aug 2022 07:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F170E1A1E4B1E538205" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[두 인생을 살아봐 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
