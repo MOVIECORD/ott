@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 12:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 13:34:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fafa6da7c2f245e8bf1c7b805df332e85ff14cc66" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[미니언즈2 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=132346</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=132346</guid>
+            <pubDate>Wed, 24 Aug 2022 09:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1eef5d86e3c1771cf119e5ad96fe4c5540ed378a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[귀멸의 칼날: 아사쿠사 편 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161276</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161276</guid>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Aug 2022 09:13:37 GMT</pubDate>
             <content:encoded><![CDATA[22.08.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F111352a647a357d14be27a7f01b353c3b6007f45" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[미니언즈2 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=132346</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=132346</guid>
-            <pubDate>Wed, 24 Aug 2022 09:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1eef5d86e3c1771cf119e5ad96fe4c5540ed378a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[헤어질 결심 (다음영화 영화관 ─ 현재상영)]]></title>
