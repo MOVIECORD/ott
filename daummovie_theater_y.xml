@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Nov 2022 23:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 01:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4127deb531fea9b766461efb61da18af55697d3c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 짱구는 못말려: 수수께끼! 꽃피는 천하떡잎학교]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152718</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152718</guid>
-            <pubDate>Wed, 16 Nov 2022 17:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa84755e53eb8e03b51d11099d1b809b419e12873" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[블로우백]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162715</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162715</guid>
@@ -80,12 +72,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdef48811b044c1e6108dc3fef15643d96dcd8f39" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[극장판 소드 아트 온라인 -프로그레시브- 짙은 어둠의 스케르초]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163458</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163458</guid>
+            <title><![CDATA[극장판 짱구는 못말려: 수수께끼! 꽃피는 천하떡잎학교]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152718</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152718</guid>
             <pubDate>Wed, 16 Nov 2022 17:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc171adb6eaa6dff8bb70a1d07e8431e893237c08" length="0" type="image//thumb/C408x596/"/>
+            <content:encoded><![CDATA[22.09.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa84755e53eb8e03b51d11099d1b809b419e12873" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[첫번째 아이]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 16 Nov 2022 17:24:22 GMT</pubDate>
             <content:encoded><![CDATA[22.11.16]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1019f98e283ae64021f02031c5810387fd4253c2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 소드 아트 온라인 -프로그레시브- 짙은 어둠의 스케르초]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163458</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163458</guid>
+            <pubDate>Wed, 16 Nov 2022 17:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc171adb6eaa6dff8bb70a1d07e8431e893237c08" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[프로메어]]></title>
