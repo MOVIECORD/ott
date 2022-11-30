@@ -1,8 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/premovie/netflix?flag=C</id>
-    <title>[다음영화] 넷플릭스 ─ 종료예정</title>
-    <updated>2022-11-30T20:20:23.721Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/premovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>[다음영화] 넷플릭스 ─ 종료예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 30 Nov 2022 21:12:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[직쏘]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=111147</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=111147</guid>
+            <pubDate>Wed, 30 Nov 2022 21:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa2b10ff50fed32b768ef6a78474435a632868d63" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[수어사이드 스쿼드]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=90177</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=90177</guid>
+            <pubDate>Wed, 30 Nov 2022 21:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fca76922561a547ed64982152f4880918662faa78" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[크레이지 리치 아시안]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=117759</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=117759</guid>
+            <pubDate>Wed, 30 Nov 2022 21:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.02]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3ceb16eabfb142b3991028545b05a2e31540179884512" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[힘을 내요, 미스터 리]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=122541</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=122541</guid>
+            <pubDate>Wed, 30 Nov 2022 21:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3390496cfc484687a1cde4144148fca31566958954943" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[그것]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=104727</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=104727</guid>
+            <pubDate>Wed, 30 Nov 2022 21:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fad3538bc96b52ab82c91e15684fb292b2bb9c2bd" length="0" type="image//thumb/C408x596/"/>
+        </item>
+    </channel>
+</rss>
