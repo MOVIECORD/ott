@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 01:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 03:07:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -141,7 +141,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=157160</guid>
             <pubDate>Thu, 01 Dec 2022 01:03:40 GMT</pubDate>
             <content:encoded><![CDATA[22.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3b073507749f9577a4cf5d94492bec782279ccfa" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecd4115799cf107efc7eb74f75d4ef9f4c960de6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[채털리 부인의 연인]]></title>
