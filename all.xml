@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 06:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 07:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,20 +80,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbb19f767e00ca3ef5a6beb03200bb7a1f3bf017c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[본즈 앤 올 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155615</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155615</guid>
-            <pubDate>Wed, 30 Nov 2022 21:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c660d016c4d414926a062d2393bdb8e94ee37ce" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[화이트 노이즈 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162487</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162487</guid>
             <pubDate>Wed, 07 Dec 2022 00:55:26 GMT</pubDate>
             <content:encoded><![CDATA[22.12.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbb2a9b9e44a75704165002253cd6350a9311e12d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[본즈 앤 올 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=155615</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=155615</guid>
+            <pubDate>Wed, 30 Nov 2022 21:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1c660d016c4d414926a062d2393bdb8e94ee37ce" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엔시티 드림 더 무비 : 인 어 드림 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -198,6 +198,14 @@
             <pubDate>Mon, 05 Dec 2022 05:11:32 GMT</pubDate>
             <content:encoded><![CDATA[22.12.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F05942da7df2ae9032d89ad5b852e979e26d6f184" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[야쿠자 프린세스 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152831</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152831</guid>
+            <pubDate>Thu, 08 Dec 2022 07:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F16c0559d687b57f6befe21dd11da461864f9e1a2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[기적을 믿는 소녀 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 08 Dec 2022 00:53:31 GMT</pubDate>
             <content:encoded><![CDATA[22.12.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc1aed6395db71fb83d46c01a903aafde63a35f0c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[팬픽에서 연애까지 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165153</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165153</guid>
-            <pubDate>Thu, 08 Dec 2022 00:53:31 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff5aceb3a92aa8550d5f2e04eae56420f3c72f41c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스파이더맨: 뉴 유니버스 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
