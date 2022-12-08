@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 현재상영</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 00:54:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 02:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb3c9f422e4d421f0892f3ee3a88c4b881f8ca67" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[데솔레이트]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=165154</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=165154</guid>
-            <pubDate>Wed, 07 Dec 2022 07:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F138d3caa77984412244bbde8f188a60fc8aaec9d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[만인의 연인]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=154114</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=154114</guid>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 07 Dec 2022 13:19:51 GMT</pubDate>
             <content:encoded><![CDATA[22.11.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2e45ec5bc938b2ea30ed128ff5750f27196a3ded" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[데솔레이트]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165154</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165154</guid>
+            <pubDate>Wed, 07 Dec 2022 07:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.06]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F138d3caa77984412244bbde8f188a60fc8aaec9d" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
