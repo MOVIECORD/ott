@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 22:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 23:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7f1dbd85a91d8ae1167336a829be7ba21fe76a8b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[프레이 포 더 데블 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=143917</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=143917</guid>
-            <pubDate>Thu, 29 Dec 2022 03:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0e70f1cef7dde35df525fb36025eb4ba508ac0fd" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[원피스 필름 레드 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161062</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161062</guid>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 29 Dec 2022 06:13:50 GMT</pubDate>
             <content:encoded><![CDATA[22.10.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4946ba99bae5035c349c417ff5988179fb6b0f99" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[드라이브 마이 카 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151070</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151070</guid>
+            <pubDate>Thu, 29 Dec 2022 23:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F66007205fdb9e95e11334fc491253e5200194276" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[장화신은 고양이: 끝내주는 모험 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -256,14 +256,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb33e6ef62b68fb55adbc5053f7286e66a649ce71" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[요로나: 끝나지 않은 저주 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164244</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164244</guid>
-            <pubDate>Fri, 23 Dec 2022 04:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc31a5a01c605ce45a79effa0bacdfa998019e40d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스톰보이 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=123562</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=123562</guid>
@@ -325,6 +317,14 @@
             <pubDate>Wed, 28 Dec 2022 23:12:11 GMT</pubDate>
             <content:encoded><![CDATA[23.01.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffbae0468e5d0cadb58980dffae2bdc74d725a82c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[강남좀비 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156597</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156597</guid>
+            <pubDate>Thu, 29 Dec 2022 23:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb82e458c17971f4270f15cce83d4b27aad3377fe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[신비한 동물들과 그린델왈드의 범죄 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
