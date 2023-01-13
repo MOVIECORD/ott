@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 23:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 03:26:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,12 +39,28 @@
             <content:encoded><![CDATA[23.01.25]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[천룡팔부: 교봉전]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166471</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166471</guid>
+            <pubDate>Thu, 12 Jan 2023 02:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F267706755c59d8e24c7c01e9a8e5a93a0d92b4d1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[어메이징 모리스]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157160</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157160</guid>
             <pubDate>Tue, 10 Jan 2023 10:12:25 GMT</pubDate>
             <content:encoded><![CDATA[23.02.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdade6385f0020e242239939c4bf87a2539fc8d01" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[라일 라일 크로커다일]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161463</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161463</guid>
+            <pubDate>Tue, 10 Jan 2023 15:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F76abe9bc273f863478184d0e118bc0fe3468a5dc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[유랑의 달]]></title>
@@ -61,14 +77,6 @@
             <pubDate>Thu, 29 Dec 2022 17:11:22 GMT</pubDate>
             <content:encoded><![CDATA[23.01.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F90a82ef2ff5a4ec3402d4a6b9a537d7a35c697e8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[천룡팔부: 교봉전]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166471</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166471</guid>
-            <pubDate>Thu, 12 Jan 2023 02:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.25]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F267706755c59d8e24c7c01e9a8e5a93a0d92b4d1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[라인]]></title>
@@ -93,14 +101,6 @@
             <pubDate>Sun, 01 Jan 2023 00:59:08 GMT</pubDate>
             <content:encoded><![CDATA[23.01.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb33e6ef62b68fb55adbc5053f7286e66a649ce71" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[라일 라일 크로커다일]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161463</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161463</guid>
-            <pubDate>Tue, 10 Jan 2023 15:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.18]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F76abe9bc273f863478184d0e118bc0fe3468a5dc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[극장판 파워레인저 캡틴포스: 지구를 위한 싸움]]></title>
