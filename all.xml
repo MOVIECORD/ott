@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 00:57:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 02:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,6 +246,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F46f03bdccfddb42638740e768888ab4eee560116" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[라스트 버스 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154384</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154384</guid>
+            <pubDate>Fri, 27 Jan 2023 02:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5f4d343f542bd0ba57a26534b4c8032842e875ab" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[가부와 메이 이야기 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=41493</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=41493</guid>
@@ -316,14 +324,6 @@
             <pubDate>Thu, 26 Jan 2023 00:53:18 GMT</pubDate>
             <content:encoded><![CDATA[23.02.08]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffa2bb9e82189fc191eac22fb15213bff34737260" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[타이타닉: 25주년 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=1051</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=1051</guid>
-            <pubDate>Thu, 26 Jan 2023 23:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87860ea86dd6fba16e5ec299ba1a3d8461a4ffa6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[홀리 캠프! ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -486,6 +486,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F27755D4C530311EF04" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[유 피플 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166919</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166919</guid>
+            <pubDate>Fri, 27 Jan 2023 02:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F409094a7b69b574e78e91676e3118fbb34c275f4" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[파멜라, 러브 스토리 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=166649</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=166649</guid>
@@ -531,7 +539,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=149180</guid>
             <pubDate>Fri, 13 Jan 2023 12:22:06 GMT</pubDate>
             <content:encoded><![CDATA[23.02.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F140d9c7268c26a8769a36875bbe6096eb1ed97eb" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3e7c6f2fe0f3b8326826fcbef29069602a03a324" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[동감 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
