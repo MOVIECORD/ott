@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 22:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 02:27:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F26596baa0b0c54ba0adbc04281a1857e7b878f68" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[패밀리 디너]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167664</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167664</guid>
-            <pubDate>Thu, 02 Mar 2023 06:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff814292aa93cc52cb7e307fe3a4eaa5ae53aab93" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[더 벙커]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164809</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164809</guid>
@@ -117,7 +109,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=167375</guid>
             <pubDate>Mon, 06 Mar 2023 07:11:57 GMT</pubDate>
             <content:encoded><![CDATA[23.03.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6e68e92b835316f387dadede92cb45bcb64fce3a" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fae29b40059d8e51542972dc2654af3548313087d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[파벨만스]]></title>
@@ -150,6 +142,14 @@
             <pubDate>Tue, 07 Mar 2023 23:13:18 GMT</pubDate>
             <content:encoded><![CDATA[23.03.25]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd74eaf7e8a0bfc583c92f82bd550266f5bdbce95" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[흐르다]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156188</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156188</guid>
+            <pubDate>Thu, 09 Mar 2023 02:27:11 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9b4fff9241e0f280852bb3fedee3c910cc8c20df" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[나의 연인에게]]></title>
