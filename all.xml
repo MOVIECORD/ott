@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 00:52:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 02:07:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,20 +96,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb3e832a4ce770ca3b96e00f56b4b479f23d796f7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[더 웨일 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162616</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162616</guid>
-            <pubDate>Fri, 17 Feb 2023 03:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7f54309e8ad78924a394fdee9a3cf106d129ab13" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[이니셰린의 밴시 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162469</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162469</guid>
             <pubDate>Thu, 23 Feb 2023 08:16:10 GMT</pubDate>
             <content:encoded><![CDATA[23.03.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F44773314b79fb37d34d33ace8c1920707767b915" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[더 웨일 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162616</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162616</guid>
+            <pubDate>Fri, 17 Feb 2023 03:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7f54309e8ad78924a394fdee9a3cf106d129ab13" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[플레인 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -189,7 +189,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=163516</guid>
             <pubDate>Tue, 21 Mar 2023 04:12:50 GMT</pubDate>
             <content:encoded><![CDATA[23.04.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8f56b8a5534f08cb231c0e436ae574f25a2ae4b3" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1e422202b9caca65297a0421972f576430374221" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[리바운드 (다음영화 영화관 ─ 개봉예정)]]></title>
