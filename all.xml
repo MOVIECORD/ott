@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 15:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 16:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -591,22 +591,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F03568A4A51AD51BA12" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[분노의 탄생 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=168581</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=168581</guid>
-            <pubDate>Thu, 23 Mar 2023 03:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fba693f67cd649c8fac6914342bcfe8cd42de6155" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[조니 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=168996</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=168996</guid>
-            <pubDate>Thu, 23 Mar 2023 04:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd4a1538a4fe4bff62a53a9523f57d5429aeb8350" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[블랙 클로버: 마법제의 검 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167003</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167003</guid>
@@ -765,22 +749,6 @@
             <pubDate>Fri, 17 Mar 2023 23:11:53 GMT</pubDate>
             <content:encoded><![CDATA[23.03.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1701CC1D4C36EED356" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 바이올렛 에버가든 ([다음영화] 왓챠 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=127732</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=127732</guid>
-            <pubDate>Thu, 23 Mar 2023 04:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F81f2191dd2582c7b8415eb0fff9c288a06da42bc" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[바이올렛 에버가든 외전 -영원과 자동수기인형- ([다음영화] 왓챠 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=135134</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=135134</guid>
-            <pubDate>Thu, 23 Mar 2023 04:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F412850917a47cd4a20230c494184e2237045669a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[미스터 앤 미세스 아델만 ([다음영화] 왓챠 ─ 공개예정)]]></title>
