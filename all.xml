@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 06:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 07:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc17bd488667977a165b768c837fc0e8e0cf0588d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[웅남이 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167375</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167375</guid>
-            <pubDate>Mon, 17 Apr 2023 08:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.22]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F07162528bee656b61466ef7e4bb686bf83d792f9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[던전 앤 드래곤: 도적들의 명예 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=162287</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=162287</guid>
@@ -152,6 +144,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcdb3f150a753835c3bb10e96f219631287794ba1" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[웅남이 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167375</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167375</guid>
+            <pubDate>Mon, 17 Apr 2023 08:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.22]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F07162528bee656b61466ef7e4bb686bf83d792f9" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[라스트 필름 쇼 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=150929</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=150929</guid>
@@ -197,6 +197,14 @@
             <pubDate>Mon, 10 Apr 2023 04:13:07 GMT</pubDate>
             <content:encoded><![CDATA[23.04.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F85599d900af16c514f03e6257773304537ae529c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[인셉션 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=50364</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=50364</guid>
+            <pubDate>Tue, 18 Apr 2023 07:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd2298754949746c6508d8aba2e9ef0f06141df61" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[라이스보이 슬립스 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -317,14 +325,6 @@
             <pubDate>Sat, 15 Apr 2023 08:12:48 GMT</pubDate>
             <content:encoded><![CDATA[23.05.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd665a08d01baddc27386ca97efb637fab3c9dabb" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[내 아내 이야기 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=152001</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=152001</guid>
-            <pubDate>Mon, 17 Apr 2023 09:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe5553ce0b522520c79a8b67e55e949458425cfbe" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[씨받이 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
