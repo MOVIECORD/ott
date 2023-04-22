@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 04:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 05:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F87945a48498b2bd91b146821d68b660dec84226f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[귀를 기울이면 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164739</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164739</guid>
-            <pubDate>Wed, 12 Apr 2023 00:49:31 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5db1885346421bd1ac13ead730d1b7b048a068ac" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[콜드플레이 뮤직 오브 더 스피어스 - 라이브 앳 리버 플레이트 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=168825</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=168825</guid>
@@ -150,6 +142,14 @@
             <pubDate>Fri, 24 Mar 2023 09:12:13 GMT</pubDate>
             <content:encoded><![CDATA[23.04.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc17bd488667977a165b768c837fc0e8e0cf0588d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[귀를 기울이면 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=164739</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=164739</guid>
+            <pubDate>Wed, 12 Apr 2023 00:49:31 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5db1885346421bd1ac13ead730d1b7b048a068ac" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[파벨만스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -272,6 +272,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdf9dd12919a2b4c0372fc9b3b751d62eb22788b3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[2퍼센트 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167403</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167403</guid>
+            <pubDate>Sun, 16 Apr 2023 06:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc4b1f305618832ffa9e548a9836517384f6afc6b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[내 아내 이야기 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=152001</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=152001</guid>
@@ -302,14 +310,6 @@
             <pubDate>Thu, 20 Apr 2023 00:48:54 GMT</pubDate>
             <content:encoded><![CDATA[23.04.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5947ef8ef0a76da6b6a8e47f0253dca476503c09" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[2퍼센트 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=167403</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=167403</guid>
-            <pubDate>Sun, 16 Apr 2023 06:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc4b1f305618832ffa9e548a9836517384f6afc6b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스트레이트 스토리 (다음영화 영화관 ─ 개봉예정)]]></title>
