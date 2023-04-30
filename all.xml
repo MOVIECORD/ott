@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 22:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 23:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1e422202b9caca65297a0421972f576430374221" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[피기 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156894</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156894</guid>
+            <pubDate>Sat, 15 Apr 2023 03:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5afc8d82139bfaca81e7341f450b93bc7df8a7fc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[자전거 도둑 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=1312</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=1312</guid>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 10 Apr 2023 04:13:07 GMT</pubDate>
             <content:encoded><![CDATA[23.04.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F85599d900af16c514f03e6257773304537ae529c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[피기 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=156894</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=156894</guid>
-            <pubDate>Sat, 15 Apr 2023 03:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5afc8d82139bfaca81e7341f450b93bc7df8a7fc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[파벨만스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -264,14 +264,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F14b8f7363ee9a251f72fa973f5bf9661bd579c6f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[그 아이는 귀족 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=147370</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=147370</guid>
-            <pubDate>Fri, 28 Apr 2023 23:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9cf7c93a9f3f40c7b6598ce531f087903c5a7623" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 공연실황, 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!> (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=170006</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=170006</guid>
@@ -325,6 +317,14 @@
             <pubDate>Thu, 27 Apr 2023 23:11:45 GMT</pubDate>
             <content:encoded><![CDATA[23.05.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4d92b5863d23b1bc285e24db15dd5b83aa8f9045" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[분노의 질주: 라이드 오어 다이 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167558</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167558</guid>
+            <pubDate>Sun, 30 Apr 2023 23:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6fed61e73b455aba36c3c4b434b6fafe2944e698" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[제일브레이크 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
@@ -647,6 +647,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F221D874F531D60C517" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[레고 닌자고 무비 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=107043</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=107043</guid>
+            <pubDate>Sun, 30 Apr 2023 23:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.25]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff5f4c5dbafb89f628d192252d28f9b2722db6a81" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[쿵푸팬더3 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=77725</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=77725</guid>
@@ -836,6 +844,14 @@
             <pubDate>Wed, 26 Apr 2023 23:11:23 GMT</pubDate>
             <content:encoded><![CDATA[23.05.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F271BB94C5328E77138" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[엔더스 게임 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=69267</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=69267</guid>
+            <pubDate>Sun, 30 Apr 2023 23:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2609BC4952AE794E18" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
