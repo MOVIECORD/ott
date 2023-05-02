@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 23:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 00:52:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Feb514ac276500897a26a8e979b130571586021b5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[존 윅 4 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162386</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162386</guid>
-            <pubDate>Tue, 28 Mar 2023 05:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5605612b56736f1b4dedc8953b29b5d04c32c053" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[더 퍼스트 슬램덩크 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164918</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164918</guid>
             <pubDate>Fri, 23 Dec 2022 12:18:56 GMT</pubDate>
             <content:encoded><![CDATA[23.01.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa0aaca4b87c541b11085139bd941da0996a78ec1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[존 윅 4 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162386</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162386</guid>
+            <pubDate>Tue, 28 Mar 2023 05:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5605612b56736f1b4dedc8953b29b5d04c32c053" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[스즈메의 문단속 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -549,6 +549,30 @@
             <pubDate>Wed, 19 Apr 2023 07:18:02 GMT</pubDate>
             <content:encoded><![CDATA[23.05.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd3720c60629495fd5ef599c46b00636868da267e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[마다가스카 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=41031</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=41031</guid>
+            <pubDate>Tue, 02 May 2023 00:51:50 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F13110210A9032A8729" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[바비와 동생들의 신나는 퍼피 어드벤처 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=98981</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=98981</guid>
+            <pubDate>Tue, 02 May 2023 00:51:50 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F46e124fe9bec600cb7b31454a6543aa8702ff3c3" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[찰리 윌슨의 전쟁 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=42571</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=42571</guid>
+            <pubDate>Tue, 02 May 2023 00:51:50 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F126F1B10ACF6EF3EC5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[크리스마스 추억 속으로 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
