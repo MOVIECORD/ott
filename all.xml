@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 09:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 10:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F541382b0a4105163dc37e4aba7d44e8c115b72d6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[무명 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163641</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163641</guid>
+            <pubDate>Mon, 17 Apr 2023 07:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcda9be2bbd98deecf05d142c0f187ff7ce0cd11c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[리턴 투 서울 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160426</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160426</guid>
@@ -117,14 +125,6 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=170006</guid>
             <pubDate>Fri, 28 Apr 2023 19:08:48 GMT</pubDate>
             <content:encoded><![CDATA[23.05.03]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[무명 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163641</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163641</guid>
-            <pubDate>Mon, 17 Apr 2023 07:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcda9be2bbd98deecf05d142c0f187ff7ce0cd11c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[라이스보이 슬립스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -247,14 +247,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbf08f2c383803951f7960602d81f4eced74ab43d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[울지마 엄마 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164623</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164623</guid>
-            <pubDate>Thu, 04 May 2023 04:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4d92b5863d23b1bc285e24db15dd5b83aa8f9045" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[슬픔의 삼각형 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160409</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160409</guid>
@@ -325,6 +317,14 @@
             <pubDate>Wed, 03 May 2023 03:12:10 GMT</pubDate>
             <content:encoded><![CDATA[23.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F830915f4ff07ceb8f0221ef76eabf9dd262fd89b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[수라 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163796</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163796</guid>
+            <pubDate>Mon, 08 May 2023 10:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F09f2644cb8657ec2cda1a637848eca40e054848e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[우리의 4일 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
