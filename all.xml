@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 12:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 13:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -271,14 +271,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac7e589d63becfd840021702a2751522992f130c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[포트리스: 더 벙커 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=155772</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=155772</guid>
-            <pubDate>Wed, 10 May 2023 00:49:48 GMT</pubDate>
-            <content:encoded><![CDATA[23.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F830915f4ff07ceb8f0221ef76eabf9dd262fd89b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[울지마 엄마 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=164623</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=164623</guid>
@@ -325,6 +317,14 @@
             <pubDate>Wed, 10 May 2023 00:49:49 GMT</pubDate>
             <content:encoded><![CDATA[23.05.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F353b6aea0624a60cfeb7a7d402e5e2409a22d28d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[인어공주 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=133193</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=133193</guid>
+            <pubDate>Wed, 10 May 2023 13:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F13e8fa6a157719a32c1fb66c0f770921f45567da" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[죽어도 마인드혼 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
