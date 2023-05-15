@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 22:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 23:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,11 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbbad19b9cb21b448a732edf168756cc4ec7ea335" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 공연실황, 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!> (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=170006</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=170006</guid>
-            <pubDate>Mon, 15 May 2023 10:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.03]]></content:encoded>
+            <title><![CDATA[바깥 나라의 소녀 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160980</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160980</guid>
+            <pubDate>Mon, 08 May 2023 13:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.16]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd6cb64f190114303fe32b3c435a12d7e8427c929" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[분노의 질주: 라이드 오어 다이 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -231,14 +232,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7a504a950ce5c50c4694de9240767cd729a9a34b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[바깥 나라의 소녀 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160980</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160980</guid>
-            <pubDate>Mon, 08 May 2023 13:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd6cb64f190114303fe32b3c435a12d7e8427c929" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[말이야 바른 말이지 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=159397</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=159397</guid>
@@ -287,14 +280,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9718c4dd5058e58eebbc278e707dce89f9334f87" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[데우스 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161824</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161824</guid>
-            <pubDate>Fri, 12 May 2023 19:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5e66dd80cc238f007679a38d15113daafde75856" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[남자는 처음을 원하고 여자는 마지막을 원한다 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=166732</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=166732</guid>
@@ -325,6 +310,22 @@
             <pubDate>Fri, 12 May 2023 06:13:37 GMT</pubDate>
             <content:encoded><![CDATA[23.05.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac7e589d63becfd840021702a2751522992f130c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[쥬라기 어드벤처: 비밀의 문 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=169427</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=169427</guid>
+            <pubDate>Mon, 15 May 2023 23:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.17]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6ab8793812cba7ef1ef2c47f352d7da2d0ecbf7a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 리틀 슈퍼맨 샘샘 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139138</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139138</guid>
+            <pubDate>Mon, 15 May 2023 23:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.18]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F54a554feca06ea7c9cc7d2eaef4d264713c61692" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[크리스마스 추억 속으로 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
