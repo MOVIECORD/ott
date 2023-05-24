@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 03:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 04:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac5ff408f9c93a74e8613c1fdfba1dadd8adca9b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스프린터 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=137070</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=137070</guid>
-            <pubDate>Fri, 28 Apr 2023 04:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9e59825786f828b9afc151e1afcdedb3b3c9d8a2" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스즈메의 문단속 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=161806</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=161806</guid>
@@ -94,6 +86,14 @@
             <pubDate>Wed, 17 May 2023 00:54:30 GMT</pubDate>
             <content:encoded><![CDATA[23.05.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4a969d22500d00bf312707c53dc5433bcf942c68" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[스프린터 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=137070</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=137070</guid>
+            <pubDate>Fri, 28 Apr 2023 04:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9e59825786f828b9afc151e1afcdedb3b3c9d8a2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[문재인입니다 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -1024,6 +1024,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd7dfd23fad7843cdfa228295b2e7536d0ce924f5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[브이 포 벤전스 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=170588</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=170588</guid>
+            <pubDate>Wed, 24 May 2023 04:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F960f5a16f3f184933a95164b3441dbb229c86cb5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[블랙 클로버: 마법제의 검 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167003</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167003</guid>
@@ -1236,6 +1244,14 @@
             <pubDate>Sun, 21 May 2023 21:09:53 GMT</pubDate>
             <content:encoded><![CDATA[23.06.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8e6a70190e0fa97704f8e28d0771ff83ecc8b734" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[굿 럭 투 유, 리오 그랜드 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156774</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156774</guid>
+            <pubDate>Wed, 24 May 2023 04:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F02f3f66bc095410ad4cd460c5a50a99a5dc22f92" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[빅쇼트 ([다음영화] 왓챠 ─ 공개예정)]]></title>
