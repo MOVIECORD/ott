@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 04:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 05:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -615,6 +615,37 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F172CC0154BD83C332F" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[뷰티풀 라이프 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=170901</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=170901</guid>
+            <pubDate>Thu, 01 Jun 2023 04:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.01]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러브 데스티니 - 더 무비 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=165800</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=165800</guid>
+            <pubDate>Thu, 01 Jun 2023 05:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcfa7242f793fcf9e6bd37dfde427ab31c7acd1cc" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[페인 앤 게인 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=70237</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=70237</guid>
+            <pubDate>Thu, 01 Jun 2023 05:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2315514652B890CE23" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴 가이 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=4180</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=4180</guid>
+            <pubDate>Thu, 01 Jun 2023 05:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F116F1B10AB714FC46E" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[레지던트 이블 2 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=35248</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=35248</guid>
@@ -814,6 +845,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F16b122b15d51e8a3c7577dfa357ec2c462ac732a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[다프트 펑크 언체인드 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=97979</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=97979</guid>
+            <pubDate>Thu, 01 Jun 2023 05:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F160b15154490be5f574ce6d7814b882f3a50049b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[데이빗 보위: 지기 스타더스트 마지막 날들 ([다음영화] 왓챠 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=114667</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=114667</guid>
@@ -830,6 +869,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5fe6267ac18c472a864678ac20702fe5d8b3833f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[싸이코 남자친구 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147189</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147189</guid>
+            <pubDate>Thu, 01 Jun 2023 05:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F869820dec8b84b3d3c08a1209da5267316be9bf2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[싸이코 소공녀 ([다음영화] 왓챠 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147186</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147186</guid>
@@ -844,6 +891,14 @@
             <pubDate>Thu, 01 Jun 2023 03:08:54 GMT</pubDate>
             <content:encoded><![CDATA[23.06.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcf1f8f6de4db36d2c2dfeff9c01d3cddbf03ba97" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[에이미되찾기 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160698</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160698</guid>
+            <pubDate>Thu, 01 Jun 2023 05:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F41570258e9c62508c01a863492b1bed26ca6c627" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[데이비드 보위: 지기 스타더스트의 시작 ([다음영화] 왓챠 ─ 종료예정)]]></title>
