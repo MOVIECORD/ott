@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 09:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 10:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,13 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69b2d6ef76c2c5b37b0641b187d1efd7f0636e41" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[비의도적 연애담 스페셜 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171202</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171202</guid>
+            <pubDate>Wed, 14 Jun 2023 00:56:20 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.14]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가디언즈 오브 갤럭시: Volume 3 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=129156</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=129156</guid>
@@ -54,13 +61,6 @@
             <pubDate>Wed, 17 May 2023 11:10:05 GMT</pubDate>
             <content:encoded><![CDATA[23.05.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc0c9027d8d127e25f40d994fb394852059f228f5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[비의도적 연애담 스페셜 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171202</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171202</guid>
-            <pubDate>Wed, 14 Jun 2023 00:56:20 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.14]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[너의 눈을 들여다보면 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -262,14 +262,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecc18c94a03c9d245feac33da48160b2d53bf4e0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아버지의 마음 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=170447</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=170447</guid>
-            <pubDate>Tue, 13 Jun 2023 23:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F217ab44871549c83098b74c11ec5afa517bdf1dc" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[손 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=142536</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=142536</guid>
@@ -324,6 +316,14 @@
             <pubDate>Thu, 15 Jun 2023 23:11:30 GMT</pubDate>
             <content:encoded><![CDATA[23.06.28]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4782cfb079bd88055364a6ea3c7fd36bda9493c0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[북 오브 러브 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=157589</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=157589</guid>
+            <pubDate>Fri, 16 Jun 2023 10:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4427a9f324651b68b6b7a16fd09a84f620c57960" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[기묘한 가족 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
