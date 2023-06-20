@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 05:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 06:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -55,20 +55,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b0eb68a4c944965ae78c83112bbb799c25b876b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[남은 인생 10년 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158655</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158655</guid>
-            <pubDate>Wed, 10 May 2023 02:01:27 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0df0e75760a60ae1d17cee78a3294770b54f03c4" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[너의 눈을 들여다보면 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157799</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157799</guid>
             <pubDate>Wed, 14 Jun 2023 00:56:20 GMT</pubDate>
             <content:encoded><![CDATA[23.06.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdb4c63878196d7f0c5bcad7b8d55b76e9f1661d8" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[남은 인생 10년 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158655</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158655</guid>
+            <pubDate>Wed, 10 May 2023 02:01:27 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.24]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0df0e75760a60ae1d17cee78a3294770b54f03c4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[제이홉 인 더 박스 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -278,12 +278,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb4f93712ef767eeb4f4a0cd1a67d741f26a148f9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[인드림 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=158469</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=158469</guid>
+            <pubDate>Wed, 14 Jun 2023 11:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faee031d0af3b4179ed54a4365e35ecc74c250a07" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[믿거나 말거나, 진짜야 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=157813</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=157813</guid>
             <pubDate>Wed, 14 Jun 2023 23:12:34 GMT</pubDate>
             <content:encoded><![CDATA[23.06.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fde7ffcbee51ccc815ee9e4bc6c68ea1a89b5d69d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[샤이닝 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3166</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3166</guid>
+            <pubDate>Tue, 20 Jun 2023 06:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd9c60f9f3a9249adb6920ffe9dabd86b2a303a34" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[여름날 우리 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -308,22 +324,6 @@
             <pubDate>Thu, 15 Jun 2023 23:11:30 GMT</pubDate>
             <content:encoded><![CDATA[23.06.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4900581af7192872b30cd831531a75ebc04101a1" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[인드림 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158469</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158469</guid>
-            <pubDate>Wed, 14 Jun 2023 11:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faee031d0af3b4179ed54a4365e35ecc74c250a07" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[살롱 드 서울 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164618</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164618</guid>
-            <pubDate>Fri, 16 Jun 2023 11:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fc9d1947208ef1600b6ee6eb0ac1b821dfb7e659d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[기묘한 가족 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
