@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 03:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 04:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1a9630c05575cb2b73eb29d62d96eb160f3e0444" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[범죄도시3 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=160244</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=160244</guid>
-            <pubDate>Mon, 15 May 2023 02:05:56 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.31]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb05fec37909f3c46d8ada73ba1d2bc2f8868e869" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스파이더맨: 어크로스 더 유니버스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=136532</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=136532</guid>
             <pubDate>Fri, 09 Jun 2023 10:11:42 GMT</pubDate>
             <content:encoded><![CDATA[23.06.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1d3f11f50c660c43f4ba5c94ed3ef7a20c8c6cca" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[범죄도시3 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160244</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160244</guid>
+            <pubDate>Mon, 15 May 2023 02:05:56 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb05fec37909f3c46d8ada73ba1d2bc2f8868e869" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[귀공자 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -911,6 +911,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb971e039a8068974313add00f5155818fcc1fb0f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[러스트 스토리 2 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171762</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171762</guid>
+            <pubDate>Wed, 28 Jun 2023 04:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.29]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd08a542de315cd6fd4cdfac86fca403542babc0f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[노인을 위한 나라는 없다 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=43584</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=43584</guid>
@@ -1013,6 +1021,14 @@
             <pubDate>Tue, 20 Jun 2023 04:13:15 GMT</pubDate>
             <content:encoded><![CDATA[23.06.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac3fad4d85406759c5ca4da4b1e2c755a401acbe" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[브로스 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=160708</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=160708</guid>
+            <pubDate>Wed, 28 Jun 2023 04:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F20a06dfe9696e398e83fbd375e7b56d1f15879a7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[나를 찾아줘 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
@@ -1135,6 +1151,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3cea7130cd9af437f24406c9c67768dcd50cf4d9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[언노운: 사라진 피라미드 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171761</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171761</guid>
+            <pubDate>Wed, 28 Jun 2023 04:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F492f416fd027eb86470ff5415ad04555f9e56239" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[사도행자: 특별수사대 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=105199</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=105199</guid>
@@ -1157,6 +1181,14 @@
             <pubDate>Tue, 27 Jun 2023 04:14:45 GMT</pubDate>
             <content:encoded><![CDATA[23.07.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F9e2f5e5d418185d16f54434b474d0075077a902e" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[콜 제인 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=156768</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=156768</guid>
+            <pubDate>Wed, 28 Jun 2023 04:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fec2b42d913e508323705caefc87152dfad328391" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[하트 오브 스톤 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
