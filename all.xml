@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 05:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 06:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=158891</guid>
             <pubDate>Wed, 21 Jun 2023 00:58:47 GMT</pubDate>
             <content:encoded><![CDATA[23.07.05]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69720ac488fc98d4171cf6c5769028a0e7c81a0b" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa74097cfa4c6af4b0482b31890b3fe5a549f76bf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[보 이즈 어프레이드 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -128,6 +128,13 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F64e400b5accb1ba88ad13adad4c8b3b962812a1a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[2022 영탁 단독 콘서트 - 탁쇼 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171614</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171614</guid>
+            <pubDate>Wed, 28 Jun 2023 01:04:59 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.28]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[라방 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=169992</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=169992</guid>
@@ -151,17 +158,10 @@
             <content:encoded><![CDATA[23.07.05]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 영탁 단독 콘서트 - 탁쇼 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171614</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171614</guid>
-            <pubDate>Wed, 28 Jun 2023 01:04:59 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.28]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[디파티드 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=41528</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=41528</guid>
-            <pubDate>Wed, 05 Jul 2023 05:13:03 GMT</pubDate>
+            <pubDate>Wed, 05 Jul 2023 06:16:46 GMT</pubDate>
             <content:encoded><![CDATA[23.07.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F019af2d104faffee0cfb7b12a3bfd446e3318c02" length="0" type="image//thumb/C408x596/"/>
         </item>
