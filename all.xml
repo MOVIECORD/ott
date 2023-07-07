@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 15:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 16:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -327,14 +327,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8dbe356ca25a37ba2f15a695eb619bff55bc067" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[설리: 허드슨강의 기적 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=104847</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=104847</guid>
-            <pubDate>Thu, 29 Jun 2023 21:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fea48b652403965ffc18cb34085bcb02ba9140988" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[드림랜드 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=146399</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=146399</guid>
@@ -573,22 +565,6 @@
             <pubDate>Thu, 06 Jul 2023 21:11:36 GMT</pubDate>
             <content:encoded><![CDATA[23.08.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fce494f50ba152e4b4f42944822e87feb551f7d1c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[범죄의 장인 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=161394</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=161394</guid>
-            <pubDate>Fri, 30 Jun 2023 05:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe5c1e9201a22a2ec3b76083fd80fb76ef8a2b522" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑은 사계절 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171966</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171966</guid>
-            <pubDate>Thu, 06 Jul 2023 04:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6f5f87294a392ec8ec131d39c3792bf1f4056061" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[영원한 건 없다 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
@@ -843,117 +819,6 @@
             <pubDate>Tue, 04 Jul 2023 02:57:21 GMT</pubDate>
             <content:encoded><![CDATA[23.07.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F69aad33d38d750a57bfb372396671e373a795792" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[이스케이프 룸 2: 노 웨이 아웃 ([다음영화] 왓챠 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=145805</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=145805</guid>
-            <pubDate>Mon, 03 Jul 2023 04:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4ec63ea20869c6a243ebbf2756706a022a11dc7d" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[트루먼 쇼 ([다음영화] 왓챠 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=1660</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=1660</guid>
-            <pubDate>Tue, 04 Jul 2023 04:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fce081cc81fef491385caa608606d35bc1540870443923" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[라라 ([다음영화] 왓챠 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=118238</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=118238</guid>
-            <pubDate>Wed, 05 Jul 2023 04:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdc3cd238499d6da77b6977859a1c427b33a1b337" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[개 목걸이 ([다음영화] 왓챠 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=11876</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=11876</guid>
-            <pubDate>Wed, 05 Jul 2023 04:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F146F1B10AE39E97C06" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 그곳에 없었다 ([다음영화] 왓챠 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171590</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171590</guid>
-            <pubDate>Wed, 05 Jul 2023 04:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.07]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[돌이킬 수 없는 주말 ([다음영화] 왓챠 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169440</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169440</guid>
-            <pubDate>Wed, 05 Jul 2023 04:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F230bbefc0df4186f32da984aeeb7c55404757106" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[마이클 잭슨의 디스 이즈 잇 ([다음영화] 왓챠 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=53026</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=53026</guid>
-            <pubDate>Wed, 05 Jul 2023 04:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2038E8274AB7D63C08" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[몬스터 신부 : 101번째 프로포즈 ([다음영화] 왓챠 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164614</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164614</guid>
-            <pubDate>Wed, 05 Jul 2023 04:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fee9855b2d65abdda7fc1315da43c38d4092f6bf6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑의 이해 ([다음영화] 왓챠 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=170761</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=170761</guid>
-            <pubDate>Wed, 05 Jul 2023 04:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc10d7df859b3b012f971e92f9e63be83627ce75" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[스토리 오브 머메이드 ([다음영화] 왓챠 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169079</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169079</guid>
-            <pubDate>Wed, 05 Jul 2023 04:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F634407b536bb32484e1b6be21ef96cd3840b6c03" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[아수라신부 ([다음영화] 왓챠 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169614</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169614</guid>
-            <pubDate>Wed, 05 Jul 2023 04:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38b155277d279155043b172ae2b15086aa189590" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[의문의 손님 ([다음영화] 왓챠 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=126028</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=126028</guid>
-            <pubDate>Wed, 05 Jul 2023 04:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd6b1069a7ca449acb569ffb6fa7482c71541259746822" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[적인걸: 백호의 저주 ([다음영화] 왓챠 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=169220</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=169220</guid>
-            <pubDate>Wed, 05 Jul 2023 04:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6d250249bc66e378ac4d29475dfbf25bdf1e23c5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[이 아이는 사악하다 ([다음영화] 왓챠 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=158757</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=158757</guid>
-            <pubDate>Wed, 05 Jul 2023 08:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F412765031649b2d20866c6e20811245ec802770d" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
