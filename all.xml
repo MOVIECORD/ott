@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 03:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 04:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=139236</guid>
             <pubDate>Wed, 12 Jul 2023 01:03:04 GMT</pubDate>
             <content:encoded><![CDATA[23.07.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0d12852246b3471b3afa871a539bb0b2a0b7ed2b" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb65c5c7161099ca353e93f1e48115c7ef05dcaa8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[엘리멘탈 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -96,6 +96,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecc18c94a03c9d245feac33da48160b2d53bf4e0" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[조디악 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=41488</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=41488</guid>
+            <pubDate>Wed, 12 Jul 2023 01:03:04 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fab0959776b98dcbb0193374a0b7459969fe9987c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 아름다운 그: 이터널 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=169633</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=169633</guid>
@@ -120,27 +128,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe17ef4b59bacef9887dd9faa3e4d2ffa8f937230" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[조디악 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=41488</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=41488</guid>
-            <pubDate>Wed, 12 Jul 2023 01:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fab0959776b98dcbb0193374a0b7459969fe9987c" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[악마들 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158891</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158891</guid>
             <pubDate>Wed, 21 Jun 2023 00:58:47 GMT</pubDate>
             <content:encoded><![CDATA[23.07.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa74097cfa4c6af4b0482b31890b3fe5a549f76bf" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 영탁 단독 콘서트 - 탁쇼 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171614</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171614</guid>
-            <pubDate>Mon, 10 Jul 2023 02:58:40 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.28]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[수라 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -151,12 +144,11 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0792b57cc91a80cef6d4871e56a37393da1f9e6a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[파이어하트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154406</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154406</guid>
-            <pubDate>Wed, 12 Jul 2023 02:54:13 GMT</pubDate>
+            <title><![CDATA[2022 영탁 단독 콘서트 - 탁쇼 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171614</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171614</guid>
+            <pubDate>Mon, 10 Jul 2023 02:58:40 GMT</pubDate>
             <content:encoded><![CDATA[23.06.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F909a0f122378faeb5609a5a9f652130d7efb79c3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[슬기로운 아내 수업 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -165,6 +157,14 @@
             <pubDate>Wed, 12 Jul 2023 01:03:04 GMT</pubDate>
             <content:encoded><![CDATA[23.07.12]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F07bc7fe45929f37c100d2805cb155ece9ac42576" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[디어 마이 러브 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163613</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163613</guid>
+            <pubDate>Wed, 12 Jul 2023 04:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa8f58a078d9a7ef59bb3b562ae66a0870de1639c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[비공식작전 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -741,6 +741,21 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd32ef20732fdfdea1a02f7195ab23c78aaab5abb" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[미라큘러스: 레이디버그와 블랙캣, 더 무비 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167338</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167338</guid>
+            <pubDate>Wed, 12 Jul 2023 04:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.28]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faeec70ab2e59b87b26465f705bac76c3adb07ad6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[빅 누누 리틀 하이스트 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171141</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171141</guid>
+            <pubDate>Wed, 12 Jul 2023 04:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.28]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[하트 오브 스톤 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=167244</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=167244</guid>
@@ -963,6 +978,38 @@
             <pubDate>Mon, 10 Jul 2023 03:28:47 GMT</pubDate>
             <content:encoded><![CDATA[23.07.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F98d309ad00b607fbbd6a67e583d4e5e0f67faca7" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[기동전사 건담 쿠쿠루스 도안의 섬 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=161014</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=161014</guid>
+            <pubDate>Wed, 12 Jul 2023 04:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F900907c59ca82bc6224aead996b606654a2f4141" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아들에게 가는 길 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166820</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166820</guid>
+            <pubDate>Wed, 12 Jul 2023 04:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5aa790f6084aa3142caec47443dcbc3b4c6ae43d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[트레저 헌터: 모금교위 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=167143</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=167143</guid>
+            <pubDate>Wed, 12 Jul 2023 04:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8d020a5f9ca9d279059cd8547701f4a192e27415" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[호저의 하늘 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=151345</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=151345</guid>
+            <pubDate>Wed, 12 Jul 2023 04:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff84ef6b058300c2818fa4519f057ad3748101229" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
