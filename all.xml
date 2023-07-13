@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 23:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 01:05:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F940367ffd4eebe701363eabeefb9d7ba1d51f1db" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[극장판 피노키오 위대한 모험 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=170398</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=170398</guid>
+            <pubDate>Thu, 13 Jul 2023 01:04:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.13]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff1b16bc494372fa515885a536e01a116b24e552f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[엔니오: 더 마에스트로 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=153259</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=153259</guid>
@@ -159,14 +167,6 @@
             <content:encoded><![CDATA[23.06.28]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[파이어하트 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154406</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154406</guid>
-            <pubDate>Wed, 12 Jul 2023 10:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F909a0f122378faeb5609a5a9f652130d7efb79c3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[명탐정 코난: 흑철의 어영 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=166691</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=166691</guid>
@@ -188,7 +188,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=114335</guid>
             <pubDate>Mon, 10 Jul 2023 12:23:04 GMT</pubDate>
             <content:encoded><![CDATA[23.07.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7fa7f52384bf92334fabe69ea9006f544dc1cb65" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F55146a175e39277c8391e9f42bddf1ac478d94ff" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[밀수 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -984,6 +984,70 @@
             <pubDate>Wed, 12 Jul 2023 04:15:19 GMT</pubDate>
             <content:encoded><![CDATA[23.07.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff84ef6b058300c2818fa4519f057ad3748101229" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[롱 듀얼: 최후의 결투 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=172148</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=172148</guid>
+            <pubDate>Thu, 13 Jul 2023 01:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3dab8241e73413769f7978cd6f53ab035f1628fb" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[은하철도 999 - 극장판 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=13996</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=13996</guid>
+            <pubDate>Thu, 13 Jul 2023 01:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdad6adb8837e8673cc0868e0447d92de59cab753" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[이케와 나 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=52345</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=52345</guid>
+            <pubDate>Thu, 13 Jul 2023 01:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd389fc4318ef24f587b9b010fbc3d311d133e313" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕, 은하철도 999 -안드로메다 종착역- ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=3335</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=3335</guid>
+            <pubDate>Thu, 13 Jul 2023 01:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb83532d62ec07639201ef10dccc4c2027f3060f2" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[건 샤이 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=114691</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=114691</guid>
+            <pubDate>Thu, 13 Jul 2023 01:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5ee45cffcb9c654a19914a77f7b4b79547ef707b" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[은하철도 999 – 이터널 판타지 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=142139</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=142139</guid>
+            <pubDate>Thu, 13 Jul 2023 01:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff3b87b3080df55f08a6661b7ab2733a73efe76cf" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[크리미널 스쿼드 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=116325</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=116325</guid>
+            <pubDate>Thu, 13 Jul 2023 01:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F09aa51924d128d98fcdd00d3cb6b83f2f9b5977c" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[작적: 사라진 왕조의 비밀 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=95988</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=95988</guid>
+            <pubDate>Thu, 13 Jul 2023 01:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.14]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F93a085a4c622968d3b84b31ed8b9a2ace07bd1c3" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
