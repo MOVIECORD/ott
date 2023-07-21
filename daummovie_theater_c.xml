@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 00:57:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 02:07:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ffce0ca2e9a5799999a49a87f37b82bdffbe71a1a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[런닝맨: 리벤져스]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171166</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171166</guid>
-            <pubDate>Wed, 19 Jul 2023 01:49:28 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3844ad90c024da98f9e139ed97c2a74aa4462a1f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[언노운: 우주를 보는 타임머신]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=172322</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=172322</guid>
@@ -165,6 +157,14 @@
             <pubDate>Thu, 20 Jul 2023 23:10:58 GMT</pubDate>
             <content:encoded><![CDATA[23.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F2c3de18dc10c6cb2efa305574cba3c5dfa6b283d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[삼총사]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=170519</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=170519</guid>
+            <pubDate>Fri, 21 Jul 2023 02:06:59 GMT</pubDate>
+            <content:encoded><![CDATA[23.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F889a9373cda68a130b07bc8db0ee109597d582c7" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
