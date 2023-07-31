@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 02:04:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 03:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -181,7 +181,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=127876</guid>
             <pubDate>Thu, 06 Jul 2023 03:28:31 GMT</pubDate>
             <content:encoded><![CDATA[23.08.02]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b4a83152981f9e3f6066c32d000696c83bcd63a" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7617c785f53f2bdc85520b165a6aac7a0fc6a1e9" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[콘크리트 유토피아 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -244,7 +244,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=160079</guid>
             <pubDate>Wed, 26 Jul 2023 09:11:15 GMT</pubDate>
             <content:encoded><![CDATA[23.08.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F34d0b76a55e3aaacc659376de0e60ed006cd9025" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F42010ac091f0bb67647cd89668dff588547125ce" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[이름 없는 춤 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -852,6 +852,14 @@
             <pubDate>Fri, 28 Jul 2023 04:13:09 GMT</pubDate>
             <content:encoded><![CDATA[23.08.07]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58b7c6d55338446e38bb12bb3e7730ad433494a5" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[월플라워 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=64990</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=64990</guid>
+            <pubDate>Mon, 31 Jul 2023 03:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F130F834A51541AF134" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[하트 오브 스톤 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
