@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 14:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 15:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -632,14 +632,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Febd9587dcdcc56548b5a476bf109f87d5a6098a5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[스트리머 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=168706</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=168706</guid>
-            <pubDate>Fri, 28 Jul 2023 04:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58b7c6d55338446e38bb12bb3e7730ad433494a5" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[빌리지 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=169946</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=169946</guid>
@@ -782,22 +774,6 @@
             <pubDate>Mon, 07 Aug 2023 09:11:12 GMT</pubDate>
             <content:encoded><![CDATA[23.08.18]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6420ca384848a915d02b99cc866554a12e5407e3" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[비정한 도시 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=66823</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=66823</guid>
-            <pubDate>Tue, 25 Jul 2023 02:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F1803CF4D505B807B0D" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[백컨트리 - 야생곰의 습격 ([다음영화] 왓챠 ─ 종료예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=88414</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=88414</guid>
-            <pubDate>Tue, 25 Jul 2023 02:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.07]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd43536a99eef6f07a0c213e5b4b7b56c3694e8c8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[오늘 밤, 로맨스 극장에서 ([다음영화] 왓챠 ─ 종료예정)]]></title>
