@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 00:53:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 02:05:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe436c21d5a45cba9cbd7d4e4cadf1f50b335c5b3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[명탐정 코난: 흑철의 어영 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166691</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166691</guid>
-            <pubDate>Thu, 06 Jul 2023 12:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F84703a66a0dc79c4b28434564c684a572a838946" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[런닝맨: 리벤져스 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=171166</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=171166</guid>
             <pubDate>Tue, 25 Jul 2023 07:10:33 GMT</pubDate>
             <content:encoded><![CDATA[23.08.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3844ad90c024da98f9e139ed97c2a74aa4462a1f" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[명탐정 코난: 흑철의 어영 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166691</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166691</guid>
+            <pubDate>Thu, 06 Jul 2023 12:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F84703a66a0dc79c4b28434564c684a572a838946" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[미션 임파서블: 데드 레코닝 PART ONE (다음영화 영화관 ─ 현재상영)]]></title>
@@ -702,6 +702,14 @@
             <pubDate>Tue, 01 Aug 2023 04:13:16 GMT</pubDate>
             <content:encoded><![CDATA[23.08.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F909f0df025ae779cb729ed681aadcf25abf0a9f6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[메리 마이 데드 바디 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=163878</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=163878</guid>
+            <pubDate>Thu, 10 Aug 2023 02:04:48 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fac5ff408f9c93a74e8613c1fdfba1dadd8adca9b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[하트 오브 스톤 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
