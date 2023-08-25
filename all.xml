@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 05:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 06:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F766433284e4bd5dac7472a351b6b2e0f0827b62e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[명탐정 코난: 흑철의 어영 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166691</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166691</guid>
-            <pubDate>Thu, 06 Jul 2023 12:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F84703a66a0dc79c4b28434564c684a572a838946" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[메가로돈 2 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=170266</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=170266</guid>
             <pubDate>Wed, 02 Aug 2023 07:13:24 GMT</pubDate>
             <content:encoded><![CDATA[23.08.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F651fecffb88c22f6546e3c6738aa8a8785f74492" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[명탐정 코난: 흑철의 어영 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166691</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166691</guid>
+            <pubDate>Thu, 06 Jul 2023 12:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.20]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F84703a66a0dc79c4b28434564c684a572a838946" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[미션 임파서블: 데드 레코닝 PART ONE (다음영화 영화관 ─ 현재상영)]]></title>
@@ -934,6 +934,38 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F27019547545AC0F107" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[사우스사이드 위드 유 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=90785</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=90785</guid>
+            <pubDate>Fri, 25 Aug 2023 06:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa669548748e54ced61a47f02121eece2d6979a17" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아버지를 위한 노래 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=61584</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=61584</guid>
+            <pubDate>Fri, 25 Aug 2023 06:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F125691504F7A6F7219" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[엄마의 죽음과 복수의 시작 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147249</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147249</guid>
+            <pubDate>Fri, 25 Aug 2023 06:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0f2d8f31a485433b431e8c8e9f5a03c7eb8cc9ca" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[실종: 가출소녀 사건의 전말 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=147187</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=147187</guid>
+            <pubDate>Fri, 25 Aug 2023 06:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F80e70895e292aadc082f57d1113c0ea997ff3cd6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[지옥의 남자친구 ([다음영화] 왓챠 ─ 종료예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=147190</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=147190</guid>
@@ -972,6 +1004,14 @@
             <pubDate>Wed, 23 Aug 2023 21:10:19 GMT</pubDate>
             <content:encoded><![CDATA[23.09.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F15cff45999454870be3fa55bd2ce25311538644573863" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[구스범스 ([다음영화] 왓챠 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=90542</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=90542</guid>
+            <pubDate>Fri, 25 Aug 2023 06:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6dba74f1ca4b145edbab10989d1440f880b7ed69" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[트랜스포머 프라임 비스트헌터: 프레데콘 라이징 ([다음영화] 왓챠 ─ 종료예정)]]></title>
