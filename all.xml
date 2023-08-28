@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 12:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 13:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7bf1d439a354e26f6585b8b9d2f60438dd82127b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[미션 임파서블: 데드 레코닝 PART ONE (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=139236</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=139236</guid>
-            <pubDate>Wed, 12 Jul 2023 01:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.12]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb65c5c7161099ca353e93f1e48115c7ef05dcaa8" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[명탐정 코난: 흑철의 어영 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=166691</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=166691</guid>
@@ -80,12 +72,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F84703a66a0dc79c4b28434564c684a572a838946" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[보호자 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=138866</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=138866</guid>
-            <pubDate>Wed, 02 Aug 2023 07:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F766433284e4bd5dac7472a351b6b2e0f0827b62e" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[미션 임파서블: 데드 레코닝 PART ONE (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=139236</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=139236</guid>
+            <pubDate>Wed, 12 Jul 2023 01:03:04 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb65c5c7161099ca353e93f1e48115c7ef05dcaa8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[비공식작전 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -128,12 +120,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F651fecffb88c22f6546e3c6738aa8a8785f74492" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[바다 탐험대 옥토넛 어보브 앤 비욘드 : 육지 넘어 하늘까지! (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171769</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171769</guid>
+            <pubDate>Mon, 28 Aug 2023 13:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8b8bcc55c7ec16e9156e07904f5e6670dd9a8776" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[치치치 치킨의 비밀 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=172205</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=172205</guid>
             <pubDate>Sat, 19 Aug 2023 11:08:38 GMT</pubDate>
             <content:encoded><![CDATA[23.08.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fed6bd948fb59bf53a374f9d29165fa57fc71b3ed" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[보호자 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=138866</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=138866</guid>
+            <pubDate>Wed, 02 Aug 2023 07:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.15]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F766433284e4bd5dac7472a351b6b2e0f0827b62e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[더 문 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 27 Aug 2023 04:11:34 GMT</pubDate>
             <content:encoded><![CDATA[23.07.05]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fecc18c94a03c9d245feac33da48160b2d53bf4e0" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[수라 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=163796</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=163796</guid>
-            <pubDate>Mon, 28 Aug 2023 06:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0792b57cc91a80cef6d4871e56a37393da1f9e6a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[타겟 (다음영화 영화관 ─ 개봉예정)]]></title>
