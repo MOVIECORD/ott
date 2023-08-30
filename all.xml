@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 00:43:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 01:44:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fe436c21d5a45cba9cbd7d4e4cadf1f50b335c5b3" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[강변의 무코리타 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154051</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154051</guid>
-            <pubDate>Thu, 03 Aug 2023 00:50:54 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7bf1d439a354e26f6585b8b9d2f60438dd82127b" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[미션 임파서블: 데드 레코닝 PART ONE (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=139236</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=139236</guid>
@@ -134,6 +126,14 @@
             <pubDate>Thu, 06 Jul 2023 12:23:19 GMT</pubDate>
             <content:encoded><![CDATA[23.07.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F84703a66a0dc79c4b28434564c684a572a838946" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[강변의 무코리타 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154051</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154051</guid>
+            <pubDate>Thu, 03 Aug 2023 00:50:54 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.23]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7bf1d439a354e26f6585b8b9d2f60438dd82127b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[바비 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -742,6 +742,14 @@
             <pubDate>Thu, 24 Aug 2023 04:12:28 GMT</pubDate>
             <content:encoded><![CDATA[23.09.10]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F58bdb4cbcb88d291746dfa07e98a4f5c8fad5f09" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[우타다 히카루: 래프터 인 더 다크 투어 2018 ([다음영화] 넷플릭스 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=164962</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=164962</guid>
+            <pubDate>Wed, 30 Aug 2023 01:44:04 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.11]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F235eacd9365b309d27247c4d84deacbd7aec67d4" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[나인 송즈 ([다음영화] 왓챠 ─ 종료예정)]]></title>
