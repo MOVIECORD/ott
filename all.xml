@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 02:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 03:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc8999d18f7d4bd8b579e6058b71e7c3d8890eb5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아르고 원정대: 꼬마 영웅 패티의 대모험 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=166675</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=166675</guid>
-            <pubDate>Mon, 18 Sep 2023 06:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7861b7f7752fd433c8f3a54d13ade8d52e5049fc" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[베니스 유령 살인사건 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=169936</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=169936</guid>
@@ -62,6 +54,14 @@
             <pubDate>Thu, 14 Sep 2023 09:10:53 GMT</pubDate>
             <content:encoded><![CDATA[23.09.22]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F15122b24371e4cd783471a62ced5103eca4d02c1" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[아르고 원정대: 꼬마 영웅 패티의 대모험 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=166675</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=166675</guid>
+            <pubDate>Mon, 18 Sep 2023 06:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.21]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7861b7f7752fd433c8f3a54d13ade8d52e5049fc" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[아이유 콘서트 : 더 골든 아워 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -232,20 +232,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0e25b5f45fb6a43b1a279462188ae8978d8d813b" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[절해고도 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=154153</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=154153</guid>
-            <pubDate>Tue, 12 Sep 2023 02:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ee62e4e7b9a5fbd321224461c888ec2f65c1f2f" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[스크래퍼 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=166803</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=166803</guid>
             <pubDate>Tue, 19 Sep 2023 23:10:33 GMT</pubDate>
             <content:encoded><![CDATA[23.09.27]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F90668b68f48abd2d2349e5ad26feefbfa3847c24" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[절해고도 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=154153</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=154153</guid>
+            <pubDate>Tue, 12 Sep 2023 02:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0ee62e4e7b9a5fbd321224461c888ec2f65c1f2f" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[문 바운드 (다음영화 영화관 ─ 개봉예정)]]></title>
