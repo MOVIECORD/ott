@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 03:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 04:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,6 +215,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F6b956b1493cceed7532d528d3cd4a2536b3e25c5" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[사나: 저주의 아이 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=171127</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=171127</guid>
+            <pubDate>Fri, 22 Sep 2023 06:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.04]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3853cdbdba765f688f8c6efcc48e4d1bcf79a48a" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 엉덩이 탐정: 미스터리 가면 ~최강의 대결 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=158929</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=158929</guid>
@@ -287,14 +295,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F25bc6c4ca42d52af9471043f5df6a1f18e0fd0c6" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[피닉스 미션 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=173053</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=173053</guid>
-            <pubDate>Fri, 22 Sep 2023 03:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[23.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F487602713e1c91947acf8723e2f999f670df7083" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[오르소 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=171791</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=171791</guid>
@@ -303,20 +303,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F73e91f9da71f30321ed822467763b6ed231092a2" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[피닉스 미션 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173053</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173053</guid>
+            <pubDate>Fri, 22 Sep 2023 03:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[23.09]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F487602713e1c91947acf8723e2f999f670df7083" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[당나귀 EO (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=160386</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=160386</guid>
             <pubDate>Sat, 23 Sep 2023 06:13:18 GMT</pubDate>
             <content:encoded><![CDATA[23.10.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0db1c28f206c4560400577e9a035c46182ec396e" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[사나: 저주의 아이 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=171127</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=171127</guid>
-            <pubDate>Fri, 22 Sep 2023 06:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.04]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3853cdbdba765f688f8c6efcc48e4d1bcf79a48a" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[화사한 그녀 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -965,6 +965,30 @@
             <pubDate>Wed, 20 Sep 2023 21:10:23 GMT</pubDate>
             <content:encoded><![CDATA[23.10.03]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F30324cc2ecbbe3b392ed35699d04dba7c7ade595" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[23 아이덴티티 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=105218</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=105218</guid>
+            <pubDate>Mon, 25 Sep 2023 04:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F5a6b38773e351ce815eec343a30b35336fbd9f67" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[50가지 그림자: 해방 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=92682</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=92682</guid>
+            <pubDate>Mon, 25 Sep 2023 04:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fd039243198c40ca4e0f236f7bdb19c4545e423f0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑할 땐 누구나 최악이 된다 ([다음영화] 왓챠 ─ 공개예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=152038</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=152038</guid>
+            <pubDate>Mon, 25 Sep 2023 04:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F111352a647a357d14be27a7f01b353c3b6007f45" length="0" type="image//thumb/C408x596/"/>
         </item>
     </channel>
 </rss>
