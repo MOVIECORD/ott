@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 23:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 00:43:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F0965d6d350f199711ffcc30e590f99fc6181dab8" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[빌리와 용감한 녀석들: 황금 달걀 구조대 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=168329</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=168329</guid>
+            <pubDate>Thu, 19 Oct 2023 00:43:46 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.26]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fad9c89a6ef315814101ab46c3d2bd330da6e9919" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[두 사람을 위한 식탁 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=163791</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=163791</guid>
@@ -104,20 +112,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8cd15f11eae9b493b1b22436ea3677f3cdbf3bf7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[1947 보스톤 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=123211</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=123211</guid>
-            <pubDate>Wed, 27 Sep 2023 00:44:02 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa77f64489aceb34ee1a29dc29822d76ca3902a91" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 아이돌리쉬 세븐; 라이브 4비트 비욘드 더 피리어드 - 데이 1 (다음영화 영화관 ─ 현재상영)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=170937</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=170937</guid>
             <pubDate>Sun, 22 Oct 2023 11:08:36 GMT</pubDate>
             <content:encoded><![CDATA[23.10.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Ff9e47768be3f856b1200bfeb3845a51929e4a53d" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[1947 보스톤 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=123211</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=123211</guid>
+            <pubDate>Wed, 27 Sep 2023 00:44:02 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa77f64489aceb34ee1a29dc29822d76ca3902a91" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[화사한 그녀 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -160,13 +168,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F24f492fb9509257fe2b1fdde199df8b2755abaaf" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[아이돌 마스터 밀리언 라이브! (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=173771</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=173771</guid>
-            <pubDate>Wed, 25 Oct 2023 09:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.21]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[소년들 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=142054</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=142054</guid>
@@ -181,14 +182,6 @@
             <pubDate>Wed, 18 Oct 2023 06:14:51 GMT</pubDate>
             <content:encoded><![CDATA[23.11.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3024cd158a242c789367a861db53c9f4470a14d9" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[빌리와 용감한 녀석들: 황금 달걀 구조대 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=168329</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=168329</guid>
-            <pubDate>Thu, 19 Oct 2023 00:43:46 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.26]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fad9c89a6ef315814101ab46c3d2bd330da6e9919" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[마이 샤이니 월드 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -254,14 +247,6 @@
             <content:encoded><![CDATA[23.11.03]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[괴인 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=164398</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=164398</guid>
-            <pubDate>Tue, 24 Oct 2023 10:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.08]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbed3c28cdc72f6c3cd138174cfab160450652cc6" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
             <title><![CDATA[다이브:100 피트 추락 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=171776</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=171776</guid>
@@ -270,12 +255,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F3f181b1aa652e060a4483168b043d475b24a071c" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
+            <title><![CDATA[괴인 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=164398</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=164398</guid>
+            <pubDate>Tue, 24 Oct 2023 10:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.08]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbed3c28cdc72f6c3cd138174cfab160450652cc6" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
             <title><![CDATA[21세기 피아노의 거장: 다닐 트리포노프 (다음영화 영화관 ─ 개봉예정)]]></title>
             <link>https://movie.daum.net/moviedb/main?movieId=173969</link>
             <guid>https://movie.daum.net/moviedb/main?movieId=173969</guid>
             <pubDate>Wed, 25 Oct 2023 00:43:19 GMT</pubDate>
             <content:encoded><![CDATA[23.10.30]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F8a3a8ebe763bc76b3939118bf5014599a8dbdbd0" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[버텨내고 존재하기 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=162267</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=162267</guid>
+            <pubDate>Wed, 25 Oct 2023 00:43:19 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.01]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc067ba50c97ce6ba26f3a7a05185595c236c00d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[앵그리 애니 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -292,14 +293,6 @@
             <pubDate>Wed, 25 Oct 2023 00:43:19 GMT</pubDate>
             <content:encoded><![CDATA[23.11.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F739a1c48842aa27b2530e9b4e4607fb772fd478a" length="0" type="image//thumb/C408x596/"/>
-        </item>
-        <item>
-            <title><![CDATA[버텨내고 존재하기 (다음영화 영화관 ─ 개봉예정)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=162267</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=162267</guid>
-            <pubDate>Wed, 25 Oct 2023 00:43:19 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.01]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fbc067ba50c97ce6ba26f3a7a05185595c236c00d" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[붉은 장미의 추억 (다음영화 영화관 ─ 개봉예정)]]></title>
@@ -324,6 +317,14 @@
             <pubDate>Wed, 25 Oct 2023 00:43:19 GMT</pubDate>
             <content:encoded><![CDATA[23.11.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F12320498f0d0254198d3b7656430fdbf7b1ad9cf" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[페인 허슬러 (다음영화 영화관 ─ 개봉예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=173045</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=173045</guid>
+            <pubDate>Tue, 17 Oct 2023 04:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F95da0e16876d1e887836afdf068adcf3cda27dd7" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[온리 마인 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
