@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 04:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 05:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,12 +104,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7859f072a0aab0a15f5ea5b1572d16ec4114c42e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[1947 보스톤 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=123211</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=123211</guid>
-            <pubDate>Sat, 04 Nov 2023 03:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[23.09.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa77f64489aceb34ee1a29dc29822d76ca3902a91" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[마이 샤이니 월드 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=174119</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=174119</guid>
+            <pubDate>Tue, 24 Oct 2023 07:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.03]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4196e4cdc819ef9c288b040035a366cb0729fbad" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[다이브:100 피트 추락 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -136,12 +136,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F54d73561dce387c9a482cee6a47beacb6318d18e" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
-            <title><![CDATA[마이 샤이니 월드 (다음영화 영화관 ─ 현재상영)]]></title>
-            <link>https://movie.daum.net/moviedb/main?movieId=174119</link>
-            <guid>https://movie.daum.net/moviedb/main?movieId=174119</guid>
-            <pubDate>Tue, 24 Oct 2023 07:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.03]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4196e4cdc819ef9c288b040035a366cb0729fbad" length="0" type="image//thumb/C408x596/"/>
+            <title><![CDATA[1947 보스톤 (다음영화 영화관 ─ 현재상영)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=123211</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=123211</guid>
+            <pubDate>Sat, 04 Nov 2023 03:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[23.09.27]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fa77f64489aceb34ee1a29dc29822d76ca3902a91" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[너와 나 (다음영화 영화관 ─ 현재상영)]]></title>
@@ -358,6 +358,14 @@
             <pubDate>Wed, 18 Oct 2023 06:14:59 GMT</pubDate>
             <content:encoded><![CDATA[23.11.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2265923F51DE67721C" length="0" type="image//thumb/C408x596/"/>
+        </item>
+        <item>
+            <title><![CDATA[타깃 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
+            <link>https://movie.daum.net/moviedb/main?movieId=126553</link>
+            <guid>https://movie.daum.net/moviedb/main?movieId=126553</guid>
+            <pubDate>Mon, 13 Nov 2023 05:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7322ed5bd04d41fc895eb070d3ae9a1c1542928381008" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[나의 형제 ([다음영화] 넷플릭스 ─ 종료예정)]]></title>
