@@ -4,7 +4,7 @@
         <title>다음영화 영화관 ─ 개봉예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 00:52:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 02:00:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -108,7 +108,7 @@
             <guid>https://movie.daum.net/moviedb/main?movieId=163745</guid>
             <pubDate>Thu, 30 Nov 2023 13:14:19 GMT</pubDate>
             <content:encoded><![CDATA[23.12.06]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7b1105ac333f0cc4e906b042e15b2a4d611bd75f" length="0" type="image//thumb/C408x596/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/C408x596/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fefbc373aa6c2e701c984791c6887ee3f33d6aecd" length="0" type="image//thumb/C408x596/"/>
         </item>
         <item>
             <title><![CDATA[백남준: 달은 가장 오래된 TV]]></title>
